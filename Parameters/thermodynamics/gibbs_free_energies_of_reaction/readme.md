@@ -9,9 +9,7 @@ Estimates of the transformed Gibbs free energies of reactions ($\Delta_rG'^{\cir
  where $I$ is the ionic strength, $\phi$ is the potential, and $T$ is the temperature.
 
 The estimates are provided via a mean vector (`drg0_prime_mean.csv`) and a covariance matrix square root (`drg0_cov_sqrt.csv`). The estimates can thus be modelled by a multivariate normal random vector:
-$$
-\Delta_rG'^{\circ} \sim \mathcal{N}(\mu,~ QQ^{\top})
-$$
+$$\Delta_rG'^{\circ} \sim \mathcal{N}(\mu,~ QQ^{\top})$$
 where $\mu$ is the provided mean vector and $Q$ is the provided covariance matrix square root.root 
 
  **Note**
