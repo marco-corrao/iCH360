@@ -18409,7 +18409,7 @@
 "nadp_c":-1.0,
 "nadph_c":1.0
 },
-"lower_bound":0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b1602 and b1603",
 "notes":{
@@ -23830,7 +23830,7 @@
 "q8_c":-1.0,
 "q8h2_c":1.0
 },
-"lower_bound":0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b2288 and b2282 and b2280 and b2279 and b2278 and b2277 and b2276 and b2287 and b2286 and b2285 and b2284 and b2283 and b2281",
 "notes":{
@@ -23857,7 +23857,7 @@
 "nad_c":1.0,
 "nadh_c":-1.0
 },
-"lower_bound":0,
+"lower_bound":0.0,
 "upper_bound":1000.0,
 "gene_reaction_rule":"b2288 and b2282 and b2280 and b2279 and b2278 and b2277 and b2276 and b2287 and b2286 and b2285 and b2284 and b2283 and b2281",
 "notes":{
@@ -23994,11 +23994,11 @@
 "id":"SUCCt1pp",
 "name":"Succinate transport via diffusion in (periplasm)",
 "metabolites":{
-"succ_c":-1,
-"succ_p":1
+"succ_c":-1.0,
+"succ_p":1.0
 },
-"lower_bound":0,
-"upper_bound":1000,
+"lower_bound":0.0,
+"upper_bound":1000.0,
 "gene_reaction_rule":"b1206 or b0010 or b3528",
 "notes":{
 "original_bigg_ids":"[&apos;SUCCt1pp&apos;]"
@@ -31471,7 +31471,7 @@
 "name":"G_b0902"
 }
 ],
-"id":"",
+"id":"iCH360",
 "compartments":{
 "c":"cytosol",
 "e":"extracellular space",
