@@ -9,6 +9,7 @@ You can find more information about the model, the supporting knowledge graph, a
 
 https://arxiv.org/abs/2406.16596
 
+or in the [Docs](./Docs/) section of the repo.
 ### In this repo, you will find:
 - The stoichiometric model of *iCH360* in SBML and JSON formats, which can be opened, manipulated and optimised with the COBRA toolbox [3].
 - The *i*CH360 knowldge graph in GML and Cytoscape (.cyjs) formats.
@@ -19,6 +20,9 @@ https://arxiv.org/abs/2406.16596
 In addition to the main metabolic models, the repo contains the following two model variants, also in SBML/JSON formats:
 - EC-*i*CH360, a version of the model that includes enzyme capacity constraints, based on the sMOMENT format [5]
 - *i*CH360red, a minimally-reduced version of the model (18 less reactions), which is amenable to elementary flux modes (EFMs) enumeration and analysis.
+
+### Docs and Tutorials
+You can find more information about the model, its variants, and the knowledge graph in the [Docs](./Docs/) section. In addition, the [Examples](./Examples/) sections contains a number of short metabolic modelling tutorials that can help you getting started using the model.
 ### Citing us
 If you use *i*CH360 in your work, please cite the supporting manuscript
 
