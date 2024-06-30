@@ -10804,7 +10804,7 @@
 "atp_c":-1.0,
 "dgdp_c":-1.0,
 "dgtp_c":1.0,
-"enzyme_pool":-0.0016185116920253318
+"enzyme_pool":-0.00160054380374415
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -10828,7 +10828,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01353",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":10.615376580697697,
+"smoment_kcat_per_s":"10.734546015497557",
 "smoment_mw":"61.852"
 }
 },
@@ -10837,7 +10837,7 @@
 "name":"Shikimate dehydrogenase",
 "metabolites":{
 "3dhsk_c":-1.0,
-"enzyme_pool":-0.0001540352121096134,
+"enzyme_pool":-0.000153895485132258,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -10869,8 +10869,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01740",
 "smoment_enzyme":"AROE-MONOMER",
-"smoment_kcat_per_s":53.04342717262132,
-"smoment_mw":"29.414"
+"smoment_kcat_per_s":"53.0915889203088",
+"smoment_mw":"29.414001"
 }
 },
 {
@@ -10881,7 +10881,7 @@
 "atp_c":-1.0,
 "dudp_c":-1.0,
 "dutp_c":1.0,
-"enzyme_pool":-0.10919282301729141
+"enzyme_pool":-0.108613533492659
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -10905,7 +10905,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01678",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":0.1573465236665817,
+"smoment_kcat_per_s":"0.1581857302549909",
 "smoment_mw":"61.852"
 }
 },
@@ -10917,7 +10917,7 @@
 "atp_c":-1.0,
 "dadp_c":-1.0,
 "datp_c":1.0,
-"enzyme_pool":-0.0020531557272570806
+"enzyme_pool":-0.00203122919554069
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -10940,7 +10940,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00839",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":8.368148057655747,
+"smoment_kcat_per_s":"8.45847979579562",
 "smoment_mw":"61.852"
 }
 },
@@ -10950,7 +10950,7 @@
 "metabolites":{
 "cbasp_c":1.0,
 "dhor__S_c":-1.0,
-"enzyme_pool":-0.0038329785239892304,
+"enzyme_pool":-0.00378782273076514,
 "h2o_c":-1.0,
 "h_c":1.0
 },
@@ -10997,8 +10997,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01465",
 "smoment_enzyme":"DIHYDROOROT-CPLX",
-"smoment_kcat_per_s":5.627622336142305,
-"smoment_mw":"77.654"
+"smoment_kcat_per_s":"5.694711383144629",
+"smoment_mw":"77.654006"
 }
 },
 {
@@ -11006,7 +11006,7 @@
 "name":"Orotidine-5'-phosphate decarboxylase",
 "metabolites":{
 "co2_c":1.0,
-"enzyme_pool":-0.001019004425903732,
+"enzyme_pool":-0.001018077791077,
 "h_c":-1.0,
 "orot5p_c":-1.0,
 "ump_c":1.0
@@ -11055,7 +11055,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00710",
 "smoment_enzyme":"OROTPDECARB-CPLX",
-"smoment_kcat_per_s":14.3658737064915,
+"smoment_kcat_per_s":"14.37894924846836",
 "smoment_mw":"52.7"
 }
 },
@@ -11063,7 +11063,7 @@
 "id":"G5SD_fw",
 "name":"Glutamate-5-semialdehyde dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.002257062303220308,
+"enzyme_pool":-0.00225502850056442,
 "glu5p_c":-1.0,
 "glu5sa_c":1.0,
 "h_c":-1.0,
@@ -11093,7 +11093,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02373",
 "smoment_enzyme":"GLUTSEMIALDEHYDROG-CPLX",
-"smoment_kcat_per_s":21.97054499476464,
+"smoment_kcat_per_s":"21.99036015574841",
 "smoment_mw":"178.52"
 }
 },
@@ -11104,7 +11104,7 @@
 "accoa_c":-1.0,
 "cit_c":1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.0020195737106792613,
+"enzyme_pool":-0.00201858684593728,
 "h2o_c":-1.0,
 "h_c":1.0,
 "oaa_c":-1.0
@@ -11156,8 +11156,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00256",
 "smoment_enzyme":"CITRATE-SI-SYNTHASE",
-"smoment_kcat_per_s":39.62469880491981,
-"smoment_mw":"288.09"
+"smoment_kcat_per_s":"39.644073358083475",
+"smoment_mw":"288.090018"
 }
 },
 {
@@ -11166,7 +11166,7 @@
 "metabolites":{
 "akg_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.003149052262136019,
+"enzyme_pool":-0.00314748314882975,
 "icit_c":-1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -11194,8 +11194,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00198",
 "smoment_enzyme":"ISOCITHASE-CPLX",
-"smoment_kcat_per_s":8.072446386873445,
-"smoment_mw":"91.514"
+"smoment_kcat_per_s":"8.076471445837361",
+"smoment_mw":"91.514008"
 }
 },
 {
@@ -11205,7 +11205,7 @@
 "acald_c":-1.0,
 "accoa_c":1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0030632600463851695,
+"enzyme_pool":-0.00302717905197245,
 "h_c":1.0,
 "nad_c":-1.0,
 "nadh_c":1.0
@@ -11233,15 +11233,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00171",
 "smoment_enzyme":"ADHE-CPLX",
-"smoment_kcat_per_s":348.6735574533326,
-"smoment_mw":"3845.08"
+"smoment_kcat_per_s":"352.829439736295",
+"smoment_mw":"3845.0804"
 }
 },
 {
 "id":"PPA_fw",
 "name":"Inorganic diphosphatase",
 "metabolites":{
-"enzyme_pool":-0.0005967543511759581,
+"enzyme_pool":-0.00059622053630172,
 "h2o_c":-1.0,
 "h_c":1.0,
 "pi_c":2.0,
@@ -11322,7 +11322,7 @@
 "rxn11226"
 ],
 "smoment_enzyme":"CPLX0-243",
-"smoment_kcat_per_s":55.03101893649511,
+"smoment_kcat_per_s":"55.0802899271171",
 "smoment_mw":"118.224"
 }
 },
@@ -11333,7 +11333,7 @@
 "adp_c":1.0,
 "atp_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0010202545673027208,
+"enzyme_pool":-0.0010183357374514,
 "oaa_c":-1.0,
 "pep_c":1.0
 },
@@ -11359,7 +11359,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00247",
 "smoment_enzyme":"PEPCARBOXYKIN-MONOMER",
-"smoment_kcat_per_s":16.23859429887192,
+"smoment_kcat_per_s":"16.269192360334554",
 "smoment_mw":"59.643"
 }
 },
@@ -11368,7 +11368,7 @@
 "name":"Malic enzyme (NAD)",
 "metabolites":{
 "co2_c":1.0,
-"enzyme_pool":-8.473077279632824e-05,
+"enzyme_pool":-8.45846018140026e-05,
 "mal__L_c":-1.0,
 "nad_c":-1.0,
 "nadh_c":1.0,
@@ -11399,8 +11399,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00159",
 "smoment_enzyme":"MALIC-NAD-CPLX",
-"smoment_kcat_per_s":828.7294753899823,
-"smoment_mw":"252.788"
+"smoment_kcat_per_s":"830.1616323207265",
+"smoment_mw":"252.788008"
 }
 },
 {
@@ -11409,7 +11409,7 @@
 "metabolites":{
 "akg_c":-1.0,
 "ala__L_c":-1.0,
-"enzyme_pool":-0.0007258974577325331,
+"enzyme_pool":-0.000717335980081972,
 "glu__L_c":1.0,
 "pyr_c":1.0
 },
@@ -11501,8 +11501,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00191",
 "smoment_enzyme":"CPLX0-7888",
-"smoment_kcat_per_s":34.83580490998172,
-"smoment_mw":"91.034"
+"smoment_kcat_per_s":"35.25157532240846",
+"smoment_mw":"91.034004"
 }
 },
 {
@@ -11511,7 +11511,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0003736833715311953,
+"enzyme_pool":-0.00037180179445111,
 "h_c":1.0,
 "xu5p__D_c":1.0,
 "xylu__D_c":-1.0
@@ -11556,8 +11556,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01199",
 "smoment_enzyme":"CPLX0-7466",
-"smoment_kcat_per_s":78.2272491881055,
-"smoment_mw":"105.236"
+"smoment_kcat_per_s":"78.62313975003781",
+"smoment_mw":"105.236008"
 }
 },
 {
@@ -11566,7 +11566,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.005828286604718987,
+"enzyme_pool":-0.00575929081925352,
 "h_c":1.0,
 "r5p_c":1.0,
 "rib__D_c":-1.0
@@ -11585,7 +11585,7 @@
 "metanetx.reaction":"MNXR189840",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7647",
-"smoment_kcat_per_s":3.07790095194775,
+"smoment_kcat_per_s":"3.1147739282271547",
 "smoment_mw":"64.58"
 }
 },
@@ -11595,7 +11595,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0011515561655299727,
+"enzyme_pool":-0.00114689626609925,
 "glyc3p_c":1.0,
 "glyc_c":-1.0,
 "h_c":1.0
@@ -11641,8 +11641,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00615",
 "smoment_enzyme":"GLYCEROL-KIN-CPLX",
-"smoment_kcat_per_s":54.2560499948647,
-"smoment_mw":"224.924"
+"smoment_kcat_per_s":"54.476498066143016",
+"smoment_mw":"224.924012"
 }
 },
 {
@@ -11651,7 +11651,7 @@
 "metabolites":{
 "akg_c":-1.0,
 "asp__L_c":-1.0,
-"enzyme_pool":-0.006490286360769485,
+"enzyme_pool":-0.00641395410588736,
 "glu__L_c":1.0,
 "oaa_c":1.0
 },
@@ -11750,7 +11750,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00260",
 "smoment_enzyme":"ASPAMINOTRANS-DIMER",
-"smoment_kcat_per_s":3.729761812751853,
+"smoment_kcat_per_s":"3.7741495842638546",
 "smoment_mw":"87.146"
 }
 },
@@ -11758,7 +11758,7 @@
 "id":"FBP_fw",
 "name":"Fructose-bisphosphatase",
 "metabolites":{
-"enzyme_pool":-0.0004519096189925801,
+"enzyme_pool":-0.000451394458316521,
 "f6p_c":1.0,
 "fdp_c":-1.0,
 "h2o_c":-1.0,
@@ -11785,8 +11785,8 @@
 "sabiork.reaction":"2084",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"F16B-CPLX",
-"smoment_kcat_per_s":90.56383167479922,
-"smoment_mw":"147.336"
+"smoment_kcat_per_s":"90.66719638658462",
+"smoment_mw":"147.336012"
 }
 },
 {
@@ -11826,7 +11826,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.0005613977603860456,
+"enzyme_pool":-0.000560492143280226,
 "h_c":-1.0,
 "pep_c":-1.0,
 "pyr_c":1.0
@@ -11874,8 +11874,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00148",
 "smoment_enzyme":"PKI-COMPLEX",
-"smoment_kcat_per_s":100.40217388255297,
-"smoment_mw":"202.916"
+"smoment_kcat_per_s":"100.56440696942872",
+"smoment_mw":"202.916016"
 }
 },
 {
@@ -11966,7 +11966,7 @@
 "id":"GTHOr_fw",
 "name":"Glutathione oxidoreductase",
 "metabolites":{
-"enzyme_pool":-0.007440320781285915,
+"enzyme_pool":-0.00736035240515323,
 "gthox_c":-1.0,
 "gthrd_c":2.0,
 "h_c":-1.0,
@@ -12031,8 +12031,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00086",
 "smoment_enzyme":"GLUTATHIONE-REDUCT-NADPH-CPLX",
-"smoment_kcat_per_s":3.6417187312282273,
-"smoment_mw":"97.544"
+"smoment_kcat_per_s":"3.681285314987324",
+"smoment_mw":"97.544006"
 }
 },
 {
@@ -12041,7 +12041,7 @@
 "metabolites":{
 "3mop_c":1.0,
 "akg_c":-1.0,
-"enzyme_pool":-0.0025664178244715744,
+"enzyme_pool":-0.00253616114238298,
 "glu__L_c":1.0,
 "ile__L_c":-1.0
 },
@@ -12068,7 +12068,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01575",
 "smoment_enzyme":"BRANCHED-CHAINAMINOTRANSFER-CPLX",
-"smoment_kcat_per_s":22.14110765266106,
+"smoment_kcat_per_s":"22.40525350843519",
 "smoment_mw":"204.564"
 }
 },
@@ -12077,7 +12077,7 @@
 "name":"Dihydroorotic acid (menaquinone-8)",
 "metabolites":{
 "dhor__S_c":-1.0,
-"enzyme_pool":-45.20501081906339,
+"enzyme_pool":-3.84548983536295,
 "mql8_c":1.0,
 "mqn8_c":-1.0,
 "orot_c":1.0
@@ -12102,7 +12102,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08336",
 "smoment_enzyme":"DIHYDROOROTOX-MONOMER",
-"smoment_kcat_per_s":0.00022597666923839993,
+"smoment_kcat_per_s":"0.002656430835894701",
 "smoment_mw":"36.775"
 }
 },
@@ -12112,7 +12112,7 @@
 "metabolites":{
 "3mob_c":1.0,
 "akg_c":-1.0,
-"enzyme_pool":-0.005222883423088224,
+"enzyme_pool":-0.00516138365354094,
 "glu__L_c":1.0,
 "val__L_c":-1.0
 },
@@ -12141,7 +12141,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00903",
 "smoment_enzyme":"BRANCHED-CHAINAMINOTRANSFER-CPLX",
-"smoment_kcat_per_s":10.879686320805227,
+"smoment_kcat_per_s":"11.009321753160114",
 "smoment_mw":"204.564"
 }
 },
@@ -12151,7 +12151,7 @@
 "metabolites":{
 "2ippm_c":-1.0,
 "3c3hmp_c":1.0,
-"enzyme_pool":-0.00515883243245033,
+"enzyme_pool":-0.00509814615127729,
 "h2o_c":-1.0
 },
 "lower_bound":0.0,
@@ -12175,15 +12175,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02789",
 "smoment_enzyme":"3-ISOPROPYLMALISOM-CPLX",
-"smoment_kcat_per_s":3.896715053885121,
-"smoment_mw":"72.369"
+"smoment_kcat_per_s":"3.9431002549529484",
+"smoment_mw":"72.369005"
 }
 },
 {
 "id":"ORPT_fw",
 "name":"Orotate phosphoribosyltransferase",
 "metabolites":{
-"enzyme_pool":-0.0022010262254361125,
+"enzyme_pool":-0.00217507315850473,
 "orot5p_c":-1.0,
 "orot_c":1.0,
 "ppi_c":-1.0,
@@ -12233,8 +12233,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01362",
 "smoment_enzyme":"OROPRIBTRANS-CPLX",
-"smoment_kcat_per_s":5.948487858286907,
-"smoment_mw":"47.134"
+"smoment_kcat_per_s":"6.019465727917899",
+"smoment_mw":"47.134002"
 }
 },
 {
@@ -12244,7 +12244,7 @@
 "2ahbut_c":1.0,
 "2obut_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0018384230066263237,
+"enzyme_pool":-0.0018367729338884,
 "h_c":-1.0,
 "pyr_c":-1.0
 },
@@ -12270,8 +12270,8 @@
 "sabiork.reaction":"6688",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"ACETOLACTSYNIII-CPLX",
-"smoment_kcat_per_s":24.465715002050988,
-"smoment_mw":"161.922"
+"smoment_kcat_per_s":"24.487694183118748",
+"smoment_mw":"161.922002"
 }
 },
 {
@@ -12280,7 +12280,7 @@
 "metabolites":{
 "23dhmp_c":-1.0,
 "3mop_c":1.0,
-"enzyme_pool":-0.001416879669986262,
+"enzyme_pool":-0.00141454107585704,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -12304,8 +12304,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"DIHYDROXYACIDDEHYDRAT-CPLX",
-"smoment_kcat_per_s":25.694960156369287,
-"smoment_mw":"131.064"
+"smoment_kcat_per_s":"25.73744238737387",
+"smoment_mw":"131.06401"
 }
 },
 {
@@ -12314,7 +12314,7 @@
 "metabolites":{
 "alac__S_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0004958043346244003,
+"enzyme_pool":-0.000494531040571285,
 "h_c":-1.0,
 "pyr_c":-2.0
 },
@@ -12340,15 +12340,15 @@
 "sabiork.reaction":"749",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"ACETOLACTSYNIII-CPLX",
-"smoment_kcat_per_s":90.7179106600731,
-"smoment_mw":"161.922"
+"smoment_kcat_per_s":"90.9514877709792",
+"smoment_mw":"161.922002"
 }
 },
 {
 "id":"TRPS2_fw",
 "name":"Tryptophan synthase (indole)",
 "metabolites":{
-"enzyme_pool":-0.02944637944970266,
+"enzyme_pool":-0.029425054373395,
 "h2o_c":1.0,
 "indole_c":-1.0,
 "ser__L_c":-1.0,
@@ -12380,7 +12380,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00474",
 "smoment_enzyme":"CPLX0-2401",
-"smoment_kcat_per_s":0.8109467068857449,
+"smoment_kcat_per_s":"0.8115344203419833",
 "smoment_mw":"85.966"
 }
 },
@@ -12389,7 +12389,7 @@
 "name":"3-phosphoshikimate 1-carboxyvinyltransferase",
 "metabolites":{
 "3psme_c":1.0,
-"enzyme_pool":-0.0018318259251334957,
+"enzyme_pool":-0.00183033746935106,
 "pep_c":-1.0,
 "pi_c":1.0,
 "skm5p_c":-1.0
@@ -12417,7 +12417,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02476",
 "smoment_enzyme":"AROA-MONOMER",
-"smoment_kcat_per_s":6.9899897521710805,
+"smoment_kcat_per_s":"6.995674108657242",
 "smoment_mw":"46.096"
 }
 },
@@ -12427,7 +12427,7 @@
 "metabolites":{
 "accoa_c":1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.002742912407297343,
+"enzyme_pool":-0.0034894234692682,
 "for_c":1.0,
 "pyr_c":-1.0
 },
@@ -12454,8 +12454,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00157",
 "smoment_enzyme":"PYRUVFORMLY-CPLX",
-"smoment_kcat_per_s":20.144646199053827,
-"smoment_mw":"198.918"
+"smoment_kcat_per_s":"13.589796702290341",
+"smoment_mw":"170.714"
 }
 },
 {
@@ -12464,7 +12464,7 @@
 "metabolites":{
 "anth_c":1.0,
 "chor_c":-1.0,
-"enzyme_pool":-0.020355459236104163,
+"enzyme_pool":-0.0203501806168238,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h_c":1.0,
@@ -12492,15 +12492,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00727",
 "smoment_enzyme":"ANTHRANSYN-CPLX",
-"smoment_kcat_per_s":3.1213302718524814,
-"smoment_mw":"228.73"
+"smoment_kcat_per_s":"3.1221400753523665",
+"smoment_mw":"228.730012"
 }
 },
 {
 "id":"FRD2_fw",
 "name":"Fumarate reductase",
 "metabolites":{
-"enzyme_pool":-0.0020129902406946453,
+"enzyme_pool":-0.00198908805314642,
 "fum_c":-1.0,
 "mql8_c":-1.0,
 "mqn8_c":1.0,
@@ -12526,8 +12526,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08527",
 "smoment_enzyme":"FUMARATE-REDUCTASE",
-"smoment_kcat_per_s":16.727050240079414,
-"smoment_mw":"121.217"
+"smoment_kcat_per_s":"16.928053593908952",
+"smoment_mw":"121.217001"
 }
 },
 {
@@ -12535,7 +12535,7 @@
 "name":"Anthranilate phosphoribosyltransferase",
 "metabolites":{
 "anth_c":-1.0,
-"enzyme_pool":-0.0003466049158311099,
+"enzyme_pool":-0.000345815145194629,
 "ppi_c":1.0,
 "pran_c":1.0,
 "prpp_c":-1.0
@@ -12562,8 +12562,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00791",
 "smoment_enzyme":"ANTHRANSYNCOMPII-MONOMER",
-"smoment_kcat_per_s":45.5770287745132,
-"smoment_mw":"56.87"
+"smoment_kcat_per_s":"45.68111974004114",
+"smoment_mw":"56.870003"
 }
 },
 {
@@ -12571,7 +12571,7 @@
 "name":"Chorismate mutase",
 "metabolites":{
 "chor_c":-1.0,
-"enzyme_pool":-0.0012788409752306675,
+"enzyme_pool":-0.0012794650732889,
 "pphn_c":1.0
 },
 "lower_bound":0.0,
@@ -12597,8 +12597,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01256",
 "smoment_enzyme":"CHORISMUTPREPHENDEHYDROG-CPLX",
-"smoment_kcat_per_s":18.26393360789348,
-"smoment_mw":"84.084"
+"smoment_kcat_per_s":"18.25502655484754",
+"smoment_mw":"84.084008"
 }
 },
 {
@@ -12608,7 +12608,7 @@
 "accoa_c":-1.0,
 "actp_c":1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.00021179773497494866,
+"enzyme_pool":-0.000211465137345155,
 "pi_c":-1.0
 },
 "lower_bound":0.0,
@@ -12634,8 +12634,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00173",
 "smoment_enzyme":"PHOSACETYLTRANS-CPLX",
-"smoment_kcat_per_s":607.2775047155868,
-"smoment_mw":"463.032"
+"smoment_kcat_per_s":"608.2326852931737",
+"smoment_mw":"463.03203"
 }
 },
 {
@@ -12644,7 +12644,7 @@
 "metabolites":{
 "3psme_c":-1.0,
 "chor_c":1.0,
-"enzyme_pool":-0.0008839874541110766,
+"enzyme_pool":-0.000883219042089717,
 "pi_c":1.0
 },
 "lower_bound":0.0,
@@ -12669,7 +12669,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01255",
 "smoment_enzyme":"AROC-CPLX",
-"smoment_kcat_per_s":49.19250307605771,
+"smoment_kcat_per_s":"49.235301191726705",
 "smoment_mw":"156.548"
 }
 },
@@ -12680,7 +12680,7 @@
 "2cpr5p_c":-1.0,
 "3ig3p_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.003528582109079984,
+"enzyme_pool":-0.00352278473892222,
 "h2o_c":1.0,
 "h_c":-1.0
 },
@@ -12706,7 +12706,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02507",
 "smoment_enzyme":"PRAI-IGPS",
-"smoment_kcat_per_s":3.8961195609990407,
+"smoment_kcat_per_s":"3.9025313201464136",
 "smoment_mw":"49.492"
 }
 },
@@ -12718,7 +12718,7 @@
 "actp_c":1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00031800441423768385
+"enzyme_pool":-0.000317237283496526
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -12745,7 +12745,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00225",
 "smoment_enzyme":"ACETATEKINA-MONOMER",
-"smoment_kcat_per_s":37.813940504021545,
+"smoment_kcat_per_s":"37.90538069000858",
 "smoment_mw":"43.29"
 }
 },
@@ -12755,7 +12755,7 @@
 "metabolites":{
 "4mop_c":-1.0,
 "akg_c":1.0,
-"enzyme_pool":-0.0013354916833414054,
+"enzyme_pool":-0.00133573801482621,
 "glu__L_c":-1.0,
 "leu__L_c":1.0
 },
@@ -12786,8 +12786,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00806",
 "smoment_enzyme":"TYRB-DIMER",
-"smoment_kcat_per_s":18.111515091774933,
-"smoment_mw":"87.076"
+"smoment_kcat_per_s":"18.108175870128157",
+"smoment_mw":"87.076004"
 }
 },
 {
@@ -13194,7 +13194,7 @@
 "name":"Enolase",
 "metabolites":{
 "2pg_c":-1.0,
-"enzyme_pool":-0.0007602907706952035,
+"enzyme_pool":-0.000759541791313204,
 "h2o_c":1.0,
 "pep_c":1.0
 },
@@ -13260,8 +13260,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00459",
 "smoment_enzyme":"ENOLASE-CPLX",
-"smoment_kcat_per_s":33.36077441226383,
-"smoment_mw":"91.31"
+"smoment_kcat_per_s":"33.39367345633852",
+"smoment_mw":"91.310006"
 }
 },
 {
@@ -13269,7 +13269,7 @@
 "name":"Fructose-bisphosphate aldolase",
 "metabolites":{
 "dhap_c":1.0,
-"enzyme_pool":-0.0006917327040631346,
+"enzyme_pool":-0.000690333053272839,
 "fdp_c":-1.0,
 "g3p_c":1.0
 },
@@ -13296,8 +13296,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00786",
 "smoment_enzyme":"FRUCBISALD-CLASSII",
-"smoment_kcat_per_s":31.440371700783945,
-"smoment_mw":"78.294"
+"smoment_kcat_per_s":"31.50411949260156",
+"smoment_mw":"78.294006"
 }
 },
 {
@@ -13305,7 +13305,7 @@
 "name":"HCO3 equilibration reaction",
 "metabolites":{
 "co2_c":-1.0,
-"enzyme_pool":-0.0002451344026745425,
+"enzyme_pool":-0.0002449388464923,
 "h2o_c":-1.0,
 "h_c":1.0,
 "hco3_c":1.0
@@ -13494,15 +13494,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00102",
 "smoment_enzyme":"CPLX0-7521",
-"smoment_kcat_per_s":113.75618946712412,
-"smoment_mw":"100.388"
+"smoment_kcat_per_s":"113.84702009141871",
+"smoment_mw":"100.388008"
 }
 },
 {
 "id":"IMPC_fw",
 "name":"IMP cyclohydrolase",
 "metabolites":{
-"enzyme_pool":-0.006991513052496511,
+"enzyme_pool":-0.00690931974877411,
 "fprica_c":1.0,
 "h2o_c":-1.0,
 "imp_c":-1.0
@@ -13552,15 +13552,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00832",
 "smoment_enzyme":"AICARTRANSIMPCYCLO-CPLX",
-"smoment_kcat_per_s":2.277721875458112,
-"smoment_mw":"57.329"
+"smoment_kcat_per_s":"2.304817747160019",
+"smoment_mw":"57.329002"
 }
 },
 {
 "id":"IMPD_fw",
 "name":"IMP dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.017766150846967425,
+"enzyme_pool":-0.0177439016479521,
 "h2o_c":-1.0,
 "h_c":1.0,
 "imp_c":-1.0,
@@ -13611,8 +13611,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00834",
 "smoment_enzyme":"IMP-DEHYDROG-CPLX",
-"smoment_kcat_per_s":3.2535028391976484,
-"smoment_mw":"208.088"
+"smoment_kcat_per_s":"3.257582616404245",
+"smoment_mw":"208.088012"
 }
 },
 {
@@ -13621,7 +13621,7 @@
 "metabolites":{
 "amp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0014492969349453372,
+"enzyme_pool":-0.00144644835648418,
 "h2o_c":-1.0,
 "h_c":2.0,
 "pep_c":1.0,
@@ -13650,15 +13650,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00147",
 "smoment_enzyme":"PEPSYNTH-CPLX",
-"smoment_kcat_per_s":33.516251106838986,
-"smoment_mw":"174.87"
+"smoment_kcat_per_s":"33.58225861298424",
+"smoment_mw":"174.87001"
 }
 },
 {
 "id":"PGI_fw",
 "name":"Glucose-6-phosphate isomerase",
 "metabolites":{
-"enzyme_pool":-0.0002534792673326638,
+"enzyme_pool":-0.000252536807955326,
 "f6p_c":1.0,
 "g6p_c":-1.0
 },
@@ -13676,8 +13676,8 @@
 "metanetx.reaction":"MNXR191975",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7877",
-"smoment_kcat_per_s":134.85652571526273,
-"smoment_mw":"123.06"
+"smoment_kcat_per_s":"135.35981260223693",
+"smoment_mw":"123.060006"
 }
 },
 {
@@ -13688,7 +13688,7 @@
 "3pg_c":-1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00414147419707484
+"enzyme_pool":-0.00414214093077896
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -13753,8 +13753,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01100",
 "smoment_enzyme":"PGK",
-"smoment_kcat_per_s":2.75787464153076,
-"smoment_mw":"41.118"
+"smoment_kcat_per_s":"2.7574309924867384",
+"smoment_mw":"41.118004"
 }
 },
 {
@@ -13763,7 +13763,7 @@
 "metabolites":{
 "6pgc_c":1.0,
 "6pgl_c":-1.0,
-"enzyme_pool":-0.00027509100216854896,
+"enzyme_pool":-0.000274840928874094,
 "h2o_c":-1.0,
 "h_c":1.0
 },
@@ -13808,15 +13808,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01476",
 "smoment_enzyme":"6PGLUCONOLACT-MONOMER",
-"smoment_kcat_per_s":36.6626151929757,
-"smoment_mw":"36.308"
+"smoment_kcat_per_s":"36.69597593206846",
+"smoment_mw":"36.308002"
 }
 },
 {
 "id":"RPE_fw",
 "name":"Ribulose 5-phosphate 3-epimerase",
 "metabolites":{
-"enzyme_pool":-6.974390912715842e-05,
+"enzyme_pool":-6.96500347581527e-05,
 "ru5p__D_c":-1.0,
 "xu5p__D_c":1.0
 },
@@ -13880,7 +13880,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01116",
 "smoment_enzyme":"RIBULP3EPIM-MONOMER",
-"smoment_kcat_per_s":97.7942825533365,
+"smoment_kcat_per_s":"97.92608976059694",
 "smoment_mw":"24.554"
 }
 },
@@ -13890,7 +13890,7 @@
 "metabolites":{
 "3dhq_c":-1.0,
 "3dhsk_c":1.0,
-"enzyme_pool":-0.0005522504167460266,
+"enzyme_pool":-0.000551763520986429,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -13916,8 +13916,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02213",
 "smoment_enzyme":"AROD-CPLX",
-"smoment_kcat_per_s":27.631386019328403,
-"smoment_mw":"54.934"
+"smoment_kcat_per_s":"27.65576994419556",
+"smoment_mw":"54.934002"
 }
 },
 {
@@ -13926,7 +13926,7 @@
 "metabolites":{
 "3c2hmp_c":-1.0,
 "3c4mop_c":1.0,
-"enzyme_pool":-0.00511786696472652,
+"enzyme_pool":-0.00511344953788312,
 "h_c":1.0,
 "nad_c":-1.0,
 "nadh_c":1.0
@@ -13952,8 +13952,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03062",
 "smoment_enzyme":"3-ISOPROPYLMALDEHYDROG-CPLX",
-"smoment_kcat_per_s":4.289656030568983,
-"smoment_mw":"79.034"
+"smoment_kcat_per_s":"4.293362012737989",
+"smoment_mw":"79.034004"
 }
 },
 {
@@ -13962,7 +13962,7 @@
 "metabolites":{
 "5aizc_c":-1.0,
 "5caiz_c":1.0,
-"enzyme_pool":-0.00123410958145686
+"enzyme_pool":-0.00121955495284681
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -13985,7 +13985,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05115",
 "smoment_enzyme":"PURE-CPLX",
-"smoment_kcat_per_s":32.01588554597271,
+"smoment_kcat_per_s":"32.3979751948695",
 "smoment_mw":"142.24"
 }
 },
@@ -13994,7 +13994,7 @@
 "name":"Transaldolase",
 "metabolites":{
 "e4p_c":1.0,
-"enzyme_pool":-0.0047563910764126,
+"enzyme_pool":-0.0047545084288041,
 "f6p_c":1.0,
 "g3p_c":-1.0,
 "s7p_c":-1.0
@@ -14020,7 +14020,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"TRANSALDOLB-CPLX",
-"smoment_kcat_per_s":4.113646417373318,
+"smoment_kcat_per_s":"4.115275302189877",
 "smoment_mw":"70.438"
 }
 },
@@ -14030,7 +14030,7 @@
 "metabolites":{
 "25aics_c":-1.0,
 "aicar_c":1.0,
-"enzyme_pool":-0.0011922786815614127,
+"enzyme_pool":-0.00118921865510549,
 "fum_c":1.0
 },
 "lower_bound":0.0,
@@ -14075,15 +14075,15 @@
 "sabiork.reaction":"121",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7959",
-"smoment_kcat_per_s":48.034071971327194,
-"smoment_mw":"206.172"
+"smoment_kcat_per_s":"48.157673181012406",
+"smoment_mw":"206.172012"
 }
 },
 {
 "id":"TKT1_fw",
 "name":"Transketolase",
 "metabolites":{
-"enzyme_pool":-0.002274439632220829,
+"enzyme_pool":-0.00227208560021879,
 "g3p_c":1.0,
 "r5p_c":-1.0,
 "s7p_c":1.0,
@@ -14102,8 +14102,8 @@
 "metanetx.reaction":"MNXR104868",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"TRANSKETOI-CPLX",
-"smoment_kcat_per_s":17.63853267831321,
-"smoment_mw":"144.424"
+"smoment_kcat_per_s":"17.656808839969738",
+"smoment_mw":"144.424012"
 }
 },
 {
@@ -14112,7 +14112,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "dadp_c":1.0,
-"enzyme_pool":-0.005494638545573293,
+"enzyme_pool":-0.00545044173990781,
 "h2o_c":1.0,
 "trdox_c":1.0,
 "trdrd_c":-1.0
@@ -14133,8 +14133,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05231",
 "smoment_enzyme":"RIBONUCLEOSIDE-DIP-REDUCTI-CPLX",
-"smoment_kcat_per_s":13.072541222344316,
-"smoment_mw":"258.584"
+"smoment_kcat_per_s":"13.178544680896804",
+"smoment_mw":"258.584004"
 }
 },
 {
@@ -14142,7 +14142,7 @@
 "name":"Alcohol dehydrogenase (ethanol)",
 "metabolites":{
 "acald_c":1.0,
-"enzyme_pool":-0.017937339420071037,
+"enzyme_pool":-0.0177526860512472,
 "etoh_c":-1.0,
 "h_c":1.0,
 "nad_c":-1.0,
@@ -14192,8 +14192,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00543",
 "smoment_enzyme":"ADHE-CPLX",
-"smoment_kcat_per_s":59.54493878744631,
-"smoment_mw":"3845.08"
+"smoment_kcat_per_s":"60.16429771842049",
+"smoment_mw":"3845.0804"
 }
 },
 {
@@ -14202,7 +14202,7 @@
 "metabolites":{
 "cdp_c":-1.0,
 "dcdp_c":1.0,
-"enzyme_pool":-0.006289131184337897,
+"enzyme_pool":-0.00641236943045598,
 "h2o_c":1.0,
 "trdox_c":1.0,
 "trdrd_c":-1.0
@@ -14223,8 +14223,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn06076",
 "smoment_enzyme":"RIBONUCLEOSIDE-DIP-REDUCTI-CPLX",
-"smoment_kcat_per_s":11.421114742807013,
-"smoment_mw":"258.584"
+"smoment_kcat_per_s":"11.201614438937938",
+"smoment_mw":"258.584004"
 }
 },
 {
@@ -14232,7 +14232,7 @@
 "name":"Ribonucleoside-diphosphate reductase (UDP)",
 "metabolites":{
 "dudp_c":1.0,
-"enzyme_pool":-0.00549473336886032,
+"enzyme_pool":-0.0054416559781627,
 "h2o_c":1.0,
 "trdox_c":1.0,
 "trdrd_c":-1.0,
@@ -14254,8 +14254,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn06075",
 "smoment_enzyme":"RIBONUCLEOSIDE-DIP-REDUCTI-CPLX",
-"smoment_kcat_per_s":13.072315627898638,
-"smoment_mw":"258.584"
+"smoment_kcat_per_s":"13.199821945424059",
+"smoment_mw":"258.584004"
 }
 },
 {
@@ -14265,7 +14265,7 @@
 "dhf_c":1.0,
 "dtmp_c":1.0,
 "dump_c":-1.0,
-"enzyme_pool":-0.004710026399956296,
+"enzyme_pool":-0.00470519543883249,
 "mlthf_c":-1.0
 },
 "lower_bound":0.0,
@@ -14289,8 +14289,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"THYMIDYLATESYN-CPLX",
-"smoment_kcat_per_s":3.5951673930087646,
-"smoment_mw":"60.96"
+"smoment_kcat_per_s":"3.5988587740981495",
+"smoment_mw":"60.960002"
 }
 },
 {
@@ -14326,7 +14326,7 @@
 "metabolites":{
 "23dhmb_c":-1.0,
 "3mob_c":1.0,
-"enzyme_pool":-0.0004708396533987129,
+"enzyme_pool":-0.0004700397016809,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -14349,8 +14349,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"DIHYDROXYACIDDEHYDRAT-CPLX",
-"smoment_kcat_per_s":77.32285588919386,
-"smoment_mw":"131.064"
+"smoment_kcat_per_s":"77.45445611136941",
+"smoment_mw":"131.06401"
 }
 },
 {
@@ -14359,7 +14359,7 @@
 "metabolites":{
 "2ippm_c":1.0,
 "3c2hmp_c":-1.0,
-"enzyme_pool":-0.0056582970279658055,
+"enzyme_pool":-0.00559169076291722,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -14384,15 +14384,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02811",
 "smoment_enzyme":"3-ISOPROPYLMALISOM-CPLX",
-"smoment_kcat_per_s":3.552747390362252,
-"smoment_mw":"72.369"
+"smoment_kcat_per_s":"3.5950667233252505",
+"smoment_mw":"72.369005"
 }
 },
 {
 "id":"MDH_fw",
 "name":"Malate dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.002370602562002835,
+"enzyme_pool":-0.00236811413346649,
 "h_c":1.0,
 "mal__L_c":-1.0,
 "nad_c":-1.0,
@@ -14474,7 +14474,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00248",
 "smoment_enzyme":"MALATE-DEHASE",
-"smoment_kcat_per_s":7.578242041897581,
+"smoment_kcat_per_s":"7.58620530409254",
 "smoment_mw":"64.674"
 }
 },
@@ -14482,7 +14482,7 @@
 "id":"FUM_fw",
 "name":"Fumarase",
 "metabolites":{
-"enzyme_pool":-0.0002866066027638631,
+"enzyme_pool":-0.000286427523176266,
 "fum_c":-1.0,
 "h2o_c":-1.0,
 "mal__L_c":1.0
@@ -14547,8 +14547,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00799",
 "smoment_enzyme":"FUMARASE-A",
-"smoment_kcat_per_s":116.88301707426064,
-"smoment_mw":"120.598"
+"smoment_kcat_per_s":"116.9561021761562",
+"smoment_mw":"120.598008"
 }
 },
 {
@@ -14619,7 +14619,7 @@
 "metabolites":{
 "23dhmb_c":-1.0,
 "alac__S_c":1.0,
-"enzyme_pool":-0.004397244735446226,
+"enzyme_pool":-0.00434568830610087,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -14648,8 +14648,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7643",
-"smoment_kcat_per_s":13.662343190131802,
-"smoment_mw":"216.276"
+"smoment_kcat_per_s":"13.824431684796641",
+"smoment_mw":"216.276016"
 }
 },
 {
@@ -14658,7 +14658,7 @@
 "metabolites":{
 "23dhmp_c":1.0,
 "2ahbut_c":-1.0,
-"enzyme_pool":-0.027565896862116676,
+"enzyme_pool":-0.0276029443313752,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -14683,8 +14683,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7643",
-"smoment_kcat_per_s":2.179383713403824,
-"smoment_mw":"216.276"
+"smoment_kcat_per_s":"2.1764588005499217",
+"smoment_mw":"216.276016"
 }
 },
 {
@@ -14726,7 +14726,7 @@
 "accoa_c":-1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0013600077282114567,
+"enzyme_pool":-0.0013595968303346,
 "h_c":1.0,
 "hco3_c":-1.0,
 "malcoa_c":1.0,
@@ -14808,8 +14808,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00533",
 "smoment_enzyme":"ACETYL-COA-CARBOXYLMULTI-CPLX",
-"smoment_kcat_per_s":54.97190984388145,
-"smoment_mw":"269.144"
+"smoment_kcat_per_s":"54.988525518701806",
+"smoment_mw":"269.14401"
 }
 },
 {
@@ -14820,7 +14820,7 @@
 "acACP_c":-1.0,
 "actACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.008433666346184705,
+"enzyme_pool":-0.00833609626971393,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -14847,8 +14847,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05347",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":2.807069655962698,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"2.839925282720848",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -14860,7 +14860,7 @@
 "asp__L_c":-1.0,
 "atp_c":-1.0,
 "citr__L_c":-1.0,
-"enzyme_pool":-0.009437273387855527,
+"enzyme_pool":-0.00942963446736625,
 "h_c":1.0,
 "ppi_c":1.0
 },
@@ -14897,8 +14897,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01434",
 "smoment_enzyme":"CPLX0-238",
-"smoment_kcat_per_s":5.874813618684476,
-"smoment_mw":"199.592"
+"smoment_kcat_per_s":"5.879573142249369",
+"smoment_mw":"199.592012"
 }
 },
 {
@@ -14907,7 +14907,7 @@
 "metabolites":{
 "acg5p_c":1.0,
 "acg5sa_c":-1.0,
-"enzyme_pool":-0.005234901362884855,
+"enzyme_pool":-0.00517326447648909,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0,
@@ -14934,15 +14934,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02465",
 "smoment_enzyme":"N-ACETYLGLUTPREDUCT-MONOMER",
-"smoment_kcat_per_s":1.907708660467139,
-"smoment_mw":"35.952"
+"smoment_kcat_per_s":"1.930438226266288",
+"smoment_mw":"35.952003"
 }
 },
 {
 "id":"ICL_fw",
 "name":"Isocitrate lyase",
 "metabolites":{
-"enzyme_pool":-0.00690748660873669,
+"enzyme_pool":-0.00690386685894643,
 "glx_c":1.0,
 "icit_c":-1.0,
 "succ_c":1.0
@@ -14970,8 +14970,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00336",
 "smoment_enzyme":"ISOCIT-LYASE",
-"smoment_kcat_per_s":7.644201894714815,
-"smoment_mw":"190.088"
+"smoment_kcat_per_s":"7.648210290604226",
+"smoment_mw":"190.088012"
 }
 },
 {
@@ -15004,7 +15004,7 @@
 "name":"Glycine Cleavage System",
 "metabolites":{
 "co2_c":1.0,
-"enzyme_pool":-0.11195503404304435,
+"enzyme_pool":-0.111328699938523,
 "gly_c":-1.0,
 "mlthf_c":1.0,
 "nad_c":-1.0,
@@ -15037,15 +15037,15 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"GCVMULTI-CPLX",
-"smoment_kcat_per_s":0.9033537514812932,
-"smoment_mw":"364.086"
+"smoment_kcat_per_s":"0.9084360901073752",
+"smoment_mw":"364.086032"
 }
 },
 {
 "id":"XYLI1_fw",
 "name":"Xylose isomerase",
 "metabolites":{
-"enzyme_pool":-0.004140796881015085,
+"enzyme_pool":-0.00413790310537581,
 "xyl__D_c":-1.0,
 "xylu__D_c":1.0
 },
@@ -15071,7 +15071,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01044",
 "smoment_enzyme":"XYLISOM-CPLX",
-"smoment_kcat_per_s":6.6737020043518935,
+"smoment_kcat_per_s":"6.678369149954914",
 "smoment_mw":"99.484"
 }
 },
@@ -15080,7 +15080,7 @@
 "name":"Phosphoenolpyruvate carboxylase",
 "metabolites":{
 "co2_c":-1.0,
-"enzyme_pool":-0.001409371209420524,
+"enzyme_pool":-0.00140809547215078,
 "h2o_c":-1.0,
 "h_c":1.0,
 "oaa_c":1.0,
@@ -15109,15 +15109,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00251",
 "smoment_enzyme":"PEPCARBOX-CPLX",
-"smoment_kcat_per_s":78.09786956989473,
-"smoment_mw":"396.248"
+"smoment_kcat_per_s":"78.16862954982028",
+"smoment_mw":"396.248016"
 }
 },
 {
 "id":"G3PT_fw",
 "name":"Glycerol-3-phosphatase",
 "metabolites":{
-"enzyme_pool":-0.0017446631282032957,
+"enzyme_pool":-0.00172411904803623,
 "glyc3p_c":-1.0,
 "glyc_c":1.0,
 "h2o_c":-1.0,
@@ -15142,8 +15142,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00610",
 "smoment_enzyme":"G7187-MONOMER",
-"smoment_kcat_per_s":3.6630758282344154,
-"smoment_mw":"23.007"
+"smoment_kcat_per_s":"3.70672425211475",
+"smoment_mw":"23.007002"
 }
 },
 {
@@ -15152,7 +15152,7 @@
 "metabolites":{
 "aps_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.004353924005134989,
+"enzyme_pool":-0.00435004811762894,
 "gdp_c":1.0,
 "gtp_c":-1.0,
 "h2o_c":-1.0,
@@ -15178,15 +15178,15 @@
 "rxn09240"
 ],
 "smoment_enzyme":"SULFATE-ADENYLYLTRANS-CPLX",
-"smoment_kcat_per_s":22.392571721640053,
-"smoment_mw":"350.984"
+"smoment_kcat_per_s":"22.412525007967872",
+"smoment_mw":"350.984024"
 }
 },
 {
 "id":"GHMT2r_fw",
 "name":"Glycine hydroxymethyltransferase, reversible",
 "metabolites":{
-"enzyme_pool":-0.008187647795664856,
+"enzyme_pool":-0.00817943676127565,
 "gly_c":1.0,
 "h2o_c":1.0,
 "mlthf_c":1.0,
@@ -15214,7 +15214,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"GLYOHMETRANS-CPLX",
-"smoment_kcat_per_s":3.0748893625396536,
+"smoment_kcat_per_s":"3.077976130374126",
 "smoment_mw":"90.634"
 }
 },
@@ -15223,7 +15223,7 @@
 "name":"Dihydoorotic acid dehydrogenase (quinone8)",
 "metabolites":{
 "dhor__S_c":-1.0,
-"enzyme_pool":-0.0012761537475497263,
+"enzyme_pool":-0.00127503171782712,
 "orot_c":1.0,
 "q8_c":-1.0,
 "q8h2_c":1.0
@@ -15248,7 +15248,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08335",
 "smoment_enzyme":"DIHYDROOROTOX-MONOMER",
-"smoment_kcat_per_s":8.004739082098517,
+"smoment_kcat_per_s":"8.011783263859826",
 "smoment_mw":"36.775"
 }
 },
@@ -15257,7 +15257,7 @@
 "name":"Succinyl-diaminopimelate desuccinylase",
 "metabolites":{
 "26dap_LL_c":1.0,
-"enzyme_pool":-9.849191283551877e-05,
+"enzyme_pool":-9.84017803569312e-05,
 "h2o_c":-1.0,
 "sl26da_c":-1.0,
 "succ_c":1.0
@@ -15284,7 +15284,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01973",
 "smoment_enzyme":"CPLX0-3161",
-"smoment_kcat_per_s":232.7827895931986,
+"smoment_kcat_per_s":"232.99601022520815",
 "smoment_mw":"82.538"
 }
 },
@@ -15314,7 +15314,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0005474061157146007,
+"enzyme_pool":-0.00054690542605912,
 "udp_c":1.0,
 "ump_c":-1.0
 },
@@ -15345,8 +15345,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00119",
 "smoment_enzyme":"UMPKI-CPLX",
-"smoment_kcat_per_s":79.06987534625904,
-"smoment_mw":"155.82"
+"smoment_kcat_per_s":"79.14226653754413",
+"smoment_mw":"155.820006"
 }
 },
 {
@@ -15356,7 +15356,7 @@
 "adp_c":1.0,
 "atp_c":-1.0,
 "ctp_c":1.0,
-"enzyme_pool":-0.0036079335721628056,
+"enzyme_pool":-0.00360481222024142,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h2o_c":-1.0,
@@ -15425,8 +15425,8 @@
 "rxn11276"
 ],
 "smoment_enzyme":"CTPSYN-CPLX",
-"smoment_kcat_per_s":18.592975973781368,
-"smoment_mw":"241.496"
+"smoment_kcat_per_s":"18.609076581019245",
+"smoment_mw":"241.496016"
 }
 },
 {
@@ -15437,7 +15437,7 @@
 "atp_c":-1.0,
 "dcdp_c":-1.0,
 "dctp_c":1.0,
-"enzyme_pool":-0.0016258535399373568
+"enzyme_pool":-0.00160826433151581
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -15461,7 +15461,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01673",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":10.567440848191707,
+"smoment_kcat_per_s":"10.683014461259429",
 "smoment_mw":"61.852"
 }
 },
@@ -15470,7 +15470,7 @@
 "name":"Tryptophan synthase (indoleglycerol phosphate)",
 "metabolites":{
 "3ig3p_c":-1.0,
-"enzyme_pool":-0.017846841120564397,
+"enzyme_pool":-0.0178341632567924,
 "g3p_c":1.0,
 "indole_c":1.0
 },
@@ -15499,7 +15499,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01682",
 "smoment_enzyme":"TRYPSYN-APROTEIN",
-"smoment_kcat_per_s":0.4470756945157676,
+"smoment_kcat_per_s":"0.4473935095244797",
 "smoment_mw":"28.724"
 }
 },
@@ -15510,7 +15510,7 @@
 "adp_c":2.0,
 "amp_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.000532434387395023
+"enzyme_pool":-0.000532090518714302
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -15572,7 +15572,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00097",
 "smoment_enzyme":"ADENYL-KIN-MONOMER",
-"smoment_kcat_per_s":12.305115563104797,
+"smoment_kcat_per_s":"12.31306786389947",
 "smoment_mw":"23.586"
 }
 },
@@ -15582,7 +15582,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00042891316364485933,
+"enzyme_pool":-0.000425384696524646,
 "udp_c":-1.0,
 "utp_c":1.0
 },
@@ -15609,7 +15609,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00117",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":40.05731828118265,
+"smoment_kcat_per_s":"40.389584419654035",
 "smoment_mw":"61.852"
 }
 },
@@ -15621,7 +15621,7 @@
 "atp_c":-1.0,
 "dtdp_c":-1.0,
 "dttp_c":1.0,
-"enzyme_pool":-0.0012860844297061917
+"enzyme_pool":-0.0012716215599919
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -15645,7 +15645,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01512",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":13.359240431078204,
+"smoment_kcat_per_s":"13.511182612553775",
 "smoment_mw":"61.852"
 }
 },
@@ -15655,7 +15655,7 @@
 "metabolites":{
 "ac_c":1.0,
 "acorn_c":-1.0,
-"enzyme_pool":-0.002322284176846667,
+"enzyme_pool":-0.00232024206108269,
 "h2o_c":-1.0,
 "orn_c":1.0
 },
@@ -15684,7 +15684,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00469",
 "smoment_enzyme":"ACETYLORNDEACET-CPLX",
-"smoment_kcat_per_s":10.130590969730603,
+"smoment_kcat_per_s":"10.139507211645496",
 "smoment_mw":"84.694"
 }
 },
@@ -15694,7 +15694,7 @@
 "metabolites":{
 "asp__L_c":-1.0,
 "dcamp_c":1.0,
-"enzyme_pool":-0.012863386640062056,
+"enzyme_pool":-0.0128505330269221,
 "gdp_c":1.0,
 "gtp_c":-1.0,
 "h_c":2.0,
@@ -15746,7 +15746,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00838",
 "smoment_enzyme":"ADENYLOSUCCINATE-SYN-DIMER",
-"smoment_kcat_per_s":2.0447786040932443,
+"smoment_kcat_per_s":"2.046823872805347",
 "smoment_mw":"94.69"
 }
 },
@@ -15758,7 +15758,7 @@
 "asn__L_c":1.0,
 "asp__L_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0036721810946944,
+"enzyme_pool":-0.00366885783009128,
 "h_c":1.0,
 "nh4_c":-1.0,
 "ppi_c":1.0
@@ -15787,8 +15787,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00340",
 "smoment_enzyme":"ASNSYNB-CPLX",
-"smoment_kcat_per_s":9.479531280701313,
-"smoment_mw":"125.318"
+"smoment_kcat_per_s":"9.488118479889884",
+"smoment_mw":"125.318008"
 }
 },
 {
@@ -15798,7 +15798,7 @@
 "asp__L_c":-1.0,
 "cbasp_c":1.0,
 "cbp_c":-1.0,
-"enzyme_pool":-0.015407682068985741,
+"enzyme_pool":-0.0153979942792383,
 "h_c":1.0,
 "pi_c":1.0
 },
@@ -15846,8 +15846,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01018",
 "smoment_enzyme":"ASPCARBTRANS-CPLX",
-"smoment_kcat_per_s":4.341340877914626,
-"smoment_mw":"240.804"
+"smoment_kcat_per_s":"4.344072488942526",
+"smoment_mw":"240.804012"
 }
 },
 {
@@ -15856,7 +15856,7 @@
 "metabolites":{
 "ACP_c":-1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.0004526205827982435,
+"enzyme_pool":-0.000452298305391777,
 "malACP_c":1.0,
 "malcoa_c":-1.0
 },
@@ -15882,7 +15882,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05465",
 "smoment_enzyme":"MALONYL-COA-ACP-TRANSACYL-MONOMER",
-"smoment_kcat_per_s":19.89463706345872,
+"smoment_kcat_per_s":"19.908812646163696",
 "smoment_mw":"32.417"
 }
 },
@@ -15892,7 +15892,7 @@
 "metabolites":{
 "26dap_LL_c":-1.0,
 "26dap__M_c":1.0,
-"enzyme_pool":-0.00018710518490794626
+"enzyme_pool":-0.000186934094225589
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -15915,8 +15915,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01974",
 "smoment_enzyme":"CPLX0-7997",
-"smoment_kcat_per_s":89.69702141624094,
-"smoment_mw":"60.418"
+"smoment_kcat_per_s":"89.77912220033939",
+"smoment_mw":"60.418004"
 }
 },
 {
@@ -15924,7 +15924,7 @@
 "name":"Dihydrodipicolinate reductase (NADPH)",
 "metabolites":{
 "23dhdp_c":-1.0,
-"enzyme_pool":-0.0017378024631909137,
+"enzyme_pool":-0.00173627756506799,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -15944,8 +15944,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02929",
 "smoment_enzyme":"DIHYDROPICRED-CPLX",
-"smoment_kcat_per_s":18.38656746035005,
-"smoment_mw":"115.028"
+"smoment_kcat_per_s":"18.402716873896434",
+"smoment_mw":"115.028008"
 }
 },
 {
@@ -15954,7 +15954,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00041114662002080936,
+"enzyme_pool":-0.000410774335820677,
 "h_c":1.0,
 "hom__L_c":-1.0,
 "phom_c":1.0
@@ -15981,7 +15981,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01300",
 "smoment_enzyme":"HOMOSERKIN-CPLX",
-"smoment_kcat_per_s":45.43391357334897,
+"smoment_kcat_per_s":"45.47509026502263",
 "smoment_mw":"67.248"
 }
 },
@@ -15990,7 +15990,7 @@
 "name":"Succinyldiaminopimelate transaminase",
 "metabolites":{
 "akg_c":-1.0,
-"enzyme_pool":-0.0050373913436849195,
+"enzyme_pool":-0.00497842699148317,
 "glu__L_c":1.0,
 "sl26da_c":-1.0,
 "sl2a6o_c":1.0
@@ -16016,7 +16016,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03087",
 "smoment_enzyme":"PSERTRANSAM-CPLX",
-"smoment_kcat_per_s":4.387522262762893,
+"smoment_kcat_per_s":"4.439487955628764",
 "smoment_mw":"79.566"
 }
 },
@@ -16024,7 +16024,7 @@
 "id":"THRS_fw",
 "name":"Threonine synthase",
 "metabolites":{
-"enzyme_pool":-0.01063096870172762,
+"enzyme_pool":-0.0106240811588379,
 "h2o_c":-1.0,
 "phom_c":-1.0,
 "pi_c":1.0,
@@ -16051,8 +16051,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01069",
 "smoment_enzyme":"THRESYN-MONOMER",
-"smoment_kcat_per_s":1.2310470089236027,
-"smoment_mw":"47.114"
+"smoment_kcat_per_s":"1.231845143322427",
+"smoment_mw":"47.114002"
 }
 },
 {
@@ -16060,7 +16060,7 @@
 "name":"Homoserine O-succinyltransferase",
 "metabolites":{
 "coa_c":1.0,
-"enzyme_pool":-0.0030639518716541114,
+"enzyme_pool":-0.00306118639492871,
 "hom__L_c":-1.0,
 "succoa_c":-1.0,
 "suchms_c":1.0
@@ -16087,7 +16087,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01304",
 "smoment_enzyme":"HOMSUCTRAN-CPLX",
-"smoment_kcat_per_s":6.478017333417829,
+"smoment_kcat_per_s":"6.483869576258053",
 "smoment_mw":"71.454"
 }
 },
@@ -16096,7 +16096,7 @@
 "name":"Prephenate dehydratase",
 "metabolites":{
 "co2_c":1.0,
-"enzyme_pool":-0.0034495159010672492,
+"enzyme_pool":-0.00344645284214956,
 "h2o_c":1.0,
 "h_c":-1.0,
 "phpyr_c":1.0,
@@ -16128,8 +16128,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01000",
 "smoment_enzyme":"CHORISMUTPREPHENDEHYDRAT-CPLX",
-"smoment_kcat_per_s":6.94316427071563,
-"smoment_mw":"86.222"
+"smoment_kcat_per_s":"6.949335701004339",
+"smoment_mw":"86.222008"
 }
 },
 {
@@ -16140,7 +16140,7 @@
 "atp_c":-1.0,
 "dtdp_c":1.0,
 "dtmp_c":-1.0,
-"enzyme_pool":-0.0012659422346607485
+"enzyme_pool":-0.00126475795787296
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -16167,7 +16167,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01513",
 "smoment_enzyme":"CPLX0-8260",
-"smoment_kcat_per_s":10.437109542615572,
+"smoment_kcat_per_s":"10.446882500742486",
 "smoment_mw":"47.566"
 }
 },
@@ -16177,7 +16177,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00027787135688802793,
+"enzyme_pool":-0.000275783225667574,
 "gdp_c":-1.0,
 "gtp_c":1.0
 },
@@ -16204,7 +16204,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00237",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":61.83117001884607,
+"smoment_kcat_per_s":"62.29933336054684",
 "smoment_mw":"61.852"
 }
 },
@@ -16212,7 +16212,7 @@
 "id":"TRDR_fw",
 "name":"Thioredoxin reductase (NADPH)",
 "metabolites":{
-"enzyme_pool":-0.0037110393035204876,
+"enzyme_pool":-0.0037067899796627,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -16239,7 +16239,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05289",
 "smoment_enzyme":"THIOREDOXIN-REDUCT-NADPH-CPLX",
-"smoment_kcat_per_s":5.183184123583025,
+"smoment_kcat_per_s":"5.189125929856506",
 "smoment_mw":"69.246"
 }
 },
@@ -16249,7 +16249,7 @@
 "metabolites":{
 "2dda7p_c":1.0,
 "e4p_c":-1.0,
-"enzyme_pool":-0.004898443604112665,
+"enzyme_pool":-0.00489557136005455,
 "h2o_c":-1.0,
 "pep_c":-1.0,
 "pi_c":1.0
@@ -16277,8 +16277,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01332",
 "smoment_enzyme":"AROG-CPLX",
-"smoment_kcat_per_s":8.621559343209471,
-"smoment_mw":"152.036"
+"smoment_kcat_per_s":"8.626618314697586",
+"smoment_mw":"152.036012"
 }
 },
 {
@@ -16287,7 +16287,7 @@
 "metabolites":{
 "accoa_c":-1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.001278015152710187,
+"enzyme_pool":-0.00127561973858409,
 "glx_c":-1.0,
 "h2o_c":-1.0,
 "h_c":1.0,
@@ -16315,15 +16315,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00330",
 "smoment_enzyme":"MALATE-SYNTHASE",
-"smoment_kcat_per_s":13.100609755895833,
-"smoment_mw":"60.274"
+"smoment_kcat_per_s":"13.125211085176133",
+"smoment_mw":"60.274002"
 }
 },
 {
 "id":"NADTRHD_fw",
 "name":"NAD transhydrogenase",
 "metabolites":{
-"enzyme_pool":-0.00014462061391388095,
+"enzyme_pool":-0.000144311984604596,
 "nad_c":-1.0,
 "nadh_c":1.0,
 "nadp_c":1.0,
@@ -16354,7 +16354,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00083",
 "smoment_enzyme":"UDHA-CPLX",
-"smoment_kcat_per_s":792.2644958899625,
+"smoment_kcat_per_s":"793.9588530482223",
 "smoment_mw":"412.48"
 }
 },
@@ -16363,7 +16363,7 @@
 "name":"Glycerol-3-phosphate dehydrogenase (NADP)",
 "metabolites":{
 "dhap_c":1.0,
-"enzyme_pool":-2.3641189374327468e-05,
+"enzyme_pool":-2.35332145675158e-05,
 "glyc3p_c":-1.0,
 "h_c":1.0,
 "nadp_c":-1.0,
@@ -16391,8 +16391,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00612",
 "smoment_enzyme":"GLYC3PDEHYDROGBIOSYN-CPLX",
-"smoment_kcat_per_s":854.4879359178088,
-"smoment_mw":"72.724"
+"smoment_kcat_per_s":"858.4085578203362",
+"smoment_mw":"72.724006"
 }
 },
 {
@@ -16401,7 +16401,7 @@
 "metabolites":{
 "amp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.007498839826005156,
+"enzyme_pool":-0.00749098822374341,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "gmp_c":1.0,
@@ -16433,8 +16433,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00917",
 "smoment_enzyme":"GMP-SYN-CPLX",
-"smoment_kcat_per_s":4.347265070443716,
-"smoment_mw":"117.358"
+"smoment_kcat_per_s":"4.351821982431523",
+"smoment_mw":"117.35801"
 }
 },
 {
@@ -16442,7 +16442,7 @@
 "name":"Pyrroline-5-carboxylate reductase",
 "metabolites":{
 "1pyr5c_c":-1.0,
-"enzyme_pool":-0.0007392586774058167,
+"enzyme_pool":-0.000738583472394336,
 "h_c":-2.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -16488,7 +16488,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00931",
 "smoment_enzyme":"PYRROLINECARBREDUCT-CPLX",
-"smoment_kcat_per_s":105.75534375856675,
+"smoment_kcat_per_s":"105.85202414848288",
 "smoment_mw":"281.45"
 }
 },
@@ -16537,7 +16537,7 @@
 "akg_c":-1.0,
 "co2_c":1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0029343137422486814,
+"enzyme_pool":-0.00293247443496605,
 "nad_c":-1.0,
 "nadh_c":1.0,
 "succoa_c":1.0
@@ -16591,8 +16591,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08094",
 "smoment_enzyme":"2OXOGLUTARATEDEH-CPLX",
-"smoment_kcat_per_s":228.9371186390337,
-"smoment_mw":"2418.384"
+"smoment_kcat_per_s":"229.08071793528376",
+"smoment_mw":"2418.384056"
 }
 },
 {
@@ -16600,7 +16600,7 @@
 "name":"ATP phosphoribosyltransferase",
 "metabolites":{
 "atp_c":-1.0,
-"enzyme_pool":-0.009287136995617493,
+"enzyme_pool":-0.00927808113373393,
 "ppi_c":1.0,
 "prbatp_c":1.0,
 "prpp_c":-1.0
@@ -16627,7 +16627,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00789",
 "smoment_enzyme":"CPLX0-7614",
-"smoment_kcat_per_s":1.9960104207539688,
+"smoment_kcat_per_s":"1.997958624744423",
 "smoment_mw":"66.734"
 }
 },
@@ -16635,7 +16635,7 @@
 "id":"HISTD_fw",
 "name":"Histidinol dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.011071930797764598,
+"enzyme_pool":-0.0110615988690114,
 "h2o_c":-1.0,
 "h_c":3.0,
 "his__L_c":1.0,
@@ -16665,7 +16665,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00859",
 "smoment_enzyme":"HISTDEHYD-CPLX",
-"smoment_kcat_per_s":2.313658487807621,
+"smoment_kcat_per_s":"2.315819527539619",
 "smoment_mw":"92.22"
 }
 },
@@ -16675,7 +16675,7 @@
 "metabolites":{
 "23dhdp_c":1.0,
 "aspsa_c":-1.0,
-"enzyme_pool":-0.0037626361595076243,
+"enzyme_pool":-0.00375952550707532,
 "h2o_c":2.0,
 "h_c":1.0,
 "pyr_c":-1.0
@@ -16701,8 +16701,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01644",
 "smoment_enzyme":"DIHYDRODIPICSYN-CPLX",
-"smoment_kcat_per_s":9.234069671246417,
-"smoment_mw":"125.08"
+"smoment_kcat_per_s":"9.241710583231487",
+"smoment_mw":"125.080008"
 }
 },
 {
@@ -16710,7 +16710,7 @@
 "name":"Imidazoleglycerol-phosphate dehydratase",
 "metabolites":{
 "eig3p_c":-1.0,
-"enzyme_pool":-0.0046589266709051134,
+"enzyme_pool":-0.00465020365682826,
 "h2o_c":1.0,
 "imacp_c":1.0
 },
@@ -16735,8 +16735,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02473",
 "smoment_enzyme":"IMIDHISTID-CPLX",
-"smoment_kcat_per_s":4.802966057913815,
-"smoment_mw":"80.556"
+"smoment_kcat_per_s":"4.8119761069026445",
+"smoment_mw":"80.556008"
 }
 },
 {
@@ -16745,7 +16745,7 @@
 "metabolites":{
 "amp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0033228073253763267,
+"enzyme_pool":-0.00332037241029297,
 "h_c":1.0,
 "prpp_c":1.0,
 "r5p_c":-1.0
@@ -16764,15 +16764,15 @@
 "metanetx.reaction":"MNXR189826",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8299",
-"smoment_kcat_per_s":17.16319798757547,
-"smoment_mw":"205.308"
+"smoment_kcat_per_s":"17.17578520907579",
+"smoment_mw":"205.308012"
 }
 },
 {
 "id":"PRATPP_fw",
 "name":"Phosphoribosyl-ATP pyrophosphatase",
 "metabolites":{
-"enzyme_pool":-0.0015591761965749829,
+"enzyme_pool":-0.00155651223674342,
 "h2o_c":-1.0,
 "h_c":1.0,
 "ppi_c":1.0,
@@ -16801,7 +16801,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02834",
 "smoment_enzyme":"HISTCYCLOPRATPPHOS",
-"smoment_kcat_per_s":4.054135206140649,
+"smoment_kcat_per_s":"4.061073830255481",
 "smoment_mw":"22.756"
 }
 },
@@ -16809,7 +16809,7 @@
 "id":"GLUN_fw",
 "name":"Glutaminase",
 "metabolites":{
-"enzyme_pool":-0.0065376662775582985,
+"enzyme_pool":-0.00646088676884726,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h2o_c":-1.0,
@@ -16862,15 +16862,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00189",
 "smoment_enzyme":"ASNSYNB-CPLX",
-"smoment_kcat_per_s":5.324614943263312,
-"smoment_mw":"125.318"
+"smoment_kcat_per_s":"5.387891635189366",
+"smoment_mw":"125.318008"
 }
 },
 {
 "id":"PRMICI_fw",
 "name":"1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase",
 "metabolites":{
-"enzyme_pool":-0.0035468002085405994,
+"enzyme_pool":-0.00354342370761684,
 "prfp_c":-1.0,
 "prlp_c":1.0
 },
@@ -16895,7 +16895,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03175",
 "smoment_enzyme":"PRIBFAICARPISOM-MONOMER",
-"smoment_kcat_per_s":2.038848670267894,
+"smoment_kcat_per_s":"2.040791473326917",
 "smoment_mw":"26.033"
 }
 },
@@ -16903,7 +16903,7 @@
 "id":"GLUPRT_fw",
 "name":"Glutamine phosphoribosyldiphosphate amidotransferase",
 "metabolites":{
-"enzyme_pool":-0.0007531241474325262,
+"enzyme_pool":-0.000752444771881353,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h2o_c":-1.0,
@@ -16954,8 +16954,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00790",
 "smoment_enzyme":"PRPPAMIDOTRANS-CPLX",
-"smoment_kcat_per_s":83.3387757628202,
-"smoment_mw":"225.952"
+"smoment_kcat_per_s":"83.4140260166159",
+"smoment_mw":"225.952012"
 }
 },
 {
@@ -16965,7 +16965,7 @@
 "accoa_c":-1.0,
 "acser_c":1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.0007208963197018799,
+"enzyme_pool":-0.000712426937721077,
 "ser__L_c":-1.0
 },
 "lower_bound":0.0,
@@ -16992,8 +16992,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00423",
 "smoment_enzyme":"CPLX0-237",
-"smoment_kcat_per_s":67.77904856952655,
-"smoment_mw":"175.902"
+"smoment_kcat_per_s":"68.58481304712146",
+"smoment_mw":"175.902006"
 }
 },
 {
@@ -17003,7 +17003,7 @@
 "ac_c":1.0,
 "acser_c":-1.0,
 "cys__L_c":1.0,
-"enzyme_pool":-0.08839952972416376,
+"enzyme_pool":-0.088354362015044,
 "h2s_c":-1.0,
 "h_c":1.0
 },
@@ -17032,7 +17032,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00649",
 "smoment_enzyme":"ACSERLYA-CPLX",
-"smoment_kcat_per_s":0.21675580368923023,
+"smoment_kcat_per_s":"0.21686661160938",
 "smoment_mw":"68.98"
 }
 },
@@ -17041,7 +17041,7 @@
 "name":"3',5'-bisphosphate nucleotidase",
 "metabolites":{
 "amp_c":1.0,
-"enzyme_pool":-0.0009719418619574529,
+"enzyme_pool":-0.000971058488656886,
 "h2o_c":-1.0,
 "pap_c":-1.0,
 "pi_c":1.0
@@ -17090,7 +17090,7 @@
 "rxn11357"
 ],
 "smoment_enzyme":"EG10043-MONOMER",
-"smoment_kcat_per_s":7.766811148236502,
+"smoment_kcat_per_s":"7.773876627483164",
 "smoment_mw":"27.176"
 }
 },
@@ -17098,7 +17098,7 @@
 "id":"PAPSR_fw",
 "name":"Phosphoadenylyl-sulfate reductase (thioredoxin)",
 "metabolites":{
-"enzyme_pool":-0.0017348396200383186,
+"enzyme_pool":-0.00173327056730556,
 "h_c":2.0,
 "pap_c":1.0,
 "paps_c":-1.0,
@@ -17122,8 +17122,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05239",
 "smoment_enzyme":"PAPSSULFOTRANS-CPLX",
-"smoment_kcat_per_s":8.958881295251333,
-"smoment_mw":"55.952"
+"smoment_kcat_per_s":"8.966992012963305",
+"smoment_mw":"55.952004"
 }
 },
 {
@@ -17134,7 +17134,7 @@
 "adp_c":1.0,
 "asp__L_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0021832394651514074
+"enzyme_pool":-0.00217515154333713
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -17158,7 +17158,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00337",
 "smoment_enzyme":"ASPKINIHOMOSERDEHYDROGI-CPLX",
-"smoment_kcat_per_s":45.35563954518156,
+"smoment_kcat_per_s":"45.52428658386802",
 "smoment_mw":"356.48"
 }
 },
@@ -17168,7 +17168,7 @@
 "metabolites":{
 "4pasp_c":1.0,
 "aspsa_c":-1.0,
-"enzyme_pool":-0.0055069763669065505,
+"enzyme_pool":-0.00544217772211844,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0,
@@ -17196,7 +17196,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01643",
 "smoment_enzyme":"ASP-SEMIALDEHYDE-DEHYDROGENASE-CPLX",
-"smoment_kcat_per_s":4.037101440242932,
+"smoment_kcat_per_s":"4.085170194252321",
 "smoment_mw":"80.036"
 }
 },
@@ -17206,7 +17206,7 @@
 "metabolites":{
 "26dap__M_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0010480597647142382,
+"enzyme_pool":-0.00104710763497727,
 "h_c":-1.0,
 "lys__L_c":1.0
 },
@@ -17232,8 +17232,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00313",
 "smoment_enzyme":"DIAMINOPIMDECARB-CPLX",
-"smoment_kcat_per_s":24.477505723047795,
-"smoment_mw":"92.354"
+"smoment_kcat_per_s":"24.499764057738744",
+"smoment_mw":"92.354004"
 }
 },
 {
@@ -17242,7 +17242,7 @@
 "metabolites":{
 "cbp_c":-1.0,
 "citr__L_c":1.0,
-"enzyme_pool":-0.0007352176221948534,
+"enzyme_pool":-0.00073455161436721,
 "h_c":1.0,
 "orn_c":-1.0,
 "pi_c":1.0
@@ -17286,7 +17286,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01019",
 "smoment_enzyme":"ORNCARBAMTRANSFERI-CPLX",
-"smoment_kcat_per_s":41.832285305563815,
+"smoment_kcat_per_s":"41.87021406225947",
 "smoment_mw":"110.721"
 }
 },
@@ -17295,7 +17295,7 @@
 "name":"Phosphoribosylglycinamide formyltransferase",
 "metabolites":{
 "10fthf_c":-1.0,
-"enzyme_pool":-0.0002136419987006299,
+"enzyme_pool":-0.000213446573387638,
 "fgam_c":1.0,
 "gar_c":-1.0,
 "h_c":1.0,
@@ -17322,7 +17322,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"GART-MONOMER",
-"smoment_kcat_per_s":30.214096662918777,
+"smoment_kcat_per_s":"30.24175978818432",
 "smoment_mw":"23.238"
 }
 },
@@ -17331,7 +17331,7 @@
 "name":"Phenylalanine transaminase",
 "metabolites":{
 "akg_c":-1.0,
-"enzyme_pool":-0.0053197016045300315,
+"enzyme_pool":-0.00525708132014956,
 "glu__L_c":1.0,
 "phe__L_c":-1.0,
 "phpyr_c":1.0
@@ -17363,8 +17363,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00493",
 "smoment_enzyme":"TYRB-DIMER",
-"smoment_kcat_per_s":4.546829799096343,
-"smoment_mw":"87.076"
+"smoment_kcat_per_s":"4.60099005814899",
+"smoment_mw":"87.076004"
 }
 },
 {
@@ -17373,7 +17373,7 @@
 "metabolites":{
 "34hpp_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0010011524401707921,
+"enzyme_pool":-0.000994089387035786,
 "nad_c":-1.0,
 "nadh_c":1.0,
 "pphn_c":-1.0
@@ -17401,15 +17401,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01268",
 "smoment_enzyme":"CHORISMUTPREPHENDEHYDROG-CPLX",
-"smoment_kcat_per_s":23.329780490453707,
-"smoment_mw":"84.084"
+"smoment_kcat_per_s":"23.495541943702573",
+"smoment_mw":"84.084008"
 }
 },
 {
 "id":"PRAMPC_fw",
 "name":"Phosphoribosyl-AMP cyclohydrolase",
 "metabolites":{
-"enzyme_pool":-0.001559175794497045,
+"enzyme_pool":-0.0015564609988131,
 "h2o_c":-1.0,
 "prbamp_c":-1.0,
 "prfp_c":1.0
@@ -17436,7 +17436,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02835",
 "smoment_enzyme":"HISTCYCLOPRATPPHOS",
-"smoment_kcat_per_s":4.054136251615014,
+"smoment_kcat_per_s":"4.061207518807954",
 "smoment_mw":"22.756"
 }
 },
@@ -17447,7 +17447,7 @@
 "2pg_c":1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.005989621873762191,
+"enzyme_pool":-0.00591903944241768,
 "glyc__R_c":-1.0,
 "h_c":1.0
 },
@@ -17476,7 +17476,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08647",
 "smoment_enzyme":"GLY3KIN-MONOMER",
-"smoment_kcat_per_s":1.7963478615531103,
+"smoment_kcat_per_s":"1.817768668230004",
 "smoment_mw":"38.734"
 }
 },
@@ -17487,7 +17487,7 @@
 "acg5sa_c":1.0,
 "acorn_c":-1.0,
 "akg_c":-1.0,
-"enzyme_pool":-0.001715842024319286,
+"enzyme_pool":-0.00169560914595745,
 "glu__L_c":1.0
 },
 "lower_bound":0.0,
@@ -17512,15 +17512,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01637",
 "smoment_enzyme":"ACETYLORNTRANSAM-CPLX",
-"smoment_kcat_per_s":14.170884997204986,
-"smoment_mw":"87.534"
+"smoment_kcat_per_s":"14.33997992348716",
+"smoment_mw":"87.534004"
 }
 },
 {
 "id":"SULR_fw",
 "name":"Sulfite reductase (NADPH2)",
 "metabolites":{
-"enzyme_pool":-0.01335368388807743,
+"enzyme_pool":-0.0133425444447589,
 "h2o_c":3.0,
 "h2s_c":1.0,
 "h_c":-5.0,
@@ -17549,8 +17549,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00623",
 "smoment_enzyme":"SULFITE-REDUCT-CPLX",
-"smoment_kcat_per_s":16.353206904240697,
-"smoment_mw":"786.152"
+"smoment_kcat_per_s":"16.36686097648946",
+"smoment_mw":"786.152052"
 }
 },
 {
@@ -17559,7 +17559,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.001996512476320568,
+"enzyme_pool":-0.00199475154948697,
 "gar_c":1.0,
 "gly_c":-1.0,
 "h_c":1.0,
@@ -17582,8 +17582,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02895",
 "smoment_enzyme":"GLYCRIBONUCSYN-MONOMER",
-"smoment_kcat_per_s":6.3917011601294575,
-"smoment_mw":"45.94"
+"smoment_kcat_per_s":"6.397343904782884",
+"smoment_mw":"45.940002"
 }
 },
 {
@@ -17592,7 +17592,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.008235110549908551,
+"enzyme_pool":-0.00822795413015821,
 "fgam_c":-1.0,
 "fpram_c":1.0,
 "gln__L_c":-1.0,
@@ -17640,8 +17640,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FGAMSYN-MONOMER",
-"smoment_kcat_per_s":4.769618221308456,
-"smoment_mw":"141.402"
+"smoment_kcat_per_s":"4.773767025163988",
+"smoment_mw":"141.40201"
 }
 },
 {
@@ -17650,7 +17650,7 @@
 "metabolites":{
 "3php_c":-1.0,
 "akg_c":1.0,
-"enzyme_pool":-0.0009504730955566335,
+"enzyme_pool":-0.000936095117308092,
 "glu__L_c":-1.0,
 "pser__L_c":1.0
 },
@@ -17696,7 +17696,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02914",
 "smoment_enzyme":"PSERTRANSAM-CPLX",
-"smoment_kcat_per_s":23.253332230012344,
+"smoment_kcat_per_s":"23.610492414728057",
 "smoment_mw":"79.566"
 }
 },
@@ -17708,7 +17708,7 @@
 "adp_c":1.0,
 "air_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00023130711066375796,
+"enzyme_pool":-0.000231095044800368,
 "h_c":1.0,
 "hco3_c":-1.0,
 "pi_c":1.0
@@ -17733,8 +17733,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"PURK-CPLX",
-"smoment_kcat_per_s":94.77779440013003,
-"smoment_mw":"78.922"
+"smoment_kcat_per_s":"94.86477266454106",
+"smoment_mw":"78.922004"
 }
 },
 {
@@ -17742,7 +17742,7 @@
 "name":"Glyceraldehyde-3-phosphate dehydrogenase",
 "metabolites":{
 "13dpg_c":1.0,
-"enzyme_pool":-0.0006729468184161952,
+"enzyme_pool":-0.000672197517699226,
 "g3p_c":-1.0,
 "h_c":1.0,
 "nad_c":-1.0,
@@ -17815,7 +17815,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00781",
 "smoment_enzyme":"GAPDH-A-CPLX",
-"smoment_kcat_per_s":58.66734030025971,
+"smoment_kcat_per_s":"58.732736971613264",
 "smoment_mw":"142.128"
 }
 },
@@ -17825,7 +17825,7 @@
 "metabolites":{
 "6pgc_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0018184654897821751,
+"enzyme_pool":-0.00181690684263329,
 "nadp_c":-1.0,
 "nadph_c":1.0,
 "ru5p__D_c":1.0
@@ -17874,8 +17874,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01115",
 "smoment_enzyme":"6PGLUCONDEHYDROG-CPLX",
-"smoment_kcat_per_s":15.727851705880585,
-"smoment_mw":"102.962"
+"smoment_kcat_per_s":"15.741344878623872",
+"smoment_mw":"102.962006"
 }
 },
 {
@@ -17883,7 +17883,7 @@
 "name":"Glucose 6-phosphate dehydrogenase",
 "metabolites":{
 "6pgl_c":1.0,
-"enzyme_pool":-0.0002078315374538347,
+"enzyme_pool":-0.000207642301330997,
 "g6p_c":-1.0,
 "h_c":1.0,
 "nadp_c":-1.0,
@@ -17918,8 +17918,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00604",
 "smoment_enzyme":"GLU6PDEHYDROG-MONOMER",
-"smoment_kcat_per_s":74.45132496683955,
-"smoment_mw":"55.704"
+"smoment_kcat_per_s":"74.51917932764228",
+"smoment_mw":"55.704002"
 }
 },
 {
@@ -17927,7 +17927,7 @@
 "name":"Malic enzyme (NADP)",
 "metabolites":{
 "co2_c":1.0,
-"enzyme_pool":-0.004569574222021621,
+"enzyme_pool":-0.00456515059316547,
 "mal__L_c":-1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0,
@@ -17955,8 +17955,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00161",
 "smoment_enzyme":"MALIC-NADP-CPLX",
-"smoment_kcat_per_s":40.08007748430053,
-"smoment_mw":"659.336"
+"smoment_kcat_per_s":"40.11891992901728",
+"smoment_mw":"659.33608"
 }
 },
 {
@@ -17965,7 +17965,7 @@
 "metabolites":{
 "arg__L_c":1.0,
 "argsuc_c":-1.0,
-"enzyme_pool":-0.003572352932424268,
+"enzyme_pool":-0.00356917674253355,
 "fum_c":1.0
 },
 "lower_bound":0.0,
@@ -18004,7 +18004,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00802",
 "smoment_enzyme":"ARGSUCCINLYA-MONOMER",
-"smoment_kcat_per_s":3.912609556395932,
+"smoment_kcat_per_s":"3.9160913651758786",
 "smoment_mw":"50.318"
 }
 },
@@ -18015,7 +18015,7 @@
 "adp_c":2.0,
 "atp_c":-2.0,
 "cbp_c":1.0,
-"enzyme_pool":-0.013312580890945095,
+"enzyme_pool":-0.0133064382101588,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h2o_c":-1.0,
@@ -18066,8 +18066,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00414",
 "smoment_enzyme":"CARBPSYN-CPLX",
-"smoment_kcat_per_s":3.3233600879069742,
-"smoment_mw":"159.273"
+"smoment_kcat_per_s":"3.324894341547697",
+"smoment_mw":"159.273004"
 }
 },
 {
@@ -18076,7 +18076,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0013195976855507356,
+"enzyme_pool":-0.00131840194045798,
 "glu5p_c":1.0,
 "glu__L_c":-1.0
 },
@@ -18102,8 +18102,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00179",
 "smoment_enzyme":"GLUTKIN-CPLX",
-"smoment_kcat_per_s":32.88544382179965,
-"smoment_mw":"156.224"
+"smoment_kcat_per_s":"32.91527315632245",
+"smoment_mw":"156.224016"
 }
 },
 {
@@ -18114,7 +18114,7 @@
 "3mob_c":-1.0,
 "accoa_c":-1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.005279545271703056,
+"enzyme_pool":-0.00527512562697996,
 "h2o_c":-1.0,
 "h_c":1.0
 },
@@ -18140,8 +18140,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00902",
 "smoment_enzyme":"2-ISOPROPYLMALATESYN-MONOMER",
-"smoment_kcat_per_s":3.0146746153342394,
-"smoment_mw":"57.298"
+"smoment_kcat_per_s":"3.017200602923704",
+"smoment_mw":"57.298004"
 }
 },
 {
@@ -18152,7 +18152,7 @@
 "acACP_c":1.0,
 "accoa_c":-1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.006570631734141375
+"enzyme_pool":-0.00649252132309173
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -18178,8 +18178,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05349",
 "smoment_enzyme":"CPLX0-252",
-"smoment_kcat_per_s":2.83373733269767,
-"smoment_mw":"67.03"
+"smoment_kcat_per_s":"2.8678297974760536",
+"smoment_mw":"67.030006"
 }
 },
 {
@@ -18188,7 +18188,7 @@
 "metabolites":{
 "ac_e":-1.0,
 "ac_p":1.0,
-"enzyme_pool":-0.0002855018159895962
+"enzyme_pool":-0.000283619206974352
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -18216,7 +18216,7 @@
 "rxn08063"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":117.82762180828249,
+"smoment_kcat_per_s":"118.60973859588458",
 "smoment_mw":"121.104"
 }
 },
@@ -18226,7 +18226,7 @@
 "metabolites":{
 "acald_e":-1.0,
 "acald_p":1.0,
-"enzyme_pool":-0.0003239971093909593
+"enzyme_pool":-0.000320175360323007
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -18247,7 +18247,7 @@
 "rxn08032"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82808680989632,
+"smoment_kcat_per_s":"105.06742294617065",
 "smoment_mw":"121.104"
 }
 },
@@ -18255,7 +18255,7 @@
 "id":"PSP_L_fw",
 "name":"Phosphoserine phosphatase (L-serine)",
 "metabolites":{
-"enzyme_pool":-2.3436606322283316e-05,
+"enzyme_pool":-2.34151280020522e-05,
 "h2o_c":-1.0,
 "pi_c":1.0,
 "pser__L_c":-1.0,
@@ -18306,8 +18306,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00420",
 "smoment_enzyme":"PSERPHOSPHA-MONOMER",
-"smoment_kcat_per_s":415.3402814728986,
-"smoment_mw":"35.043"
+"smoment_kcat_per_s":"415.721302020936",
+"smoment_mw":"35.043003"
 }
 },
 {
@@ -18317,7 +18317,7 @@
 "adp_c":1.0,
 "aps_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0005564183067999232,
+"enzyme_pool":-0.000555910358124517,
 "h_c":1.0,
 "paps_c":1.0
 },
@@ -18362,15 +18362,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00361",
 "smoment_enzyme":"ADENYLYLSULFKIN-CPLX",
-"smoment_kcat_per_s":22.286390300264774,
-"smoment_mw":"44.642"
+"smoment_kcat_per_s":"22.30675491089435",
+"smoment_mw":"44.642002"
 }
 },
 {
 "id":"SUCCt2_2pp_fw",
 "name":"Succinate transport via proton symport (2 H) (periplasm)",
 "metabolites":{
-"enzyme_pool":-4.893183109487961e-05,
+"enzyme_pool":-4.86923010389182e-05,
 "h_c":2.0,
 "h_p":-2.0,
 "succ_c":1.0,
@@ -18398,7 +18398,7 @@
 "rxn09269"
 ],
 "smoment_enzyme":"DCTA-MONOMER",
-"smoment_kcat_per_s":257.9325324375982,
+"smoment_kcat_per_s":"259.2013694531189",
 "smoment_mw":"45.436"
 }
 },
@@ -18407,7 +18407,7 @@
 "name":"Homoserine dehydrogenase (NADPH)",
 "metabolites":{
 "aspsa_c":-1.0,
-"enzyme_pool":-0.006394279653203074,
+"enzyme_pool":-0.00639405391126671,
 "h_c":-1.0,
 "hom__L_c":1.0,
 "nadp_c":1.0,
@@ -18435,7 +18435,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01302",
 "smoment_enzyme":"ASPKINIHOMOSERDEHYDROGI-CPLX",
-"smoment_kcat_per_s":15.48606373082529,
+"smoment_kcat_per_s":"15.486610465973563",
 "smoment_mw":"356.48"
 }
 },
@@ -18444,7 +18444,7 @@
 "name":"Cystathionine b-lyase",
 "metabolites":{
 "cyst__L_c":-1.0,
-"enzyme_pool":-0.003553303518628838,
+"enzyme_pool":-0.00355004245163905,
 "h2o_c":-1.0,
 "hcys__L_c":1.0,
 "nh4_c":1.0,
@@ -18471,7 +18471,7 @@
 "sabiork.reaction":"1501",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CYSTATHIONINE-BETA-LYASE-CPLX",
-"smoment_kcat_per_s":13.512308498729347,
+"smoment_kcat_per_s":"13.52472089767988",
 "smoment_mw":"172.848"
 }
 },
@@ -18481,7 +18481,7 @@
 "metabolites":{
 "cys__L_c":-1.0,
 "cyst__L_c":1.0,
-"enzyme_pool":-0.0038494622513657855,
+"enzyme_pool":-0.0038459696437851,
 "h_c":1.0,
 "succ_c":1.0,
 "suchms_c":-1.0
@@ -18507,8 +18507,8 @@
 "sabiork.reaction":"3081",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"O-SUCCHOMOSERLYASE-CPLX",
-"smoment_kcat_per_s":11.993017115646937,
-"smoment_mw":"166.2"
+"smoment_kcat_per_s":"12.003909098607444",
+"smoment_mw":"166.200012"
 }
 },
 {
@@ -18517,7 +18517,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00029304814047678284,
+"enzyme_pool":-0.000289591842545048,
 "h2o_c":-1.0,
 "h_c":1.0,
 "pi_c":1.0,
@@ -18547,15 +18547,15 @@
 "rxn05153"
 ],
 "smoment_enzyme":"ABC-7-CPLX",
-"smoment_kcat_per_s":173.04987624878706,
-"smoment_mw":"182.563"
+"smoment_kcat_per_s":"175.1152457230493",
+"smoment_mw":"182.563008"
 }
 },
 {
 "id":"GLUtex_fw",
 "name":"L-glutamate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239972178297905,
+"enzyme_pool":-0.000320175432556142,
 "glu__L_e":-1.0,
 "glu__L_p":1.0
 },
@@ -18595,7 +18595,7 @@
 "rxn10917"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.8280520596091,
+"smoment_kcat_per_s":"105.06739924244906",
 "smoment_mw":"121.104"
 }
 },
@@ -18605,7 +18605,7 @@
 "metabolites":{
 "akg_c":1.0,
 "akg_p":-1.0,
-"enzyme_pool":-0.00037764313948781446,
+"enzyme_pool":-0.000373188412652248,
 "h_c":1.0,
 "h_p":-1.0
 },
@@ -18632,15 +18632,15 @@
 "rxn09827"
 ],
 "smoment_enzyme":"KGTP-MONOMER",
-"smoment_kcat_per_s":34.6093934546949,
-"smoment_mw":"47.052"
+"smoment_kcat_per_s":"35.022525117184486",
+"smoment_mw":"47.052002"
 }
 },
 {
 "id":"XYLt2pp_fw",
 "name":"D-xylose transport in via proton symport (periplasm)",
 "metabolites":{
-"enzyme_pool":-1.4917930708441471e-05,
+"enzyme_pool":-1.48395030713818e-05,
 "h_c":1.0,
 "h_p":-1.0,
 "xyl__D_c":1.0,
@@ -18668,7 +18668,7 @@
 "rxn09384"
 ],
 "smoment_enzyme":"XYLE-MONOMER",
-"smoment_kcat_per_s":998.2021905145875,
+"smoment_kcat_per_s":"1003.4777471645142",
 "smoment_mw":"53.608"
 }
 },
@@ -18676,7 +18676,7 @@
 "id":"GLYCtex_fw",
 "name":"Glycerol transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00026157667908029175,
+"enzyme_pool":-0.00025941059902192,
 "glyc_e":-1.0,
 "glyc_p":1.0
 },
@@ -18761,7 +18761,7 @@
 "rxn08658"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":128.60473692944967,
+"smoment_kcat_per_s":"129.67858725447604",
 "smoment_mw":"121.104"
 }
 },
@@ -18769,7 +18769,7 @@
 "id":"Htex_fw",
 "name":"Proton transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0001901875249439386,
+"enzyme_pool":-0.000189567171594965,
 "h_e":-1.0,
 "h_p":1.0
 },
@@ -18840,7 +18840,7 @@
 "rxn08730"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":176.87805764292918,
+"smoment_kcat_per_s":"177.45688621591248",
 "smoment_mw":"121.104"
 }
 },
@@ -19019,7 +19019,7 @@
 "id":"PYRt2rpp_fw",
 "name":"Pyruvate reversible transport via proton symport (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00015785203411532614,
+"enzyme_pool":-0.000157154776283316,
 "h_c":1.0,
 "h_p":-1.0,
 "pyr_c":1.0,
@@ -19048,7 +19048,7 @@
 "rxn09217"
 ],
 "smoment_enzyme":"EG10167-MONOMER",
-"smoment_kcat_per_s":132.16491074646484,
+"smoment_kcat_per_s":"132.75129457337934",
 "smoment_mw":"75.105"
 }
 },
@@ -19056,7 +19056,7 @@
 "id":"THD2pp_fw",
 "name":"NAD(P) transhydrogenase (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.007018738304794728,
+"enzyme_pool":-0.00693620458769776,
 "h_c":1.0,
 "h_p":-1.0,
 "nad_c":1.0,
@@ -19082,8 +19082,8 @@
 "rxn09295"
 ],
 "smoment_enzyme":"PYRNUTRANSHYDROGEN-CPLX",
-"smoment_kcat_per_s":8.180166000094744,
-"smoment_mw":"206.692"
+"smoment_kcat_per_s":"8.277501821809425",
+"smoment_mw":"206.692006"
 }
 },
 {
@@ -19091,7 +19091,7 @@
 "name":"Transketolase",
 "metabolites":{
 "e4p_c":-1.0,
-"enzyme_pool":-0.0006479405493587837,
+"enzyme_pool":-0.000643424509330851,
 "f6p_c":1.0,
 "g3p_c":1.0,
 "xu5p__D_c":-1.0
@@ -19117,8 +19117,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"TRANSKETOI-CPLX",
-"smoment_kcat_per_s":61.915831348229744,
-"smoment_mw":"144.424"
+"smoment_kcat_per_s":"62.350408679384635",
+"smoment_mw":"144.424012"
 }
 },
 {
@@ -19127,7 +19127,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-8.606403620403128e-05,
+"enzyme_pool":-8.60064228993481e-05,
 "h2o_c":1.0,
 "h_c":3.0,
 "h_p":-4.0,
@@ -19151,8 +19151,8 @@
 "rxn10042"
 ],
 "smoment_enzyme":"ATPSYN-CPLX",
-"smoment_kcat_per_s":1754.639865261344,
-"smoment_mw":"543.641"
+"smoment_kcat_per_s":"1755.815320638625",
+"smoment_mw":"543.641022"
 }
 },
 {
@@ -19247,7 +19247,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0003722806751429624,
+"enzyme_pool":-0.000371937191171012,
 "gdp_c":1.0,
 "gmp_c":-1.0
 },
@@ -19274,7 +19274,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00239",
 "smoment_enzyme":"GUANYL-KIN-CPLX",
-"smoment_kcat_per_s":35.20790386766333,
+"smoment_kcat_per_s":"35.24041836460415",
 "smoment_mw":"47.186"
 }
 },
@@ -19282,7 +19282,7 @@
 "id":"GLCNtex_fw",
 "name":"D-gluconate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399733422481636,
+"enzyme_pool":-0.000320175729481545,
 "glcn_e":-1.0,
 "glcn_p":1.0
 },
@@ -19303,7 +19303,7 @@
 "rxn08610"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801475970713,
+"smoment_kcat_per_s":"105.06730180477045",
 "smoment_mw":"121.104"
 }
 },
@@ -19311,7 +19311,7 @@
 "id":"GLNtex_fw",
 "name":"L-glutamine transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399733434342704,
+"enzyme_pool":-0.000320175679293871,
 "gln__L_e":-1.0,
 "gln__L_p":1.0
 },
@@ -19344,7 +19344,7 @@
 "rxn10928"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801472169722,
+"smoment_kcat_per_s":"105.06731827411454",
 "smoment_mw":"121.104"
 }
 },
@@ -19352,7 +19352,7 @@
 "id":"O2tex_fw",
 "name":"Oxygen transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0001450612841366396,
+"enzyme_pool":-0.000144757296200656,
 "o2_e":-1.0,
 "o2_p":1.0
 },
@@ -19375,7 +19375,7 @@
 "rxn09734"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":231.90198680657622,
+"smoment_kcat_per_s":"232.388977156425",
 "smoment_mw":"121.104"
 }
 },
@@ -19383,7 +19383,7 @@
 "id":"D_LACtex_fw",
 "name":"D-lactate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399687617147316,
+"enzyme_pool":-0.000320175417854747,
 "lac__D_e":-1.0,
 "lac__D_p":1.0
 },
@@ -19401,7 +19401,7 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn08351",
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82816154744732,
+"smoment_kcat_per_s":"105.06740406679602",
 "smoment_mw":"121.104"
 }
 },
@@ -19409,7 +19409,7 @@
 "id":"GLCtex_copy1_fw",
 "name":"Glucose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00026346421601105473,
+"enzyme_pool":-0.000261104217293738,
 "glc__D_e":-1.0,
 "glc__D_p":1.0
 },
@@ -19435,7 +19435,7 @@
 "rxn08617"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":127.68337389161226,
+"smoment_kcat_per_s":"128.83744410055084",
 "smoment_mw":"121.104"
 }
 },
@@ -19443,7 +19443,7 @@
 "id":"FUMt2_2pp_fw",
 "name":"Fumarate transport via proton symport (2 H) (periplasm)",
 "metabolites":{
-"enzyme_pool":-5.5386273032252326e-05,
+"enzyme_pool":-5.51101888723051e-05,
 "fum_c":1.0,
 "fum_p":-1.0,
 "h_c":2.0,
@@ -19472,7 +19472,7 @@
 "rxn10152"
 ],
 "smoment_enzyme":"DCTA-MONOMER",
-"smoment_kcat_per_s":227.87435261732873,
+"smoment_kcat_per_s":"229.0159291661161",
 "smoment_mw":"45.436"
 }
 },
@@ -19480,7 +19480,7 @@
 "id":"PItex_fw",
 "name":"Phosphate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003056329796987998,
+"enzyme_pool":-0.000302428621191872,
 "pi_e":-1.0,
 "pi_p":1.0
 },
@@ -19510,7 +19510,7 @@
 "rxn13178"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":110.06665587317212,
+"smoment_kcat_per_s":"111.23285840944769",
 "smoment_mw":"121.104"
 }
 },
@@ -19518,7 +19518,7 @@
 "id":"CYTBDpp_fw",
 "name":"Cytochrome oxidase bd (ubiquinol-8: 2 protons) (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.005529723465229014,
+"enzyme_pool":-0.00546467100110259,
 "h2o_c":2.0,
 "h_c":-4.0,
 "h_p":4.0,
@@ -19544,15 +19544,15 @@
 "rxn08288"
 ],
 "smoment_enzyme":"CYT-D-UBIOX-CPLX",
-"smoment_kcat_per_s":5.410055547845038,
-"smoment_mw":"107.698"
+"smoment_kcat_per_s":"5.47445803224375",
+"smoment_mw":"107.6980034"
 }
 },
 {
 "id":"CYTBD2pp_fw",
 "name":"Cytochrome oxidase bd (menaquinol-8: 2 protons) (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.003982464217625147,
+"enzyme_pool":-0.00393461616723322,
 "h2o_c":2.0,
 "h_c":-4.0,
 "h_p":4.0,
@@ -19577,8 +19577,8 @@
 "rxn10806"
 ],
 "smoment_enzyme":"CYT-D-UBIOX-CPLX",
-"smoment_kcat_per_s":7.511959800846851,
-"smoment_mw":"107.698"
+"smoment_kcat_per_s":"7.6033114245530635",
+"smoment_mw":"107.6980034"
 }
 },
 {
@@ -19613,7 +19613,7 @@
 "metabolites":{
 "ac_c":1.0,
 "ac_p":-1.0,
-"enzyme_pool":-0.00016047869855767018,
+"enzyme_pool":-0.000158751170494636,
 "h_c":1.0,
 "h_p":-1.0
 },
@@ -19633,8 +19633,8 @@
 "rxn05488"
 ],
 "smoment_enzyme":"EG11512-MONOMER",
-"smoment_kcat_per_s":34.74154406713503,
-"smoment_mw":"20.071"
+"smoment_kcat_per_s":"35.11960282361468",
+"smoment_mw":"20.071001"
 }
 },
 {
@@ -19642,7 +19642,7 @@
 "name":"Methionine synthase",
 "metabolites":{
 "5mthf_c":-1.0,
-"enzyme_pool":-0.14632517398865177,
+"enzyme_pool":-0.1461272468165,
 "h_c":1.0,
 "hcys__L_c":-1.0,
 "met__L_c":1.0,
@@ -19670,8 +19670,8 @@
 "sabiork.reaction":"1260",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"HOMOCYSMET-MONOMER",
-"smoment_kcat_per_s":0.1607397902674074,
-"smoment_mw":"84.673"
+"smoment_kcat_per_s":"0.16095751751502346",
+"smoment_mw":"84.673004"
 }
 },
 {
@@ -19697,7 +19697,7 @@
 "id":"FRUtex_fw",
 "name":"D-fructose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0002796277553958346,
+"enzyme_pool":-0.000276928304345079,
 "fru_e":-1.0,
 "fru_p":1.0
 },
@@ -19736,7 +19736,7 @@
 "rxn08537"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":120.30279309140822,
+"smoment_kcat_per_s":"121.47548470914484",
 "smoment_mw":"121.104"
 }
 },
@@ -19744,7 +19744,7 @@
 "id":"FUMtex_fw",
 "name":"Fumarate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00030459456291230845,
+"enzyme_pool":-0.000301543351233866,
 "fum_e":-1.0,
 "fum_p":1.0
 },
@@ -19765,7 +19765,7 @@
 "rxn11013"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":110.44189258783591,
+"smoment_kcat_per_s":"111.55941546165946",
 "smoment_mw":"121.104"
 }
 },
@@ -19778,7 +19778,7 @@
 "adp_c":1.0,
 "asp__L_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.005219806631358808,
+"enzyme_pool":-0.00521479537182059,
 "h_c":1.0,
 "pi_c":1.0
 },
@@ -19818,7 +19818,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"SAICARSYN-CPLX",
-"smoment_kcat_per_s":4.309706263482268,
+"smoment_kcat_per_s":"4.313847759951429",
 "smoment_mw":"80.985"
 }
 },
@@ -19827,7 +19827,7 @@
 "name":"Methenyltetrahydrofolate cyclohydrolase",
 "metabolites":{
 "10fthf_c":1.0,
-"enzyme_pool":-0.0003230867079206901,
+"enzyme_pool":-0.000322533867923509,
 "h2o_c":-1.0,
 "h_c":1.0,
 "methf_c":-1.0
@@ -19875,7 +19875,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01211",
 "smoment_enzyme":"FOLD-CPLX",
-"smoment_kcat_per_s":53.38092296542358,
+"smoment_kcat_per_s":"53.47242067228992",
 "smoment_mw":"62.088"
 }
 },
@@ -19883,7 +19883,7 @@
 "id":"MTHFD_fw",
 "name":"Methylenetetrahydrofolate dehydrogenase (NADP)",
 "metabolites":{
-"enzyme_pool":-0.00032308652659664513,
+"enzyme_pool":-0.000322531461851155,
 "methf_c":1.0,
 "mlthf_c":-1.0,
 "nadp_c":-1.0,
@@ -19910,7 +19910,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FOLD-CPLX",
-"smoment_kcat_per_s":53.38095292410053,
+"smoment_kcat_per_s":"53.47281957450039",
 "smoment_mw":"62.088"
 }
 },
@@ -19918,7 +19918,7 @@
 "id":"XYLtex_fw",
 "name":"D-xylose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003396511906062028,
+"enzyme_pool":-0.000336312981947278,
 "xyl__D_e":-1.0,
 "xyl__D_p":1.0
 },
@@ -19938,7 +19938,7 @@
 "rxn09650"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":99.04278545280522,
+"smoment_kcat_per_s":"100.02587412838436",
 "smoment_mw":"121.104"
 }
 },
@@ -19946,7 +19946,7 @@
 "id":"FORtppi_fw",
 "name":"Formate transport via diffusion (cytoplasm to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.007515096993600682,
+"enzyme_pool":-0.00750823837151198,
 "for_c":-1.0,
 "for_p":1.0
 },
@@ -19976,15 +19976,15 @@
 "rxn08526"
 ],
 "smoment_enzyme":"CPLX0-7843",
-"smoment_kcat_per_s":5.727544912887742,
-"smoment_mw":"154.955"
+"smoment_kcat_per_s":"5.732777092927668",
+"smoment_mw":"154.955005"
 }
 },
 {
 "id":"PYRtex_fw",
 "name":"Pyruvate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003238893989262033,
+"enzyme_pool":-0.000321424754057996,
 "pyr_e":-1.0,
 "pyr_p":1.0
 },
@@ -20005,7 +20005,7 @@
 "rxn09218"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.8626151752028,
+"smoment_kcat_per_s":"104.65902073593946",
 "smoment_mw":"121.104"
 }
 },
@@ -20013,7 +20013,7 @@
 "id":"SO4tex_fw",
 "name":"Sulfate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00031891279417113014,
+"enzyme_pool":-0.000315249893014173,
 "so4_e":-1.0,
 "so4_p":1.0
 },
@@ -20057,7 +20057,7 @@
 "rxn05238"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":105.48338171076514,
+"smoment_kcat_per_s":"106.70899735559172",
 "smoment_mw":"121.104"
 }
 },
@@ -20065,7 +20065,7 @@
 "id":"SUCCtex_fw",
 "name":"Succinate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0002721813203553951,
+"enzyme_pool":-0.00027008635585656,
 "succ_e":-1.0,
 "succ_p":1.0
 },
@@ -20085,7 +20085,7 @@
 "rxn09271"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":123.59408043165955,
+"smoment_kcat_per_s":"124.552756074305",
 "smoment_mw":"121.104"
 }
 },
@@ -20093,7 +20093,7 @@
 "id":"GRXR_fw",
 "name":"Glutaredoxin reductase",
 "metabolites":{
-"enzyme_pool":-0.001944640821881406,
+"enzyme_pool":-0.00192283009572593,
 "grxox_c":-1.0,
 "grxrd_c":1.0,
 "gthox_c":1.0,
@@ -20114,7 +20114,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08670",
 "smoment_enzyme":"GRXB-MONOMER",
-"smoment_kcat_per_s":3.4782201488215936,
+"smoment_kcat_per_s":"3.517673716426471",
 "smoment_mw":"24.35"
 }
 },
@@ -20124,7 +20124,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "dadp_c":1.0,
-"enzyme_pool":-0.10415211563867022,
+"enzyme_pool":-0.105680170463518,
 "grxox_c":1.0,
 "grxrd_c":-1.0,
 "h2o_c":1.0
@@ -20143,8 +20143,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn09231",
 "smoment_enzyme":"RIBONUCLEOSIDE-DIP-REDUCTII-CPLX",
-"smoment_kcat_per_s":0.6236711205369809,
-"smoment_mw":"233.844"
+"smoment_kcat_per_s":"0.6146533318784986",
+"smoment_mw":"233.844008"
 }
 },
 {
@@ -20152,7 +20152,7 @@
 "name":"Ribonucleoside-diphosphate reductase (GDP) (glutaredoxin)",
 "metabolites":{
 "dgdp_c":1.0,
-"enzyme_pool":-0.034247665658942564,
+"enzyme_pool":-0.0341555729331948,
 "gdp_c":-1.0,
 "grxox_c":1.0,
 "grxrd_c":-1.0,
@@ -20172,15 +20172,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn09232",
 "smoment_enzyme":"RIBONUCLEOSIDE-DIP-REDUCTII-CPLX",
-"smoment_kcat_per_s":1.8966742817902256,
-"smoment_mw":"233.844"
+"smoment_kcat_per_s":"1.9017882972110665",
+"smoment_mw":"233.844008"
 }
 },
 {
 "id":"MALt2_2pp_fw",
 "name":"Malate transport via proton symport (2 H) (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00036466530006076873,
+"enzyme_pool":-0.0003603639504345,
 "h_c":2.0,
 "h_p":-2.0,
 "mal__L_c":1.0,
@@ -20208,7 +20208,7 @@
 "rxn10153"
 ],
 "smoment_enzyme":"DCTA-MONOMER",
-"smoment_kcat_per_s":34.61012360926004,
+"smoment_kcat_per_s":"35.02323441591066",
 "smoment_mw":"45.436"
 }
 },
@@ -20266,7 +20266,7 @@
 "id":"NH4tex_fw",
 "name":"Ammonia transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00020779179144604998,
+"enzyme_pool":-0.00020663596522063,
 "nh4_e":-1.0,
 "nh4_p":1.0
 },
@@ -20312,7 +20312,7 @@
 "rxn09736"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":161.89282437912917,
+"smoment_kcat_per_s":"162.7983781239721",
 "smoment_mw":"121.104"
 }
 },
@@ -20322,7 +20322,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00017531800363366338,
+"enzyme_pool":-0.000303163890031375,
 "h2o_c":-1.0,
 "h_c":1.0,
 "pi_c":1.0,
@@ -20354,15 +20354,15 @@
 "rxn09227"
 ],
 "smoment_enzyme":"ABC-28-CPLX",
-"smoment_kcat_per_s":484.54173061652165,
-"smoment_mw":"305.816"
+"smoment_kcat_per_s":"140.09291767727856",
+"smoment_mw":"152.89601"
 }
 },
 {
 "id":"GLYCAt2rpp_fw",
 "name":"D-glycerate transport via proton symport, reversible (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00039441827701937424,
+"enzyme_pool":-0.000389766399950992,
 "glyc__R_c":1.0,
 "glyc__R_p":-1.0,
 "h_c":1.0,
@@ -20385,15 +20385,15 @@
 "rxn13711"
 ],
 "smoment_enzyme":"B2789-MONOMER",
-"smoment_kcat_per_s":34.609338235319726,
-"smoment_mw":"49.142"
+"smoment_kcat_per_s":"35.02240345198425",
+"smoment_mw":"49.142002"
 }
 },
 {
 "id":"GLYCAtex_fw",
 "name":"D-glycerate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399733438221416,
+"enzyme_pool":-0.000320175945549609,
 "glyc__R_e":-1.0,
 "glyc__R_p":1.0
 },
@@ -20411,7 +20411,7 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn08645",
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801470926752,
+"smoment_kcat_per_s":"105.06723090097891",
 "smoment_mw":"121.104"
 }
 },
@@ -20654,7 +20654,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.00020767847744905687,
+"enzyme_pool":-0.000205228638588455,
 "gln__L_c":1.0,
 "gln__L_p":-1.0,
 "h2o_c":-1.0,
@@ -20687,7 +20687,7 @@
 "rxn08624"
 ],
 "smoment_enzyme":"ABC-12-CPLX",
-"smoment_kcat_per_s":173.05061810126486,
+"smoment_kcat_per_s":"175.11634407397287",
 "smoment_mw":"129.38"
 }
 },
@@ -20697,7 +20697,7 @@
 "metabolites":{
 "co2_e":-1.0,
 "co2_p":1.0,
-"enzyme_pool":-0.0003239951550023396
+"enzyme_pool":-0.000320173758014277
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -20777,7 +20777,7 @@
 "rxn09860"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.8287131168893,
+"smoment_kcat_per_s":"105.06794875581267",
 "smoment_mw":"121.104"
 }
 },
@@ -20785,7 +20785,7 @@
 "id":"GLUt2rpp_fw",
 "name":"L-glutamate transport via proton symport, reversible (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00037850237523993604,
+"enzyme_pool":-0.000374037209756834,
 "glu__L_c":1.0,
 "glu__L_p":-1.0,
 "h_c":1.0,
@@ -20826,7 +20826,7 @@
 "rxn08631"
 ],
 "smoment_enzyme":"GLTP-MONOMER",
-"smoment_kcat_per_s":34.609352752193935,
+"smoment_kcat_per_s":"35.02251081045784",
 "smoment_mw":"47.159"
 }
 },
@@ -20838,7 +20838,7 @@
 "acglu_c":-1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.004270265122301583
+"enzyme_pool":-0.00426671283707146
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -20862,7 +20862,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01917",
 "smoment_enzyme":"ACETYLGLUTKIN-CPLX",
-"smoment_kcat_per_s":3.5333481414383563,
+"smoment_kcat_per_s":"3.53628985814042",
 "smoment_mw":"54.318"
 }
 },
@@ -20873,7 +20873,7 @@
 "6pgc_c":1.0,
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0003824935819434828,
+"enzyme_pool":-0.000377980356761005,
 "glcn_c":-1.0,
 "h_c":1.0
 },
@@ -20899,8 +20899,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01275",
 "smoment_enzyme":"GLUCONOKINII-CPLX",
-"smoment_kcat_per_s":28.385370983365892,
-"smoment_mw":"39.086"
+"smoment_kcat_per_s":"28.72430427553342",
+"smoment_mw":"39.086002"
 }
 },
 {
@@ -20908,7 +20908,7 @@
 "name":"Glutamate dehydrogenase (NADP)",
 "metabolites":{
 "akg_c":1.0,
-"enzyme_pool":-0.009174431204952923,
+"enzyme_pool":-0.00906693860711164,
 "glu__L_c":-1.0,
 "h2o_c":-1.0,
 "h_c":1.0,
@@ -20942,7 +20942,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00184",
 "smoment_enzyme":"GDHA-CPLX",
-"smoment_kcat_per_s":8.82543359087173,
+"smoment_kcat_per_s":"8.930063039119508",
 "smoment_mw":"291.486"
 }
 },
@@ -20950,7 +20950,7 @@
 "id":"GLCNt2rpp_fw",
 "name":"D-gluconate transport via proton symport, reversible (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00036952936146650165,
+"enzyme_pool":-0.000365170483467592,
 "glcn_c":1.0,
 "glcn_p":-1.0,
 "h_c":1.0,
@@ -20978,7 +20978,7 @@
 "rxn05571"
 ],
 "smoment_enzyme":"YJGT-MONOMER",
-"smoment_kcat_per_s":34.60933825640272,
+"smoment_kcat_per_s":"35.02245456758469",
 "smoment_mw":"46.041"
 }
 },
@@ -20986,7 +20986,7 @@
 "id":"GLCptspp_fw",
 "name":"D-glucose transport via PEP:Pyr PTS (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032857495253973994,
+"enzyme_pool":-0.000327143489166588,
 "g6p_c":1.0,
 "glc__D_p":-1.0,
 "pep_c":-1.0,
@@ -21009,8 +21009,8 @@
 "rxn05226"
 ],
 "smoment_enzyme":"CPLX-157",
-"smoment_kcat_per_s":101.11425370165072,
-"smoment_mw":"119.605"
+"smoment_kcat_per_s":"101.55669790231373",
+"smoment_mw":"119.605005"
 }
 },
 {
@@ -21160,7 +21160,7 @@
 "name":"Histidinol-phosphate transaminase",
 "metabolites":{
 "akg_c":1.0,
-"enzyme_pool":-0.006222922475245541,
+"enzyme_pool":-0.00621697773845894,
 "glu__L_c":-1.0,
 "hisp_c":1.0,
 "imacp_c":-1.0
@@ -21187,7 +21187,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02320",
 "smoment_enzyme":"HISTPHOSTRANS-CPLX",
-"smoment_kcat_per_s":3.513890258741149,
+"smoment_kcat_per_s":"3.5172502760299365",
 "smoment_mw":"78.72"
 }
 },
@@ -21196,7 +21196,7 @@
 "name":"Tetrahydrodipicolinate succinylase",
 "metabolites":{
 "coa_c":1.0,
-"enzyme_pool":-0.007373928899013003,
+"enzyme_pool":-0.00736830318544207,
 "h2o_c":-1.0,
 "sl2a6o_c":1.0,
 "succoa_c":-1.0,
@@ -21224,8 +21224,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03031",
 "smoment_enzyme":"CPLX0-3181",
-"smoment_kcat_per_s":2.2520784908692923,
-"smoment_mw":"59.784"
+"smoment_kcat_per_s":"2.253798107899309",
+"smoment_mw":"59.784004"
 }
 },
 {
@@ -21341,7 +21341,7 @@
 "name":"L-threonine deaminase",
 "metabolites":{
 "2obut_c":1.0,
-"enzyme_pool":-0.00033267918940640923,
+"enzyme_pool":-0.000332376487923951,
 "nh4_c":1.0,
 "thr__L_c":-1.0
 },
@@ -21367,15 +21367,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00737",
 "smoment_enzyme":"THREDEHYDSYN-CPLX",
-"smoment_kcat_per_s":187.6849856472747,
-"smoment_mw":"224.78"
+"smoment_kcat_per_s":"187.85592724482822",
+"smoment_mw":"224.780016"
 }
 },
 {
 "id":"ETOHtex_fw",
 "name":"Ethanol transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239972460703942,
+"enzyme_pool":-0.000320176157760434,
 "etoh_e":-1.0,
 "etoh_p":1.0
 },
@@ -21402,7 +21402,7 @@
 "rxn09764"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82804300963441,
+"smoment_kcat_per_s":"105.06716126305233",
 "smoment_mw":"121.104"
 }
 },
@@ -21411,7 +21411,7 @@
 "name":"Ribonucleoside-diphosphate reductase (GDP)",
 "metabolites":{
 "dgdp_c":1.0,
-"enzyme_pool":-0.006288727259655765,
+"enzyme_pool":-0.0061863493015707,
 "gdp_c":-1.0,
 "h2o_c":1.0,
 "trdox_c":1.0,
@@ -21433,8 +21433,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05233",
 "smoment_enzyme":"RIBONUCLEOSIDE-DIP-REDUCTI-CPLX",
-"smoment_kcat_per_s":11.421848320517034,
-"smoment_mw":"258.584"
+"smoment_kcat_per_s":"11.610868785207918",
+"smoment_mw":"258.584004"
 }
 },
 {
@@ -21442,7 +21442,7 @@
 "name":"Dihydrofolate reductase",
 "metabolites":{
 "dhf_c":-1.0,
-"enzyme_pool":-0.002314210156497409,
+"enzyme_pool":-0.00231194752905142,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -21487,7 +21487,7 @@
 "sabiork.reaction":"100",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"DIHYDROFOLATEREDUCT-MONOMER",
-"smoment_kcat_per_s":2.1604443348349034,
+"smoment_kcat_per_s":"2.162558691058869",
 "smoment_mw":"17.999"
 }
 },
@@ -21496,7 +21496,7 @@
 "name":"Phosphoribosylanthranilate isomerase (irreversible)",
 "metabolites":{
 "2cpr5p_c":1.0,
-"enzyme_pool":-0.0035285821084176084,
+"enzyme_pool":-0.00352330524075431,
 "pran_c":-1.0
 },
 "lower_bound":0.0,
@@ -21520,7 +21520,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02508",
 "smoment_enzyme":"PRAI-IGPS",
-"smoment_kcat_per_s":3.8961195617304094,
+"smoment_kcat_per_s":"3.901954794820589",
 "smoment_mw":"49.492"
 }
 },
@@ -21553,7 +21553,7 @@
 "metabolites":{
 "34hpp_c":1.0,
 "akg_c":-1.0,
-"enzyme_pool":-0.007177966227540638,
+"enzyme_pool":-0.00709369977452748,
 "glu__L_c":1.0,
 "tyr__L_c":-1.0
 },
@@ -21618,7 +21618,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00527",
 "smoment_enzyme":"ASPAMINOTRANS-DIMER",
-"smoment_kcat_per_s":3.372434677853905,
+"smoment_kcat_per_s":"3.412496016415453",
 "smoment_mw":"87.146"
 }
 },
@@ -21628,7 +21628,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0008574045688403178,
+"enzyme_pool":-0.000856661958229154,
 "h_c":1.0,
 "skm5p_c":1.0,
 "skm_c":-1.0
@@ -21656,7 +21656,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01739",
 "smoment_enzyme":"AROK-MONOMER",
-"smoment_kcat_per_s":6.329826571326543,
+"smoment_kcat_per_s":"6.3353136789698095",
 "smoment_mw":"19.538"
 }
 },
@@ -21711,7 +21711,7 @@
 "name":"Glutamate synthase (NADPH)",
 "metabolites":{
 "akg_c":-1.0,
-"enzyme_pool":-0.021175993800074927,
+"enzyme_pool":-0.0210010425173498,
 "gln__L_c":-1.0,
 "glu__L_c":2.0,
 "h_c":-1.0,
@@ -21740,8 +21740,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00085",
 "smoment_enzyme":"GLUTAMATESYN-CPLX",
-"smoment_kcat_per_s":11.297436460507368,
-"smoment_mw":"861.244"
+"smoment_kcat_per_s":"11.391551042294036",
+"smoment_mw":"861.244012"
 }
 },
 {
@@ -21781,7 +21781,7 @@
 "metabolites":{
 "aicar_c":1.0,
 "eig3p_c":1.0,
-"enzyme_pool":-0.0048701453719475814,
+"enzyme_pool":-0.00486540938535298,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h_c":1.0,
@@ -21814,8 +21814,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03135",
 "smoment_enzyme":"GLUTAMIDOTRANS-CPLX",
-"smoment_kcat_per_s":2.857945717859553,
-"smoment_mw":"50.107"
+"smoment_kcat_per_s":"2.860727754701956",
+"smoment_mw":"50.107002"
 }
 },
 {
@@ -21825,7 +21825,7 @@
 "accoa_c":1.0,
 "co2_c":1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0012886994326844362,
+"enzyme_pool":-0.00128810216333717,
 "nad_c":-1.0,
 "nadh_c":1.0,
 "pyr_c":-1.0
@@ -21879,8 +21879,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00154",
 "smoment_enzyme":"PYRUVATEDEH-CPLX",
-"smoment_kcat_per_s":988.6349764889753,
-"smoment_mw":"4586.592"
+"smoment_kcat_per_s":"989.0934505012851",
+"smoment_mw":"4586.592288"
 }
 },
 {
@@ -21888,7 +21888,7 @@
 "name":"5,10-methylenetetrahydrofolate reductase (NADH)",
 "metabolites":{
 "5mthf_c":1.0,
-"enzyme_pool":-0.0076066056215005505,
+"enzyme_pool":-0.00759937289363331,
 "h_c":-2.0,
 "mlthf_c":-1.0,
 "nad_c":1.0,
@@ -21915,7 +21915,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"METHYLENETHFREDUCT-CPLX",
-"smoment_kcat_per_s":4.835417128389959,
+"smoment_kcat_per_s":"4.840019252368312",
 "smoment_mw":"132.412"
 }
 },
@@ -21973,7 +21973,7 @@
 "metabolites":{
 "dump_c":1.0,
 "dutp_c":-1.0,
-"enzyme_pool":-0.02241794270980743,
+"enzyme_pool":-0.0223843382264097,
 "h2o_c":-1.0,
 "h_c":1.0,
 "ppi_c":1.0
@@ -22022,7 +22022,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01519",
 "smoment_enzyme":"DUTP-PYROP-CPLX",
-"smoment_kcat_per_s":0.605430220591218,
+"smoment_kcat_per_s":"0.6063391225918303",
 "smoment_mw":"48.861"
 }
 },
@@ -22032,7 +22032,7 @@
 "metabolites":{
 "cdp_c":1.0,
 "ctp_c":-1.0,
-"enzyme_pool":-0.0023045315319352817,
+"enzyme_pool":-0.00227782587698754,
 "h2o_c":-1.0,
 "h_c":1.0,
 "pi_c":1.0
@@ -22062,7 +22062,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00408",
 "smoment_enzyme":"G7841-MONOMER",
-"smoment_kcat_per_s":4.724146445200465,
+"smoment_kcat_per_s":"4.779533218246955",
 "smoment_mw":"39.193"
 }
 },
@@ -22070,7 +22070,7 @@
 "id":"FORt2pp_fw",
 "name":"Formate transport via proton symport (uptake only, periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0002487311843834481,
+"enzyme_pool":-0.00024579753540154,
 "for_c":1.0,
 "for_p":-1.0,
 "h_c":1.0,
@@ -22092,8 +22092,8 @@
 "rxn05559"
 ],
 "smoment_enzyme":"CPLX0-7843",
-"smoment_kcat_per_s":173.05049892417057,
-"smoment_mw":"154.955"
+"smoment_kcat_per_s":"175.11590128081815",
+"smoment_mw":"154.955005"
 }
 },
 {
@@ -22131,7 +22131,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0023692585552127212,
+"enzyme_pool":-0.00236763570173748,
 "gln__L_c":1.0,
 "glu__L_c":-1.0,
 "h_c":1.0,
@@ -22178,8 +22178,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00187",
 "smoment_enzyme":"GLUTAMINESYN-OLIGOMER",
-"smoment_kcat_per_s":73.02425180767132,
-"smoment_mw":"622.848"
+"smoment_kcat_per_s":"73.07430919645637",
+"smoment_mw":"622.848036"
 }
 },
 {
@@ -22189,7 +22189,7 @@
 "accoa_c":-1.0,
 "acglu_c":1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.000533376921193393,
+"enzyme_pool":-0.000532893922993333,
 "glu__L_c":-1.0,
 "h_c":1.0
 },
@@ -22229,8 +22229,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00192",
 "smoment_enzyme":"N-ACETYLTRANSFER-CPLX",
-"smoment_kcat_per_s":153.72181174096573,
-"smoment_mw":"295.17"
+"smoment_kcat_per_s":"153.86115284027937",
+"smoment_mw":"295.170024"
 }
 },
 {
@@ -22240,7 +22240,7 @@
 "adp_c":1.0,
 "atp_c":-1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0044215152253630355,
+"enzyme_pool":-0.0043694102601719,
 "pi_c":1.0,
 "succ_c":-1.0,
 "succoa_c":1.0
@@ -22288,8 +22288,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00285",
 "smoment_enzyme":"SUCCCOASYN",
-"smoment_kcat_per_s":8.94238442561113,
-"smoment_mw":"142.34"
+"smoment_kcat_per_s":"9.049022098109054",
+"smoment_mw":"142.340004"
 }
 },
 {
@@ -22299,7 +22299,7 @@
 "adp_c":1.0,
 "air_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.0021204948350706503,
+"enzyme_pool":-0.0021185621867981,
 "fpram_c":-1.0,
 "h_c":2.0,
 "pi_c":1.0
@@ -22324,7 +22324,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"AIRS-CPLX",
-"smoment_kcat_per_s":9.65550309570185,
+"smoment_kcat_per_s":"9.664311282449807",
 "smoment_mw":"73.708"
 }
 },
@@ -22332,7 +22332,7 @@
 "id":"HISTP_fw",
 "name":"Histidinol-phosphatase",
 "metabolites":{
-"enzyme_pool":-0.0046589225114908196,
+"enzyme_pool":-0.00465128451074563,
 "h2o_c":-1.0,
 "hisp_c":-1.0,
 "histd_c":1.0,
@@ -22359,15 +22359,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02160",
 "smoment_enzyme":"IMIDHISTID-CPLX",
-"smoment_kcat_per_s":4.80297034592797,
-"smoment_mw":"80.556"
+"smoment_kcat_per_s":"4.810857911872131",
+"smoment_mw":"80.556008"
 }
 },
 {
 "id":"LDH_D_fw",
 "name":"D-lactate dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.0034024621581459735,
+"enzyme_pool":-0.00336233491435906,
 "h_c":1.0,
 "lac__D_c":-1.0,
 "nad_c":-1.0,
@@ -22396,7 +22396,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00500",
 "smoment_enzyme":"CPLX0-8158",
-"smoment_kcat_per_s":11.930902551628861,
+"smoment_kcat_per_s":"12.073289984017766",
 "smoment_mw":"146.14"
 }
 },
@@ -22408,7 +22408,7 @@
 "actACP_c":1.0,
 "co2_c":1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.0019300081367372057,
+"enzyme_pool":-0.00192831506462231,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -22428,8 +22428,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn08766",
 "smoment_enzyme":"CPLX0-252",
-"smoment_kcat_per_s":9.647339868691814,
-"smoment_mw":"67.03"
+"smoment_kcat_per_s":"9.655811154884066",
+"smoment_mw":"67.030006"
 }
 },
 {
@@ -22437,7 +22437,7 @@
 "name":"Trans-2-decenoyl-ACP isomerase",
 "metabolites":{
 "cdec3eACP_c":1.0,
-"enzyme_pool":-0.0010317799189433366,
+"enzyme_pool":-0.00102690005875627,
 "tdec2eACP_c":-1.0
 },
 "lower_bound":0.0,
@@ -22452,8 +22452,8 @@
 "metanetx.reaction":"MNXR104659",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":10.213741457699449,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"10.262278548516123",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -22463,7 +22463,7 @@
 "3ocpalm9eACP_c":1.0,
 "ACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.007117338569030215,
+"enzyme_pool":-0.00708682375372555,
 "h_c":-1.0,
 "malACP_c":-1.0,
 "tdeACP_c":-1.0
@@ -22481,8 +22481,8 @@
 "metanetx.reaction":"MNXR94960",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":3.326227726737835,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"3.3405502067283925",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -22491,7 +22491,7 @@
 "metabolites":{
 "2dda7p_c":-1.0,
 "3dhq_c":1.0,
-"enzyme_pool":-0.0003438782305332248,
+"enzyme_pool":-0.000343570759799792,
 "pi_c":1.0
 },
 "lower_bound":0.0,
@@ -22517,7 +22517,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02212",
 "smoment_enzyme":"AROB-MONOMER",
-"smoment_kcat_per_s":31.40727390922839,
+"smoment_kcat_per_s":"31.43538112519059",
 "smoment_mw":"38.881"
 }
 },
@@ -22525,7 +22525,7 @@
 "id":"EAR161x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:1)",
 "metabolites":{
-"enzyme_pool":-0.009743663701710037,
+"enzyme_pool":-0.00962964777112727,
 "h_c":-1.0,
 "hdeACP_c":1.0,
 "nad_c":1.0,
@@ -22545,8 +22545,8 @@
 "metanetx.reaction":"MNXR97857",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":3.1774495659744955,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"3.2150710968941247",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -22578,7 +22578,7 @@
 "metabolites":{
 "3pg_c":-1.0,
 "3php_c":1.0,
-"enzyme_pool":-0.0019218589389126232,
+"enzyme_pool":-0.00192011911234034,
 "h_c":1.0,
 "nad_c":-1.0,
 "nadh_c":1.0
@@ -22623,15 +22623,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01101",
 "smoment_enzyme":"PGLYCDEHYDROG-CPLX",
-"smoment_kcat_per_s":25.540086970283127,
-"smoment_mw":"176.704"
+"smoment_kcat_per_s":"25.563230667472034",
+"smoment_mw":"176.704012"
 }
 },
 {
 "id":"MALtex_fw",
 "name":"Malate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239973343936859,
+"enzyme_pool":-0.000320175850440474,
 "mal__L_e":-1.0,
 "mal__L_p":1.0
 },
@@ -22652,7 +22652,7 @@
 "rxn08868"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801470559129,
+"smoment_kcat_per_s":"105.06726211149461",
 "smoment_mw":"121.104"
 }
 },
@@ -22664,7 +22664,7 @@
 "ACP_c":1.0,
 "cddec5eACP_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.007117338382309352,
+"enzyme_pool":-0.00709324006022442,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -22681,8 +22681,8 @@
 "metanetx.reaction":"MNXR94958",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":3.326227814000247,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"3.3375284573135624",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -22691,7 +22691,7 @@
 "metabolites":{
 "3hcddec5eACP_c":1.0,
 "3ocddec5eACP_c":-1.0,
-"enzyme_pool":-0.0015508169388975253,
+"enzyme_pool":-0.00154304993126545,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -22710,8 +22710,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07987",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":18.312928681440336,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"18.40510830898413",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -22720,7 +22720,7 @@
 "metabolites":{
 "amp_c":1.0,
 "dcamp_c":-1.0,
-"enzyme_pool":-0.002350916804039871,
+"enzyme_pool":-0.00234841924526303,
 "fum_c":1.0
 },
 "lower_bound":0.0,
@@ -22766,8 +22766,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00800",
 "smoment_enzyme":"CPLX0-7959",
-"smoment_kcat_per_s":24.360708937715653,
-"smoment_mw":"206.172"
+"smoment_kcat_per_s":"24.38661812572519",
+"smoment_mw":"206.172012"
 }
 },
 {
@@ -22776,7 +22776,7 @@
 "metabolites":{
 "10fthf_c":-1.0,
 "aicar_c":-1.0,
-"enzyme_pool":-0.0016265816956690777,
+"enzyme_pool":-0.00162366586287141,
 "fprica_c":1.0,
 "thf_c":1.0
 },
@@ -22821,15 +22821,15 @@
 "sabiork.reaction":"122",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"AICARTRANSIMPCYCLO-CPLX",
-"smoment_kcat_per_s":9.79029966009285,
-"smoment_mw":"57.329"
+"smoment_kcat_per_s":"9.807881745826284",
+"smoment_mw":"57.329002"
 }
 },
 {
 "id":"D_LACt2pp_fw",
 "name":"D-lactate transport via proton symport (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0004748869457357794,
+"enzyme_pool":-0.000469285744669199,
 "h_c":1.0,
 "h_p":-1.0,
 "lac__D_c":1.0,
@@ -22852,15 +22852,15 @@
 "rxn08350"
 ],
 "smoment_enzyme":"LCTP-MONOMER",
-"smoment_kcat_per_s":34.6094069401943,
-"smoment_mw":"59.168"
+"smoment_kcat_per_s":"35.02249232069546",
+"smoment_mw":"59.168003"
 }
 },
 {
 "id":"RIBtex_fw",
 "name":"Ribose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239973343773831,
+"enzyme_pool":-0.00032017587641039,
 "rib__D_e":-1.0,
 "rib__D_p":1.0
 },
@@ -22877,7 +22877,7 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn09228",
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801471081568,
+"smoment_kcat_per_s":"105.06725358934115",
 "smoment_mw":"121.104"
 }
 },
@@ -22885,7 +22885,7 @@
 "id":"FRUpts2pp_fw",
 "name":"Fructose transport via PEP:Pyr PTS (f6p generating) (periplasm)",
 "metabolites":{
-"enzyme_pool":-6.134278368181597e-05,
+"enzyme_pool":-6.10306734183241e-05,
 "f6p_c":1.0,
 "fru_p":-1.0,
 "pep_c":-1.0,
@@ -22905,15 +22905,15 @@
 "metanetx.reaction":"MNXR182405",
 "sbo":"SBO:0000185",
 "smoment_enzyme":"CPLX-165",
-"smoment_kcat_per_s":954.6581582056311,
-"smoment_mw":"210.821"
+"smoment_kcat_per_s":"959.5403252529003",
+"smoment_mw":"210.821012"
 }
 },
 {
 "id":"FORtex_fw",
 "name":"Formate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239936585898639,
+"enzyme_pool":-0.00032017229605286,
 "for_e":-1.0,
 "for_p":1.0
 },
@@ -22943,7 +22943,7 @@
 "rxn08526"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82919266510737,
+"smoment_kcat_per_s":"105.06842851402145",
 "smoment_mw":"121.104"
 }
 },
@@ -22953,7 +22953,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-8.21772885387945e-05,
+"enzyme_pool":-8.19780773326103e-05,
 "f6p_c":-1.0,
 "fdp_c":1.0,
 "h_c":1.0
@@ -22978,8 +22978,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"6PFK-1-CPX",
-"smoment_kcat_per_s":471.09528705193804,
-"smoment_mw":"139.368"
+"smoment_kcat_per_s":"472.24011499555843",
+"smoment_mw":"139.368012"
 }
 },
 {
@@ -22988,7 +22988,7 @@
 "metabolites":{
 "2pg_c":-1.0,
 "3pg_c":1.0,
-"enzyme_pool":-0.0006782388763709194
+"enzyme_pool":-0.000677428459136708
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -23054,15 +23054,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01106",
 "smoment_enzyme":"PHOSGLYCMUTASE",
-"smoment_kcat_per_s":23.390644501729213,
-"smoment_mw":"57.112"
+"smoment_kcat_per_s":"23.418628700324554",
+"smoment_mw":"57.112004"
 }
 },
 {
 "id":"CYTBO3_4pp_fw",
 "name":"Cytochrome oxidase bo3 (ubiquinol-8: 4 protons) (periplasm)",
 "metabolites":{
-"enzyme_pool":-5.814064834181193e-05,
+"enzyme_pool":-5.80909648775319e-05,
 "h2o_c":2.0,
 "h_c":-8.0,
 "h_p":8.0,
@@ -23083,15 +23083,15 @@
 "metanetx.reaction":"MNXR97036",
 "sbo":"SBO:0000185",
 "smoment_enzyme":"CYT-O-UBIOX-CPLX",
-"smoment_kcat_per_s":687.6571636814904,
-"smoment_mw":"143.931"
+"smoment_kcat_per_s":"688.245334534271",
+"smoment_mw":"143.931008"
 }
 },
 {
 "id":"EAR141x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:1)",
 "metabolites":{
-"enzyme_pool":-0.009743663701711954,
+"enzyme_pool":-0.00962964777111649,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -23111,8 +23111,8 @@
 "metanetx.reaction":"MNXR97853",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":3.1774495659738697,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"3.215071096897726",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23142,7 +23142,7 @@
 "id":"EAR181x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:1)",
 "metabolites":{
-"enzyme_pool":-0.028648296787694837,
+"enzyme_pool":-0.0283838160493088,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -23162,8 +23162,8 @@
 "metanetx.reaction":"MNXR97861",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":1.0806925182825562,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"1.0907625024217344",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23194,7 +23194,7 @@
 "name":"Triose-phosphate isomerase",
 "metabolites":{
 "dhap_c":-1.0,
-"enzyme_pool":-0.0001817496082319016,
+"enzyme_pool":-0.000181428538145295,
 "g3p_c":1.0
 },
 "lower_bound":0.0,
@@ -23258,15 +23258,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00747",
 "smoment_enzyme":"TPI",
-"smoment_kcat_per_s":82.4455391690594,
-"smoment_mw":"53.944"
+"smoment_kcat_per_s":"82.5914473474697",
+"smoment_mw":"53.944004"
 }
 },
 {
 "id":"RPI_fw",
 "name":"Ribose-5-phosphate isomerase",
 "metabolites":{
-"enzyme_pool":-0.003459645947085638,
+"enzyme_pool":-0.00341886949634199,
 "r5p_c":-1.0,
 "ru5p__D_c":1.0
 },
@@ -23284,7 +23284,7 @@
 "metanetx.reaction":"MNXR189850",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"RIB5PISOMA-CPLX",
-"smoment_kcat_per_s":3.6708958645604524,
+"smoment_kcat_per_s":"3.7146782038882526",
 "smoment_mw":"45.72"
 }
 },
@@ -23294,7 +23294,7 @@
 "metabolites":{
 "3hddecACP_c":1.0,
 "3oddecACP_c":-1.0,
-"enzyme_pool":-0.0012226337856722494,
+"enzyme_pool":-0.00121652282140564,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -23320,8 +23320,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05340",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":23.22854180279717,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"23.345226749052035",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -23329,7 +23329,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C8:0)",
 "metabolites":{
 "3hoctACP_c":-1.0,
-"enzyme_pool":-0.0005619694247756195,
+"enzyme_pool":-0.000559636374296343,
 "h2o_c":1.0,
 "toct2eACP_c":1.0
 },
@@ -23356,8 +23356,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05334",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":18.75250301658499,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"18.83068172202851",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -23365,7 +23365,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:0)",
 "metabolites":{
 "3hddecACP_c":-1.0,
-"enzyme_pool":-0.0008004118706943042,
+"enzyme_pool":-0.000796656473733381,
 "h2o_c":1.0,
 "tddec2eACP_c":1.0
 },
@@ -23393,15 +23393,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05331",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":13.166138233547223,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"13.228204115455842",
+"smoment_mw":"37.938004"
 }
 },
 {
 "id":"EAR180x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C18:0)",
 "metabolites":{
-"enzyme_pool":-0.0063452346736559435,
+"enzyme_pool":-0.00627055033109659,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -23421,8 +23421,8 @@
 "metanetx.reaction":"MNXR97859",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":4.879252162026299,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"4.937366034474995",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23431,7 +23431,7 @@
 "metabolites":{
 "akg_e":-1.0,
 "akg_p":1.0,
-"enzyme_pool":-0.00032399687508047407
+"enzyme_pool":-0.000320175209936904
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -23451,7 +23451,7 @@
 "rxn13220"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82816189706931,
+"smoment_kcat_per_s":"105.06747229627608",
 "smoment_mw":"121.104"
 }
 },
@@ -23459,7 +23459,7 @@
 "id":"SO4t2pp_fw",
 "name":"Sulfate transport in via proton symport (periplasm to cytoplasm)",
 "metabolites":{
-"enzyme_pool":-5.710169013805824e-05,
+"enzyme_pool":-5.70493723225043e-05,
 "h_c":1.0,
 "h_p":-1.0,
 "so4_c":1.0,
@@ -23487,15 +23487,15 @@
 "rxn05651"
 ],
 "smoment_enzyme":"EG10003-MONOMER",
-"smoment_kcat_per_s":142.55756279886867,
-"smoment_mw":"29.305"
+"smoment_kcat_per_s":"142.68830667085592",
+"smoment_mw":"29.305002"
 }
 },
 {
 "id":"EAR180y_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C18:0)",
 "metabolites":{
-"enzyme_pool":-0.006963604326309374,
+"enzyme_pool":-0.00688171516902577,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -23515,8 +23515,8 @@
 "metanetx.reaction":"MNXR97860",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":4.445973457025584,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"4.498878762313723",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23524,7 +23524,7 @@
 "name":"Aconitase (half-reaction B, Isocitrate hydro-lyase)",
 "metabolites":{
 "acon_C_c":-1.0,
-"enzyme_pool":-0.0015173270363194654,
+"enzyme_pool":-0.00151958365772561,
 "h2o_c":-1.0,
 "icit_c":1.0
 },
@@ -23550,7 +23550,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01388",
 "smoment_enzyme":"CPLX0-7761",
-"smoment_kcat_per_s":34.23344611279762,
+"smoment_kcat_per_s":"34.1826085515277",
 "smoment_mw":"186.996"
 }
 },
@@ -23559,7 +23559,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:1)",
 "metabolites":{
 "3hcpalm9eACP_c":-1.0,
-"enzyme_pool":-0.002228274846257688,
+"enzyme_pool":-0.00222277636695396,
 "h2o_c":1.0,
 "t3c9palmeACP_c":1.0
 },
@@ -23577,7 +23577,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07978",
 "smoment_enzyme":"FABZ-CPLX",
-"smoment_kcat_per_s":12.740050169758263,
+"smoment_kcat_per_s":"12.77156521698855",
 "smoment_mw":"102.198"
 }
 },
@@ -23585,7 +23585,7 @@
 "id":"SUCDi_fw",
 "name":"Succinate dehydrogenase (irreversible)",
 "metabolites":{
-"enzyme_pool":-0.0007041953588607836,
+"enzyme_pool":-0.000703990974907043,
 "fum_c":1.0,
 "q8_c":-1.0,
 "q8h2_c":1.0,
@@ -23611,8 +23611,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn09272",
 "smoment_enzyme":"CPLX0-8160",
-"smoment_kcat_per_s":140.06411538917743,
-"smoment_mw":"355.077"
+"smoment_kcat_per_s":"140.10478734668018",
+"smoment_mw":"355.077021"
 }
 },
 {
@@ -23623,7 +23623,7 @@
 "asn__L_c":1.0,
 "asp__L_c":-1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.008978279337826536,
+"enzyme_pool":-0.00887326406965914,
 "gln__L_c":-1.0,
 "glu__L_c":1.0,
 "h2o_c":-1.0,
@@ -23673,15 +23673,15 @@
 "rxn11214"
 ],
 "smoment_enzyme":"ASNSYNB-CPLX",
-"smoment_kcat_per_s":3.8771967596168047,
-"smoment_mw":"125.318"
+"smoment_kcat_per_s":"3.923083715811808",
+"smoment_mw":"125.318008"
 }
 },
 {
 "id":"EAR80y_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C8:0)",
 "metabolites":{
-"enzyme_pool":-0.0062253035111998435,
+"enzyme_pool":-0.00615203965286144,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -23701,8 +23701,8 @@
 "metanetx.reaction":"MNXR97868",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":4.973251495979331,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"5.032477677191512",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23710,7 +23710,7 @@
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C12:0)",
 "metabolites":{
 "ddcaACP_c":1.0,
-"enzyme_pool":-0.001857190068375782,
+"enzyme_pool":-0.00184971988893022,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -23730,8 +23730,8 @@
 "metanetx.reaction":"MNXR148946",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":16.670345446697482,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"16.737670610293197",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23740,7 +23740,7 @@
 "metabolites":{
 "3hcvac11eACP_c":1.0,
 "3ocvac11eACP_c":-1.0,
-"enzyme_pool":-0.010418281003328821,
+"enzyme_pool":-0.0103009465139877,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -23759,8 +23759,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07993",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":2.7259775380339337,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"2.757028305364623",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -23768,7 +23768,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C12:1)",
 "metabolites":{
 "3hcddec5eACP_c":-1.0,
-"enzyme_pool":-0.0022282748093994473,
+"enzyme_pool":-0.00222399169590325,
 "h2o_c":1.0,
 "t3c5ddeceACP_c":1.0
 },
@@ -23786,7 +23786,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07976",
 "smoment_enzyme":"FABZ-CPLX",
-"smoment_kcat_per_s":12.74005038049342,
+"smoment_kcat_per_s":"12.764586030436474",
 "smoment_mw":"102.198"
 }
 },
@@ -23819,7 +23819,7 @@
 "id":"EAR140x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C14:0)",
 "metabolites":{
-"enzyme_pool":-0.010761469648009801,
+"enzyme_pool":-0.0106360056216793,
 "h_c":-1.0,
 "myrsACP_c":1.0,
 "nad_c":1.0,
@@ -23839,8 +23839,8 @@
 "metanetx.reaction":"MNXR97851",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":2.8769304762872854,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"2.910867418038666",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23850,7 +23850,7 @@
 "3ocvac11eACP_c":1.0,
 "ACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0170588774539962,
+"enzyme_pool":-0.0168865358951398,
 "h_c":-1.0,
 "hdeACP_c":-1.0,
 "malACP_c":-1.0
@@ -23868,7 +23868,7 @@
 "metanetx.reaction":"MNXR94962",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"3-OXOACYL-ACP-SYNTHII-CPLX",
-"smoment_kcat_per_s":1.4018767945860509,
+"smoment_kcat_per_s":"1.416184147710685",
 "smoment_mw":"86.092"
 }
 },
@@ -23880,7 +23880,7 @@
 "ACP_c":1.0,
 "co2_c":1.0,
 "ddcaACP_c":-1.0,
-"enzyme_pool":-0.007222655957584895,
+"enzyme_pool":-0.00720056757342091,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -23897,8 +23897,8 @@
 "metanetx.reaction":"MNXR94957",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":3.2777262308926236,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"3.287781180325534",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -23907,7 +23907,7 @@
 "metabolites":{
 "3hmrsACP_c":1.0,
 "3omrsACP_c":-1.0,
-"enzyme_pool":-0.0012546015150715828,
+"enzyme_pool":-0.00124841275513512,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -23933,15 +23933,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05342",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":22.63666961886269,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"22.74888733256918",
+"smoment_mw":"102.240004"
 }
 },
 {
 "id":"EAR160y_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C16:0)",
 "metabolites":{
-"enzyme_pool":-0.0025161520116513338,
+"enzyme_pool":-0.00250394919961193,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -23962,8 +23962,8 @@
 "metanetx.reaction":"MNXR149094",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":12.304503009609963,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"12.364468986439704",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -23972,7 +23972,7 @@
 "metabolites":{
 "3hpalmACP_c":1.0,
 "3opalmACP_c":-1.0,
-"enzyme_pool":-0.0018278841294878147,
+"enzyme_pool":-0.00181819316530077,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -23998,8 +23998,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05336",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":15.537089874486666,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"15.61990312861672",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24007,7 +24007,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:1)",
 "metabolites":{
 "3hcvac11eACP_c":-1.0,
-"enzyme_pool":-0.0036909115206714828,
+"enzyme_pool":-0.00364781973005916,
 "h2o_c":1.0,
 "t3c11vaceACP_c":1.0
 },
@@ -24025,7 +24025,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07980",
 "smoment_enzyme":"FABZ-CPLX",
-"smoment_kcat_per_s":7.691415297912283,
+"smoment_kcat_per_s":"7.782274189539776",
 "smoment_mw":"102.198"
 }
 },
@@ -24034,7 +24034,7 @@
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C10:0)",
 "metabolites":{
 "dcaACP_c":1.0,
-"enzyme_pool":-0.001857190064184106,
+"enzyme_pool":-0.00184969967991924,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -24053,8 +24053,8 @@
 "metanetx.reaction":"MNXR97846",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":16.670345484322432,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"16.73785347877337",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -24063,7 +24063,7 @@
 "metabolites":{
 "3hcmrs7eACP_c":1.0,
 "3ocmrs7eACP_c":-1.0,
-"enzyme_pool":-0.0015508169444711866,
+"enzyme_pool":-0.00154294015580644,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24082,8 +24082,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07989",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":18.312928615623374,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"18.406417775981325",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24092,7 +24092,7 @@
 "metabolites":{
 "3hcpalm9eACP_c":1.0,
 "3ocpalm9eACP_c":-1.0,
-"enzyme_pool":-0.0015508169524099374,
+"enzyme_pool":-0.0015426527333734,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24111,8 +24111,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07991",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":18.31292852187809,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"18.409847204566447",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24120,7 +24120,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:1)",
 "metabolites":{
 "3hcmrs7eACP_c":-1.0,
-"enzyme_pool":-0.0022282748248276603,
+"enzyme_pool":-0.0022235943788032,
 "h2o_c":1.0,
 "t3c7mrseACP_c":1.0
 },
@@ -24138,7 +24138,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07977",
 "smoment_enzyme":"FABZ-CPLX",
-"smoment_kcat_per_s":12.740050292283382,
+"smoment_kcat_per_s":"12.766866836843128",
 "smoment_mw":"102.198"
 }
 },
@@ -24147,7 +24147,7 @@
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:1)",
 "metabolites":{
 "cddec5eACP_c":1.0,
-"enzyme_pool":-0.00974366370170264,
+"enzyme_pool":-0.00962964777111297,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -24166,8 +24166,8 @@
 "metanetx.reaction":"MNXR97849",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":3.1774495659769078,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"3.2150710968988987",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -24199,7 +24199,7 @@
 "metabolites":{
 "acon_C_c":1.0,
 "cit_c":-1.0,
-"enzyme_pool":-0.0009611651400902836,
+"enzyme_pool":-0.000956384163761154,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -24225,7 +24225,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00974",
 "smoment_enzyme":"CPLX0-7761",
-"smoment_kcat_per_s":54.04204872479481,
+"smoment_kcat_per_s":"54.31220559848753",
 "smoment_mw":"186.996"
 }
 },
@@ -24235,7 +24235,7 @@
 "metabolites":{
 "3haACP_c":-1.0,
 "but2eACP_c":1.0,
-"enzyme_pool":-0.0005619694254581243,
+"enzyme_pool":-0.000559583639614517,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -24253,8 +24253,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07981",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":18.752502993810307,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"18.832456309308885",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -24265,7 +24265,7 @@
 "ACP_c":1.0,
 "butACP_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0041651757158897885,
+"enzyme_pool":-0.00415033684689861,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -24282,8 +24282,8 @@
 "metanetx.reaction":"MNXR94963",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":5.683767145423189,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"5.704088952019922",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -24293,7 +24293,7 @@
 "3opalmACP_c":1.0,
 "ACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.005895181584168191,
+"enzyme_pool":-0.0058589755810876,
 "h_c":-1.0,
 "malACP_c":-1.0,
 "myrsACP_c":-1.0
@@ -24311,8 +24311,8 @@
 "metanetx.reaction":"MNXR94959",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":4.015803169229989,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"4.040619427050248",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -24321,7 +24321,7 @@
 "metabolites":{
 "3hhexACP_c":1.0,
 "3ohexACP_c":-1.0,
-"enzyme_pool":-0.000683468404254426,
+"enzyme_pool":-0.000679932023725189,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24347,8 +24347,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05337",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":41.55276209290269,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"41.76888294731893",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24357,7 +24357,7 @@
 "metabolites":{
 "3hoctACP_c":1.0,
 "3ooctACP_c":-1.0,
-"enzyme_pool":-0.000683468403591959,
+"enzyme_pool":-0.000679990897428753,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24383,8 +24383,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05341",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":41.55276213317862,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"41.765266591802806",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24392,7 +24392,7 @@
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C10:0)",
 "metabolites":{
 "dcaACP_c":1.0,
-"enzyme_pool":-0.008184796101970024,
+"enzyme_pool":-0.00808856276354685,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -24411,8 +24411,8 @@
 "metanetx.reaction":"MNXR97845",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":3.782623246112159,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"3.827627123294546",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -24420,7 +24420,7 @@
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C12:0)",
 "metabolites":{
 "ddcaACP_c":1.0,
-"enzyme_pool":-0.008184796101975686,
+"enzyme_pool":-0.00808856174810436,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -24440,15 +24440,15 @@
 "metanetx.reaction":"MNXR148942",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":3.7826232461095426,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"3.827627603816961",
+"smoment_mw":"111.456008"
 }
 },
 {
 "id":"EAR160x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C16:0)",
 "metabolites":{
-"enzyme_pool":-0.011484583009936357,
+"enzyme_pool":-0.0113516614701119,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -24469,15 +24469,15 @@
 "metanetx.reaction":"MNXR149092",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":2.695787907424561,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"2.7273542559155493",
+"smoment_mw":"111.456008"
 }
 },
 {
 "id":"EAR140y_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C14:0)",
 "metabolites":{
-"enzyme_pool":-0.0023783191554008903,
+"enzyme_pool":-0.00236695796976817,
 "h_c":-1.0,
 "myrsACP_c":1.0,
 "nadp_c":1.0,
@@ -24497,8 +24497,8 @@
 "metanetx.reaction":"MNXR97852",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":13.017596872855936,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"13.080081107335683",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -24509,7 +24509,7 @@
 "ACP_c":1.0,
 "cdec3eACP_c":-1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.007117338255165573,
+"enzyme_pool":-0.00709483566180252,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -24526,8 +24526,8 @@
 "metanetx.reaction":"MNXR94956",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":3.3262278734198163,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"3.3367778598469973",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -24537,7 +24537,7 @@
 "3ooctACP_c":1.0,
 "ACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.004165175683145992,
+"enzyme_pool":-0.00415293128364028,
 "h_c":-1.0,
 "hexACP_c":-1.0,
 "malACP_c":-1.0
@@ -24555,8 +24555,8 @@
 "metanetx.reaction":"MNXR94964",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":5.683767190105124,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"5.700525469519454",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -24566,7 +24566,7 @@
 "3odecACP_c":1.0,
 "ACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.0041651756738920465,
+"enzyme_pool":-0.00415473719542523,
 "h_c":-1.0,
 "malACP_c":-1.0,
 "ocACP_c":-1.0
@@ -24584,8 +24584,8 @@
 "metanetx.reaction":"MNXR94954",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":5.683767202732989,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"5.698047660300343",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -24596,7 +24596,7 @@
 "ACP_c":1.0,
 "co2_c":1.0,
 "dcaACP_c":-1.0,
-"enzyme_pool":-0.0051146543448606484,
+"enzyme_pool":-0.00509044904646035,
 "h_c":-1.0,
 "malACP_c":-1.0
 },
@@ -24613,8 +24613,8 @@
 "metanetx.reaction":"MNXR94955",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":4.628639061929394,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"4.650648761923512",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -24623,7 +24623,7 @@
 "metabolites":{
 "3haACP_c":1.0,
 "actACP_c":-1.0,
-"enzyme_pool":-0.0006834679975075165,
+"enzyme_pool":-0.000679857038048772,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24643,8 +24643,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07994",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":41.552786821869695,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"41.77348989814201",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24653,7 +24653,7 @@
 "metabolites":{
 "3hdecACP_c":1.0,
 "3odecACP_c":-1.0,
-"enzyme_pool":-0.0006834719209889728,
+"enzyme_pool":-0.000680033061038532,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24679,8 +24679,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05338",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":41.55254828743463,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"41.762677049464685",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24688,7 +24688,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C6:0)",
 "metabolites":{
 "3hhexACP_c":-1.0,
-"enzyme_pool":-0.0005374860475949833,
+"enzyme_pool":-0.000535171167099428,
 "h2o_c":1.0,
 "thex2eACP_c":1.0
 },
@@ -24714,8 +24714,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05330",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":19.606710500649832,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"19.691521315621547",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -24723,7 +24723,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C10:0)",
 "metabolites":{
 "3hdecACP_c":-1.0,
-"enzyme_pool":-0.0005619694247999357,
+"enzyme_pool":-0.000559650272158484,
 "h2o_c":1.0,
 "tdec2eACP_c":1.0
 },
@@ -24751,8 +24751,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05333",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":18.75250301577357,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"18.83021409745719",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -24760,7 +24760,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C14:0)",
 "metabolites":{
 "3hmrsACP_c":-1.0,
-"enzyme_pool":-0.0010054949696732707,
+"enzyme_pool":-0.00100012560682332,
 "h2o_c":1.0,
 "tmrs2eACP_c":1.0
 },
@@ -24786,8 +24786,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05335",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":10.48074197403265,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"10.537010923975018",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -24795,7 +24795,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C16:0)",
 "metabolites":{
 "3hpalmACP_c":-1.0,
-"enzyme_pool":-0.0010054949722357108,
+"enzyme_pool":-0.00100004180023669,
 "h2o_c":1.0,
 "tpalm2eACP_c":1.0
 },
@@ -24821,8 +24821,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05332",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":10.480741947323143,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"10.537893957982796",
+"smoment_mw":"37.938004"
 }
 },
 {
@@ -24831,7 +24831,7 @@
 "metabolites":{
 "but2eACP_c":-1.0,
 "butACP_c":1.0,
-"enzyme_pool":-0.001177862711220943,
+"enzyme_pool":-0.00117334613589958,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0
@@ -24849,15 +24849,15 @@
 "metanetx.reaction":"MNXR97863",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":26.28489696214904,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"26.386077624473458",
+"smoment_mw":"111.456008"
 }
 },
 {
 "id":"EAR60y_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADPH) (n-C6:0)",
 "metabolites":{
-"enzyme_pool":-0.006225303511216768,
+"enzyme_pool":-0.00615204720008868,
 "h_c":-1.0,
 "hexACP_c":1.0,
 "nadp_c":1.0,
@@ -24877,15 +24877,15 @@
 "metanetx.reaction":"MNXR97866",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":4.97325149596581,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"5.0324715034331895",
+"smoment_mw":"111.456008"
 }
 },
 {
 "id":"EAR60x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C6:0)",
 "metabolites":{
-"enzyme_pool":-0.0011778603749297355,
+"enzyme_pool":-0.00117350168214043,
 "h_c":-1.0,
 "hexACP_c":1.0,
 "nad_c":1.0,
@@ -24905,15 +24905,15 @@
 "metanetx.reaction":"MNXR97865",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":26.28494909835718,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"26.38258018152312",
+"smoment_mw":"111.456008"
 }
 },
 {
 "id":"EAR80x_fw",
 "name":"Enoyl-[acyl-carrier-protein] reductase (NADH) (n-C8:0)",
 "metabolites":{
-"enzyme_pool":-0.0011778603740441862,
+"enzyme_pool":-0.00117361883929439,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0,
@@ -24933,8 +24933,8 @@
 "metanetx.reaction":"MNXR97867",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8006",
-"smoment_kcat_per_s":26.28494911811896,
-"smoment_mw":"111.456"
+"smoment_kcat_per_s":"26.37994652576992",
+"smoment_mw":"111.456008"
 }
 },
 {
@@ -24943,7 +24943,7 @@
 "metabolites":{
 "3hoctaACP_c":1.0,
 "3ooctdACP_c":-1.0,
-"enzyme_pool":-0.004591971125110888,
+"enzyme_pool":-0.00453818229553025,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -24963,8 +24963,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07992",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":6.184707879519645,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"6.258012407100281",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -24974,7 +24974,7 @@
 "3ooctdACP_c":1.0,
 "ACP_c":1.0,
 "co2_c":1.0,
-"enzyme_pool":-0.00843348155748431,
+"enzyme_pool":-0.00833781635520241,
 "h_c":-1.0,
 "malACP_c":-1.0,
 "palmACP_c":-1.0
@@ -24992,8 +24992,8 @@
 "metanetx.reaction":"MNXR94961",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABB-CPLX",
-"smoment_kcat_per_s":2.807131162559957,
-"smoment_mw":"85.226"
+"smoment_kcat_per_s":"2.8393394081873904",
+"smoment_mw":"85.226006"
 }
 },
 {
@@ -25001,7 +25001,7 @@
 "name":"3-hydroxyacyl-[acyl-carrier-protein] dehydratase (n-C18:0)",
 "metabolites":{
 "3hoctaACP_c":-1.0,
-"enzyme_pool":-0.004110426999518505,
+"enzyme_pool":-0.00406217964287242,
 "h2o_c":1.0,
 "toctd2eACP_c":1.0
 },
@@ -25025,15 +25025,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07979",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":2.563805009690671,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"2.5942561311721466",
+"smoment_mw":"37.938004"
 }
 },
 {
 "id":"NADH16pp_fw",
 "name":"NADH dehydrogenase (ubiquinone-8 & 3 protons) (periplasm)",
 "metabolites":{
-"enzyme_pool":-6.465601534858624e-05,
+"enzyme_pool":-6.46017382027137e-05,
 "h_c":-4.0,
 "h_p":3.0,
 "nad_c":1.0,
@@ -25056,15 +25056,15 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn08972",
 "smoment_enzyme":"NADH-DHI-CPLX",
-"smoment_kcat_per_s":2321.748397123925,
-"smoment_mw":"540.414"
+"smoment_kcat_per_s":"2323.699124456287",
+"smoment_mw":"540.414009"
 }
 },
 {
 "id":"NADH17pp_fw",
 "name":"NADH dehydrogenase (menaquinone-8 & 3 protons) (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0053574482506196335,
+"enzyme_pool":-0.0052952357062664,
 "h_c":-4.0,
 "h_p":3.0,
 "mql8_c":1.0,
@@ -25087,8 +25087,8 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn08973",
 "smoment_enzyme":"NADH-DHI-CPLX",
-"smoment_kcat_per_s":28.019869344074007,
-"smoment_mw":"540.414"
+"smoment_kcat_per_s":"28.349069017334486",
+"smoment_mw":"540.414009"
 }
 },
 {
@@ -25128,7 +25128,7 @@
 "metabolites":{
 "3mob_c":-1.0,
 "ala__L_c":-1.0,
-"enzyme_pool":-0.005528775044365924,
+"enzyme_pool":-0.00546368743776359,
 "pyr_c":1.0,
 "val__L_c":1.0
 },
@@ -25153,15 +25153,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00904",
 "smoment_enzyme":"VALINE-PYRUVATE-AMINOTRANSFER-MONOMER",
-"smoment_kcat_per_s":2.3468630345161503,
-"smoment_mw":"46.711"
+"smoment_kcat_per_s":"2.374820756336018",
+"smoment_mw":"46.711002"
 }
 },
 {
 "id":"PIt2rpp_fw",
 "name":"Phosphate reversible transport via symport (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00013851142083507825,
+"enzyme_pool":-0.000138386043536092,
 "h_c":1.0,
 "h_p":-1.0,
 "pi_c":1.0,
@@ -25193,15 +25193,15 @@
 "rxn09120"
 ],
 "smoment_enzyme":"PITA-MONOMER",
-"smoment_kcat_per_s":107.06898888457569,
-"smoment_mw":"53.389"
+"smoment_kcat_per_s":"107.16600106441408",
+"smoment_mw":"53.389004"
 }
 },
 {
 "id":"PItpp_fw",
 "name":"Phosphate export via facillated diffusion (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00047728184839962147,
+"enzyme_pool":-0.000471652606990668,
 "pi_c":-1.0,
 "pi_p":1.0
 },
@@ -25216,15 +25216,15 @@
 "biocyc":"ECOLI:TRANS-RXN0-470",
 "sbo":"SBO:0000185",
 "smoment_enzyme":"EG11919-MONOMER",
-"smoment_kcat_per_s":34.609761855599224,
-"smoment_mw":"59.467"
+"smoment_kcat_per_s":"35.02283608658456",
+"smoment_mw":"59.467003"
 }
 },
 {
 "id":"SUCCt1pp_fw",
 "name":"Succinate transport via diffusion in (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003646702443917756,
+"enzyme_pool":-0.000360369500887948,
 "succ_c":-1.0,
 "succ_p":1.0
 },
@@ -25239,7 +25239,7 @@
 "biocyc":"ECOLI:TRANS-RXN-121",
 "sbo":"SBO:0000185",
 "smoment_enzyme":"DCTA-MONOMER",
-"smoment_kcat_per_s":34.60965435269211,
+"smoment_kcat_per_s":"35.022694983933924",
 "smoment_mw":"45.436"
 }
 },
@@ -25324,7 +25324,7 @@
 "atp_c":1.0,
 "dgdp_c":1.0,
 "dgtp_c":-1.0,
-"enzyme_pool":-0.0021449328548580997
+"enzyme_pool":-0.00211964667610993
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -25348,7 +25348,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01353",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":8.01009275054801,
+"smoment_kcat_per_s":"8.105648599247976",
 "smoment_mw":"61.852"
 }
 },
@@ -25357,7 +25357,7 @@
 "name":"Shikimate dehydrogenase",
 "metabolites":{
 "3dhsk_c":1.0,
-"enzyme_pool":-0.004432885024655677,
+"enzyme_pool":-0.00438066209876177,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0,
@@ -25389,8 +25389,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01740",
 "smoment_enzyme":"AROE-MONOMER",
-"smoment_kcat_per_s":1.8431688415356997,
-"smoment_mw":"29.414"
+"smoment_kcat_per_s":"1.8651417637627905",
+"smoment_mw":"29.414001"
 }
 },
 {
@@ -25401,7 +25401,7 @@
 "atp_c":1.0,
 "dudp_c":1.0,
 "dutp_c":-1.0,
-"enzyme_pool":-0.0016140713850061959
+"enzyme_pool":-0.00159474787154798
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -25425,7 +25425,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01678",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":10.644579459566566,
+"smoment_kcat_per_s":"10.77355951849233",
 "smoment_mw":"61.852"
 }
 },
@@ -25437,7 +25437,7 @@
 "atp_c":1.0,
 "dadp_c":1.0,
 "datp_c":-1.0,
-"enzyme_pool":-0.0032352183304974343
+"enzyme_pool":-0.00319710329526869
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -25460,7 +25460,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00839",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":5.310649655125257,
+"smoment_kcat_per_s":"5.373961841188245",
 "smoment_mw":"61.852"
 }
 },
@@ -25470,7 +25470,7 @@
 "metabolites":{
 "cbasp_c":-1.0,
 "dhor__S_c":1.0,
-"enzyme_pool":-0.005114915833352031,
+"enzyme_pool":-0.0051106607594863,
 "h2o_c":1.0,
 "h_c":-1.0
 },
@@ -25517,8 +25517,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01465",
 "smoment_enzyme":"DIHYDROOROT-CPLX",
-"smoment_kcat_per_s":4.217186803916461,
-"smoment_mw":"77.654"
+"smoment_kcat_per_s":"4.220698308371063",
+"smoment_mw":"77.654006"
 }
 },
 {
@@ -25527,7 +25527,7 @@
 "metabolites":{
 "akg_c":-1.0,
 "co2_c":-1.0,
-"enzyme_pool":-0.006369848199014401,
+"enzyme_pool":-0.00629504980277568,
 "icit_c":1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -25555,8 +25555,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00198",
 "smoment_enzyme":"ISOCITHASE-CPLX",
-"smoment_kcat_per_s":3.9907631644171433,
-"smoment_mw":"91.514"
+"smoment_kcat_per_s":"4.038182154900361",
+"smoment_mw":"91.514008"
 }
 },
 {
@@ -25566,7 +25566,7 @@
 "acald_c":1.0,
 "accoa_c":-1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.006120048956783712,
+"enzyme_pool":-0.0060479189960969,
 "h_c":-1.0,
 "nad_c":1.0,
 "nadh_c":-1.0
@@ -25594,8 +25594,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00171",
 "smoment_enzyme":"ADHE-CPLX",
-"smoment_kcat_per_s":174.52111663157152,
-"smoment_mw":"3845.08"
+"smoment_kcat_per_s":"176.6025453677846",
+"smoment_mw":"3845.0804"
 }
 },
 {
@@ -25604,7 +25604,7 @@
 "metabolites":{
 "akg_c":1.0,
 "ala__L_c":1.0,
-"enzyme_pool":-0.0019466206719122579,
+"enzyme_pool":-0.00192366678136947,
 "glu__L_c":-1.0,
 "pyr_c":-1.0
 },
@@ -25696,8 +25696,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00191",
 "smoment_enzyme":"CPLX0-7888",
-"smoment_kcat_per_s":12.990318343522667,
-"smoment_mw":"91.034"
+"smoment_kcat_per_s":"13.145324116545366",
+"smoment_mw":"91.034004"
 }
 },
 {
@@ -25706,7 +25706,7 @@
 "metabolites":{
 "akg_c":1.0,
 "asp__L_c":1.0,
-"enzyme_pool":-0.0014405772742894767,
+"enzyme_pool":-0.00144074385772267,
 "glu__L_c":-1.0,
 "oaa_c":-1.0
 },
@@ -25805,7 +25805,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00260",
 "smoment_enzyme":"ASPAMINOTRANS-DIMER",
-"smoment_kcat_per_s":16.80383458371696,
+"smoment_kcat_per_s":"16.801891670380336",
 "smoment_mw":"87.146"
 }
 },
@@ -25928,7 +25928,7 @@
 "id":"GTHOr_bw",
 "name":"Glutathione oxidoreductase",
 "metabolites":{
-"enzyme_pool":-0.01112453178484285,
+"enzyme_pool":-0.0109769784850054,
 "gthox_c":1.0,
 "gthrd_c":-2.0,
 "h_c":1.0,
@@ -25993,8 +25993,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00086",
 "smoment_enzyme":"GLUTATHIONE-REDUCT-NADPH-CPLX",
-"smoment_kcat_per_s":2.435658064501482,
-"smoment_mw":"97.544"
+"smoment_kcat_per_s":"2.468398499572073",
+"smoment_mw":"97.544006"
 }
 },
 {
@@ -26003,7 +26003,7 @@
 "metabolites":{
 "3mop_c":-1.0,
 "akg_c":1.0,
-"enzyme_pool":-0.0014796707509242186,
+"enzyme_pool":-0.0014754155491517,
 "glu__L_c":-1.0,
 "ile__L_c":1.0
 },
@@ -26030,7 +26030,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01575",
 "smoment_enzyme":"BRANCHED-CHAINAMINOTRANSFER-CPLX",
-"smoment_kcat_per_s":38.40268742072576,
+"smoment_kcat_per_s":"38.513443460728155",
 "smoment_mw":"204.564"
 }
 },
@@ -26040,7 +26040,7 @@
 "metabolites":{
 "3mob_c":-1.0,
 "akg_c":1.0,
-"enzyme_pool":-0.000579524128485394,
+"enzyme_pool":-0.000579083039515285,
 "glu__L_c":-1.0,
 "val__L_c":1.0
 },
@@ -26069,7 +26069,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00903",
 "smoment_enzyme":"BRANCHED-CHAINAMINOTRANSFER-CPLX",
-"smoment_kcat_per_s":98.051712673022,
+"smoment_kcat_per_s":"98.12639890281821",
 "smoment_mw":"204.564"
 }
 },
@@ -26079,7 +26079,7 @@
 "metabolites":{
 "2ippm_c":1.0,
 "3c3hmp_c":-1.0,
-"enzyme_pool":-0.0036380960722482234,
+"enzyme_pool":-0.00362967622606527,
 "h2o_c":1.0
 },
 "lower_bound":0.0,
@@ -26103,15 +26103,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02789",
 "smoment_enzyme":"3-ISOPROPYLMALISOM-CPLX",
-"smoment_kcat_per_s":5.5255550158072975,
-"smoment_mw":"72.369"
+"smoment_kcat_per_s":"5.5383731597131725",
+"smoment_mw":"72.369005"
 }
 },
 {
 "id":"ORPT_bw",
 "name":"Orotate phosphoribosyltransferase",
 "metabolites":{
-"enzyme_pool":-4.726178265819882e-06,
+"enzyme_pool":-4.72184664770036e-06,
 "orot5p_c":1.0,
 "orot_c":-1.0,
 "ppi_c":1.0,
@@ -26161,8 +26161,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01362",
 "smoment_enzyme":"OROPRIBTRANS-CPLX",
-"smoment_kcat_per_s":2770.267442611263,
-"smoment_mw":"47.134"
+"smoment_kcat_per_s":"2772.8088839373463",
+"smoment_mw":"47.134002"
 }
 },
 {
@@ -26170,7 +26170,7 @@
 "name":"3-phosphoshikimate 1-carboxyvinyltransferase",
 "metabolites":{
 "3psme_c":-1.0,
-"enzyme_pool":-0.006829922431516328,
+"enzyme_pool":-0.00674961419586496,
 "pep_c":1.0,
 "pi_c":-1.0,
 "skm5p_c":1.0
@@ -26198,7 +26198,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02476",
 "smoment_enzyme":"AROA-MONOMER",
-"smoment_kcat_per_s":1.8747569350654685,
+"smoment_kcat_per_s":"1.8970631613713382",
 "smoment_mw":"46.096"
 }
 },
@@ -26209,7 +26209,7 @@
 "accoa_c":1.0,
 "actp_c":-1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0003566302506571609,
+"enzyme_pool":-0.000355777840375352,
 "pi_c":1.0
 },
 "lower_bound":0.0,
@@ -26235,8 +26235,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00173",
 "smoment_enzyme":"PHOSACETYLTRANS-CPLX",
-"smoment_kcat_per_s":360.65364551378497,
-"smoment_mw":"463.032"
+"smoment_kcat_per_s":"361.51776118950255",
+"smoment_mw":"463.03203"
 }
 },
 {
@@ -26247,7 +26247,7 @@
 "actp_c":-1.0,
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.000253380098606816
+"enzyme_pool":-0.000252978979526854
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -26274,7 +26274,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00225",
 "smoment_enzyme":"ACETATEKINA-MONOMER",
-"smoment_kcat_per_s":47.458344463982,
+"smoment_kcat_per_s":"47.53359359141358",
 "smoment_mw":"43.29"
 }
 },
@@ -26682,7 +26682,7 @@
 "name":"Enolase",
 "metabolites":{
 "2pg_c":1.0,
-"enzyme_pool":-0.0020345842518948547,
+"enzyme_pool":-0.00203344013028882,
 "h2o_c":-1.0,
 "pep_c":-1.0
 },
@@ -26748,8 +26748,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00459",
 "smoment_enzyme":"ENOLASE-CPLX",
-"smoment_kcat_per_s":12.46637432943213,
-"smoment_mw":"91.31"
+"smoment_kcat_per_s":"12.473389394529661",
+"smoment_mw":"91.310006"
 }
 },
 {
@@ -26757,7 +26757,7 @@
 "name":"Fructose-bisphosphate aldolase",
 "metabolites":{
 "dhap_c":-1.0,
-"enzyme_pool":-0.0032577944317640863,
+"enzyme_pool":-0.00325520014807155,
 "fdp_c":1.0,
 "g3p_c":-1.0
 },
@@ -26784,8 +26784,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00786",
 "smoment_enzyme":"FRUCBISALD-CLASSII",
-"smoment_kcat_per_s":6.675784426814393,
-"smoment_mw":"78.294"
+"smoment_kcat_per_s":"6.6811053117222805",
+"smoment_mw":"78.294006"
 }
 },
 {
@@ -26793,7 +26793,7 @@
 "name":"HCO3 equilibration reaction",
 "metabolites":{
 "co2_c":1.0,
-"enzyme_pool":-0.002146705262208418,
+"enzyme_pool":-0.00212139265659206,
 "h2o_c":1.0,
 "h_c":-1.0,
 "hco3_c":-1.0
@@ -26982,15 +26982,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00102",
 "smoment_enzyme":"CPLX0-7521",
-"smoment_kcat_per_s":12.989932081718736,
-"smoment_mw":"100.388"
+"smoment_kcat_per_s":"13.144929907778097",
+"smoment_mw":"100.388008"
 }
 },
 {
 "id":"IMPC_bw",
 "name":"IMP cyclohydrolase",
 "metabolites":{
-"enzyme_pool":-0.001626582295848705,
+"enzyme_pool":-0.0016236988544408,
 "fprica_c":-1.0,
 "h2o_c":1.0,
 "imp_c":1.0
@@ -27040,15 +27040,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00832",
 "smoment_enzyme":"AICARTRANSIMPCYCLO-CPLX",
-"smoment_kcat_per_s":9.790296047648269,
-"smoment_mw":"57.329"
+"smoment_kcat_per_s":"9.80768246169779",
+"smoment_mw":"57.329002"
 }
 },
 {
 "id":"PGI_bw",
 "name":"Glucose-6-phosphate isomerase",
 "metabolites":{
-"enzyme_pool":-0.0008229427767389918,
+"enzyme_pool":-0.000822176237063641,
 "f6p_c":-1.0,
 "g6p_c":1.0
 },
@@ -27066,8 +27066,8 @@
 "metanetx.reaction":"MNXR191975",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7877",
-"smoment_kcat_per_s":41.53792256223311,
-"smoment_mw":"123.06"
+"smoment_kcat_per_s":"41.57665164598284",
+"smoment_mw":"123.060006"
 }
 },
 {
@@ -27078,7 +27078,7 @@
 "3pg_c":1.0,
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.0006101074944537652
+"enzyme_pool":-0.000609386624309608
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -27143,15 +27143,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01100",
 "smoment_enzyme":"PGK",
-"smoment_kcat_per_s":18.720744738421203,
-"smoment_mw":"41.118"
+"smoment_kcat_per_s":"18.74289215113265",
+"smoment_mw":"41.118004"
 }
 },
 {
 "id":"RPE_bw",
 "name":"Ribulose 5-phosphate 3-epimerase",
 "metabolites":{
-"enzyme_pool":-0.003968724463302855,
+"enzyme_pool":-0.00391836607122667,
 "ru5p__D_c":1.0,
 "xu5p__D_c":-1.0
 },
@@ -27215,7 +27215,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01116",
 "smoment_enzyme":"RIBULP3EPIM-MONOMER",
-"smoment_kcat_per_s":1.7185762374340663,
+"smoment_kcat_per_s":"1.740663182452563",
 "smoment_mw":"24.554"
 }
 },
@@ -27225,7 +27225,7 @@
 "metabolites":{
 "5aizc_c":1.0,
 "5caiz_c":-1.0,
-"enzyme_pool":-0.0011445303067121849
+"enzyme_pool":-0.00114347521339495
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -27248,7 +27248,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05115",
 "smoment_enzyme":"PURE-CPLX",
-"smoment_kcat_per_s":34.521681845727635,
+"smoment_kcat_per_s":"34.55353526536314",
 "smoment_mw":"142.24"
 }
 },
@@ -27257,7 +27257,7 @@
 "name":"Transaldolase",
 "metabolites":{
 "e4p_c":-1.0,
-"enzyme_pool":-0.005563069745053462,
+"enzyme_pool":-0.00549770638032943,
 "f6p_c":-1.0,
 "g3p_c":1.0,
 "s7p_c":1.0
@@ -27283,7 +27283,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"TRANSALDOLB-CPLX",
-"smoment_kcat_per_s":3.517142873951705,
+"smoment_kcat_per_s":"3.558958910777384",
 "smoment_mw":"70.438"
 }
 },
@@ -27293,7 +27293,7 @@
 "metabolites":{
 "25aics_c":1.0,
 "aicar_c":-1.0,
-"enzyme_pool":-0.008420417108796905,
+"enzyme_pool":-0.00832162600795068,
 "fum_c":-1.0
 },
 "lower_bound":0.0,
@@ -27338,15 +27338,15 @@
 "sabiork.reaction":"121",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7959",
-"smoment_kcat_per_s":6.801325784701257,
-"smoment_mw":"206.172"
+"smoment_kcat_per_s":"6.882068874354144",
+"smoment_mw":"206.172012"
 }
 },
 {
 "id":"TKT1_bw",
 "name":"Transketolase",
 "metabolites":{
-"enzyme_pool":-0.006196235014405528,
+"enzyme_pool":-0.00612336662530318,
 "g3p_c":-1.0,
 "r5p_c":1.0,
 "s7p_c":-1.0,
@@ -27365,8 +27365,8 @@
 "metanetx.reaction":"MNXR104868",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"TRANSKETOI-CPLX",
-"smoment_kcat_per_s":6.474541021202166,
-"smoment_mw":"144.424"
+"smoment_kcat_per_s":"6.551588948689611",
+"smoment_mw":"144.424012"
 }
 },
 {
@@ -27374,7 +27374,7 @@
 "name":"Alcohol dehydrogenase (ethanol)",
 "metabolites":{
 "acald_c":-1.0,
-"enzyme_pool":-0.013887878233839319,
+"enzyme_pool":-0.0137364372067778,
 "etoh_c":1.0,
 "h_c":-1.0,
 "nad_c":1.0,
@@ -27424,8 +27424,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00543",
 "smoment_enzyme":"ADHE-CPLX",
-"smoment_kcat_per_s":76.90719631853415,
-"smoment_mw":"3845.08"
+"smoment_kcat_per_s":"77.75508836904808",
+"smoment_mw":"3845.0804"
 }
 },
 {
@@ -27435,7 +27435,7 @@
 "glc__D_e":1.0
 },
 "lower_bound":0.0,
-"upper_bound":1000,
+"upper_bound":1000.0,
 "gene_reaction_rule":"",
 "notes":{
 "original_bigg_ids":"[&apos;EX_glc__D_e&apos;]"
@@ -27461,7 +27461,7 @@
 "metabolites":{
 "2ippm_c":-1.0,
 "3c2hmp_c":1.0,
-"enzyme_pool":-0.003910049616904979,
+"enzyme_pool":-0.00390635443664072,
 "h2o_c":-1.0
 },
 "lower_bound":0.0,
@@ -27486,15 +27486,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02811",
 "smoment_enzyme":"3-ISOPROPYLMALISOM-CPLX",
-"smoment_kcat_per_s":5.141239106810169,
-"smoment_mw":"72.369"
+"smoment_kcat_per_s":"5.146102770483898",
+"smoment_mw":"72.369005"
 }
 },
 {
 "id":"MDH_bw",
 "name":"Malate dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.0034077994832671515,
+"enzyme_pool":-0.0033676597842785,
 "h_c":-1.0,
 "mal__L_c":1.0,
 "nad_c":1.0,
@@ -27576,7 +27576,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00248",
 "smoment_enzyme":"MALATE-DEHASE",
-"smoment_kcat_per_s":5.271730360959049,
+"smoment_kcat_per_s":"5.334564994916465",
 "smoment_mw":"64.674"
 }
 },
@@ -27584,7 +27584,7 @@
 "id":"FUM_bw",
 "name":"Fumarase",
 "metabolites":{
-"enzyme_pool":-0.007028087880803258,
+"enzyme_pool":-0.00694546169257057,
 "fum_c":1.0,
 "h2o_c":1.0,
 "mal__L_c":-1.0
@@ -27649,8 +27649,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00799",
 "smoment_enzyme":"FUMARASE-A",
-"smoment_kcat_per_s":4.766509043796377,
-"smoment_mw":"120.598"
+"smoment_kcat_per_s":"4.823213797651549",
+"smoment_mw":"120.598008"
 }
 },
 {
@@ -27721,7 +27721,7 @@
 "metabolites":{
 "23dhmb_c":1.0,
 "alac__S_c":-1.0,
-"enzyme_pool":-0.009160241074177712,
+"enzyme_pool":-0.00912973857022786,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0
@@ -27750,8 +27750,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7643",
-"smoment_kcat_per_s":6.558415458739395,
-"smoment_mw":"216.276"
+"smoment_kcat_per_s":"6.5803276456372535",
+"smoment_mw":"216.276016"
 }
 },
 {
@@ -27760,7 +27760,7 @@
 "metabolites":{
 "23dhmp_c":-1.0,
 "2ahbut_c":1.0,
-"enzyme_pool":-0.010816157039157559,
+"enzyme_pool":-0.0106927237037547,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -27785,8 +27785,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-7643",
-"smoment_kcat_per_s":5.554344898023585,
-"smoment_mw":"216.276"
+"smoment_kcat_per_s":"5.618462870224112",
+"smoment_mw":"216.276016"
 }
 },
 {
@@ -27827,7 +27827,7 @@
 "metabolites":{
 "acg5p_c":-1.0,
 "acg5sa_c":1.0,
-"enzyme_pool":-0.0018477879080471406,
+"enzyme_pool":-0.00184615957344611,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -27854,8 +27854,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02465",
 "smoment_enzyme":"N-ACETYLGLUTPREDUCT-MONOMER",
-"smoment_kcat_per_s":5.4046606881529,
-"smoment_mw":"35.952"
+"smoment_kcat_per_s":"5.409428114254774",
+"smoment_mw":"35.952003"
 }
 },
 {
@@ -27919,7 +27919,7 @@
 "id":"XYLI1_bw",
 "name":"Xylose isomerase",
 "metabolites":{
-"enzyme_pool":-0.007933459097855623,
+"enzyme_pool":-0.00784043329513471,
 "xyl__D_c":1.0,
 "xylu__D_c":-1.0
 },
@@ -27945,7 +27945,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01044",
 "smoment_enzyme":"XYLISOM-CPLX",
-"smoment_kcat_per_s":3.483278114071818,
+"smoment_kcat_per_s":"3.5246067920241946",
 "smoment_mw":"99.484"
 }
 },
@@ -27953,7 +27953,7 @@
 "id":"GHMT2r_bw",
 "name":"Glycine hydroxymethyltransferase, reversible",
 "metabolites":{
-"enzyme_pool":-0.005012333783475159,
+"enzyme_pool":-0.00495339790224778,
 "gly_c":-1.0,
 "h2o_c":-1.0,
 "mlthf_c":-1.0,
@@ -27981,7 +27981,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"GLYOHMETRANS-CPLX",
-"smoment_kcat_per_s":5.022832117468436,
+"smoment_kcat_per_s":"5.082594131936496",
 "smoment_mw":"90.634"
 }
 },
@@ -28011,7 +28011,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.002944458624973458,
+"enzyme_pool":-0.00290974746148404,
 "udp_c":-1.0,
 "ump_c":1.0
 },
@@ -28042,8 +28042,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00119",
 "smoment_enzyme":"UMPKI-CPLX",
-"smoment_kcat_per_s":14.699929204718742,
-"smoment_mw":"155.82"
+"smoment_kcat_per_s":"14.875289203938175",
+"smoment_mw":"155.820006"
 }
 },
 {
@@ -28054,7 +28054,7 @@
 "atp_c":1.0,
 "dcdp_c":1.0,
 "dctp_c":-1.0,
-"enzyme_pool":-0.0016140889166265677
+"enzyme_pool":-0.00159505763111971
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -28078,7 +28078,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01673",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":10.644463842189989,
+"smoment_kcat_per_s":"10.77146729742308",
 "smoment_mw":"61.852"
 }
 },
@@ -28089,7 +28089,7 @@
 "adp_c":-2.0,
 "amp_c":1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.002929207945266952
+"enzyme_pool":-0.00289467662067199
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -28151,7 +28151,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00097",
 "smoment_enzyme":"ADENYL-KIN-MONOMER",
-"smoment_kcat_per_s":2.23666833802391,
+"smoment_kcat_per_s":"2.263350116513434",
 "smoment_mw":"23.586"
 }
 },
@@ -28161,7 +28161,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.0012429582956415774,
+"enzyme_pool":-0.00122830005161233,
 "udp_c":1.0,
 "utp_c":-1.0
 },
@@ -28188,7 +28188,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00117",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":13.822757506310975,
+"smoment_kcat_per_s":"13.987715044510779",
 "smoment_mw":"61.852"
 }
 },
@@ -28200,7 +28200,7 @@
 "atp_c":1.0,
 "dtdp_c":1.0,
 "dttp_c":-1.0,
-"enzyme_pool":-0.0016140910545738814
+"enzyme_pool":-0.00159505867928884
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -28224,7 +28224,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01512",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":10.644449743045573,
+"smoment_kcat_per_s":"10.771460219113298",
 "smoment_mw":"61.852"
 }
 },
@@ -28234,7 +28234,7 @@
 "metabolites":{
 "ACP_c":1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.006449900474622259,
+"enzyme_pool":-0.00637403197470085,
 "malACP_c":-1.0,
 "malcoa_c":1.0
 },
@@ -28260,7 +28260,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05465",
 "smoment_enzyme":"MALONYL-COA-ACP-TRANSACYL-MONOMER",
-"smoment_kcat_per_s":1.3961025069537352,
+"smoment_kcat_per_s":"1.4127199640608707",
 "smoment_mw":"32.417"
 }
 },
@@ -28270,7 +28270,7 @@
 "metabolites":{
 "26dap_LL_c":1.0,
 "26dap__M_c":-1.0,
-"enzyme_pool":-0.00256592765039751
+"enzyme_pool":-0.00253567507173473
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -28293,8 +28293,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01974",
 "smoment_enzyme":"CPLX0-7997",
-"smoment_kcat_per_s":6.540627821356464,
-"smoment_mw":"60.418"
+"smoment_kcat_per_s":"6.618663044002428",
+"smoment_mw":"60.418004"
 }
 },
 {
@@ -28302,7 +28302,7 @@
 "name":"Succinyldiaminopimelate transaminase",
 "metabolites":{
 "akg_c":1.0,
-"enzyme_pool":-0.00879371733736426,
+"enzyme_pool":-0.00884858362320729,
 "glu__L_c":-1.0,
 "sl26da_c":1.0,
 "sl2a6o_c":-1.0
@@ -28328,7 +28328,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03087",
 "smoment_enzyme":"PSERTRANSAM-CPLX",
-"smoment_kcat_per_s":2.5133474068761914,
+"smoment_kcat_per_s":"2.4977632136176404",
 "smoment_mw":"79.566"
 }
 },
@@ -28340,7 +28340,7 @@
 "atp_c":1.0,
 "dtdp_c":-1.0,
 "dtmp_c":1.0,
-"enzyme_pool":-0.003626115750662916
+"enzyme_pool":-0.00358338038816564
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -28367,7 +28367,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01513",
 "smoment_enzyme":"CPLX0-8260",
-"smoment_kcat_per_s":3.6437826827128332,
+"smoment_kcat_per_s":"3.6872384024352787",
 "smoment_mw":"47.566"
 }
 },
@@ -28377,7 +28377,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.002450031271819855,
+"enzyme_pool":-0.0024211460332188,
 "gdp_c":1.0,
 "gtp_c":-1.0
 },
@@ -28404,7 +28404,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00237",
 "smoment_enzyme":"NUCLEOSIDE-DIP-KIN-CPLX",
-"smoment_kcat_per_s":7.012608903701535,
+"smoment_kcat_per_s":"7.096272127075974",
 "smoment_mw":"61.852"
 }
 },
@@ -28413,7 +28413,7 @@
 "name":"Glycerol-3-phosphate dehydrogenase (NADP)",
 "metabolites":{
 "dhap_c":-1.0,
-"enzyme_pool":-0.0009153569026894786,
+"enzyme_pool":-0.000914378202506048,
 "glyc3p_c":1.0,
 "h_c":-1.0,
 "nadp_c":1.0,
@@ -28441,8 +28441,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00612",
 "smoment_enzyme":"GLYC3PDEHYDROGBIOSYN-CPLX",
-"smoment_kcat_per_s":22.069108838046358,
-"smoment_mw":"72.724"
+"smoment_kcat_per_s":"22.092732222194645",
+"smoment_mw":"72.724006"
 }
 },
 {
@@ -28451,7 +28451,7 @@
 "metabolites":{
 "amp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.001064130158381463,
+"enzyme_pool":-0.00105158101656534,
 "h_c":-1.0,
 "prpp_c":-1.0,
 "r5p_c":1.0
@@ -28470,15 +28470,15 @@
 "metanetx.reaction":"MNXR189826",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"CPLX0-8299",
-"smoment_kcat_per_s":53.593068057334605,
-"smoment_mw":"205.308"
+"smoment_kcat_per_s":"54.232629188765735",
+"smoment_mw":"205.308012"
 }
 },
 {
 "id":"PRMICI_bw",
 "name":"1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino)imidazole-4-carboxamide isomerase",
 "metabolites":{
-"enzyme_pool":-0.0036940231755108925,
+"enzyme_pool":-0.00365048856458232,
 "prfp_c":1.0,
 "prlp_c":-1.0
 },
@@ -28503,7 +28503,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn03175",
 "smoment_enzyme":"PRIBFAICARPISOM-MONOMER",
-"smoment_kcat_per_s":1.9575916406882776,
+"smoment_kcat_per_s":"1.9809372802997105",
 "smoment_mw":"26.033"
 }
 },
@@ -28514,7 +28514,7 @@
 "accoa_c":1.0,
 "acser_c":-1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0025306246172600157,
+"enzyme_pool":-0.00250079094740817,
 "ser__L_c":1.0
 },
 "lower_bound":0.0,
@@ -28541,8 +28541,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00423",
 "smoment_enzyme":"CPLX0-237",
-"smoment_kcat_per_s":19.30814484827492,
-"smoment_mw":"175.902"
+"smoment_kcat_per_s":"19.5384857674624",
+"smoment_mw":"175.902006"
 }
 },
 {
@@ -28553,7 +28553,7 @@
 "adp_c":-1.0,
 "asp__L_c":1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.013994279084979518
+"enzyme_pool":-0.0138379539132991
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -28577,7 +28577,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00337",
 "smoment_enzyme":"ASPKINIHOMOSERDEHYDROGI-CPLX",
-"smoment_kcat_per_s":7.0759073490613575,
+"smoment_kcat_per_s":"7.155842752667042",
 "smoment_mw":"356.48"
 }
 },
@@ -28587,7 +28587,7 @@
 "metabolites":{
 "4pasp_c":-1.0,
 "aspsa_c":1.0,
-"enzyme_pool":-0.0037790144925025164,
+"enzyme_pool":-0.00377638796415148,
 "h_c":-1.0,
 "nadp_c":1.0,
 "nadph_c":-1.0,
@@ -28615,7 +28615,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01643",
 "smoment_enzyme":"ASP-SEMIALDEHYDE-DEHYDROGENASE-CPLX",
-"smoment_kcat_per_s":5.883074083555508,
+"smoment_kcat_per_s":"5.887165840286647",
 "smoment_mw":"80.036"
 }
 },
@@ -28625,7 +28625,7 @@
 "metabolites":{
 "cbp_c":1.0,
 "citr__L_c":-1.0,
-"enzyme_pool":-0.004949333052212561,
+"enzyme_pool":-0.00489104430523598,
 "h_c":-1.0,
 "orn_c":1.0,
 "pi_c":-1.0
@@ -28669,7 +28669,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01019",
 "smoment_enzyme":"ORNCARBAMTRANSFERI-CPLX",
-"smoment_kcat_per_s":6.214136937012993,
+"smoment_kcat_per_s":"6.288193566434979",
 "smoment_mw":"110.721"
 }
 },
@@ -28678,7 +28678,7 @@
 "name":"Phosphoribosylglycinamide formyltransferase",
 "metabolites":{
 "10fthf_c":1.0,
-"enzyme_pool":-0.0009007785732775444,
+"enzyme_pool":-0.000890154627113941,
 "fgam_c":-1.0,
 "gar_c":1.0,
 "h_c":-1.0,
@@ -28705,7 +28705,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"GART-MONOMER",
-"smoment_kcat_per_s":7.166023028848301,
+"smoment_kcat_per_s":"7.25154911672863",
 "smoment_mw":"23.238"
 }
 },
@@ -28714,7 +28714,7 @@
 "name":"Phenylalanine transaminase",
 "metabolites":{
 "akg_c":1.0,
-"enzyme_pool":-0.0018959216891739242,
+"enzyme_pool":-0.00188714351793406,
 "glu__L_c":-1.0,
 "phe__L_c":1.0,
 "phpyr_c":-1.0
@@ -28746,8 +28746,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00493",
 "smoment_enzyme":"TYRB-DIMER",
-"smoment_kcat_per_s":12.757793697859261,
-"smoment_mw":"87.076"
+"smoment_kcat_per_s":"12.817137996673608",
+"smoment_mw":"87.076004"
 }
 },
 {
@@ -28757,7 +28757,7 @@
 "acg5sa_c":-1.0,
 "acorn_c":1.0,
 "akg_c":1.0,
-"enzyme_pool":-0.004236677664560468,
+"enzyme_pool":-0.0042331123526129,
 "glu__L_c":-1.0
 },
 "lower_bound":0.0,
@@ -28782,8 +28782,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01637",
 "smoment_enzyme":"ACETYLORNTRANSAM-CPLX",
-"smoment_kcat_per_s":5.739166848446694,
-"smoment_mw":"87.534"
+"smoment_kcat_per_s":"5.744000887692618",
+"smoment_mw":"87.534004"
 }
 },
 {
@@ -28792,7 +28792,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.0051776796416656,
+"enzyme_pool":-0.00511671709018526,
 "gar_c":-1.0,
 "gly_c":1.0,
 "h_c":-1.0,
@@ -28815,8 +28815,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn02895",
 "smoment_enzyme":"GLYCRIBONUCSYN-MONOMER",
-"smoment_kcat_per_s":2.4646389877852712,
-"smoment_mw":"45.94"
+"smoment_kcat_per_s":"2.4940037609553736",
+"smoment_mw":"45.940002"
 }
 },
 {
@@ -28824,7 +28824,7 @@
 "name":"Glyceraldehyde-3-phosphate dehydrogenase",
 "metabolites":{
 "13dpg_c":-1.0,
-"enzyme_pool":-0.00264490585684645,
+"enzyme_pool":-0.0026437278052183,
 "g3p_c":1.0,
 "h_c":-1.0,
 "nad_c":1.0,
@@ -28897,7 +28897,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00781",
 "smoment_enzyme":"GAPDH-A-CPLX",
-"smoment_kcat_per_s":14.926807280419586,
+"smoment_kcat_per_s":"14.933458702545977",
 "smoment_mw":"142.128"
 }
 },
@@ -28906,7 +28906,7 @@
 "name":"Glucose 6-phosphate dehydrogenase",
 "metabolites":{
 "6pgl_c":-1.0,
-"enzyme_pool":-0.003968918543927261,
+"enzyme_pool":-0.00392215052734679,
 "g6p_c":1.0,
 "h_c":-1.0,
 "nadp_c":1.0,
@@ -28941,8 +28941,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00604",
 "smoment_enzyme":"GLU6PDEHYDROG-MONOMER",
-"smoment_kcat_per_s":3.898627084954585,
-"smoment_mw":"55.704"
+"smoment_kcat_per_s":"3.945114747892174",
+"smoment_mw":"55.704002"
 }
 },
 {
@@ -28951,7 +28951,7 @@
 "metabolites":{
 "arg__L_c":-1.0,
 "argsuc_c":1.0,
-"enzyme_pool":-0.004406298983309769,
+"enzyme_pool":-0.00435439319889952,
 "fum_c":-1.0
 },
 "lower_bound":0.0,
@@ -28990,7 +28990,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00802",
 "smoment_enzyme":"ARGSUCCINLYA-MONOMER",
-"smoment_kcat_per_s":3.1721002762557213,
+"smoment_kcat_per_s":"3.2099127441579367",
 "smoment_mw":"50.318"
 }
 },
@@ -29002,7 +29002,7 @@
 "acACP_c":-1.0,
 "accoa_c":1.0,
 "coa_c":-1.0,
-"enzyme_pool":-0.0065705187786068596
+"enzyme_pool":-0.00649405924988616
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -29028,8 +29028,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05349",
 "smoment_enzyme":"CPLX0-252",
-"smoment_kcat_per_s":2.833786048229255,
-"smoment_mw":"67.03"
+"smoment_kcat_per_s":"2.8671506363970307",
+"smoment_mw":"67.030006"
 }
 },
 {
@@ -29038,7 +29038,7 @@
 "metabolites":{
 "ac_e":1.0,
 "ac_p":-1.0,
-"enzyme_pool":-0.0002821643410900303
+"enzyme_pool":-0.000279990741869094
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -29066,7 +29066,7 @@
 "rxn08063"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":119.22130156505662,
+"smoment_kcat_per_s":"120.14682976813533",
 "smoment_mw":"121.104"
 }
 },
@@ -29076,7 +29076,7 @@
 "metabolites":{
 "acald_e":1.0,
 "acald_p":-1.0,
-"enzyme_pool":-0.00032399757513833363
+"enzyme_pool":-0.000320176483610233
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -29097,7 +29097,7 @@
 "rxn08032"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82793755674592,
+"smoment_kcat_per_s":"105.06705433417066",
 "smoment_mw":"121.104"
 }
 },
@@ -29105,7 +29105,7 @@
 "id":"GLUtex_bw",
 "name":"L-glutamate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399745521509025,
+"enzyme_pool":-0.000320176388860331,
 "glu__L_e":1.0,
 "glu__L_p":-1.0
 },
@@ -29145,7 +29145,7 @@
 "rxn10917"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.8279759872423,
+"smoment_kcat_per_s":"105.06708542669787",
 "smoment_mw":"121.104"
 }
 },
@@ -29155,7 +29155,7 @@
 "metabolites":{
 "akg_c":-1.0,
 "akg_p":1.0,
-"enzyme_pool":-0.00037764468935917495,
+"enzyme_pool":-0.000373191153255378,
 "h_c":-1.0,
 "h_p":1.0
 },
@@ -29182,15 +29182,15 @@
 "rxn09827"
 ],
 "smoment_enzyme":"KGTP-MONOMER",
-"smoment_kcat_per_s":34.609251416135294,
-"smoment_mw":"47.052"
+"smoment_kcat_per_s":"35.02226792233638",
+"smoment_mw":"47.052002"
 }
 },
 {
 "id":"GLYCtex_bw",
 "name":"Glycerol transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399770032717014,
+"enzyme_pool":-0.000320176594678282,
 "glyc_e":1.0,
 "glyc_p":-1.0
 },
@@ -29275,7 +29275,7 @@
 "rxn08658"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82789743887258,
+"smoment_kcat_per_s":"105.06701788680708",
 "smoment_mw":"121.104"
 }
 },
@@ -29283,7 +29283,7 @@
 "id":"Htex_bw",
 "name":"Proton transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0001985440283744099,
+"enzyme_pool":-0.000197529418655706,
 "h_e":1.0,
 "h_p":-1.0
 },
@@ -29354,7 +29354,7 @@
 "rxn08730"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":169.43345148896867,
+"smoment_kcat_per_s":"170.3037462922654",
 "smoment_mw":"121.104"
 }
 },
@@ -29533,7 +29533,7 @@
 "id":"PYRt2rpp_bw",
 "name":"Pyruvate reversible transport via proton symport (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0010167881228591324,
+"enzyme_pool":-0.00102129485053971,
 "h_c":-1.0,
 "h_p":1.0,
 "pyr_c":-1.0,
@@ -29562,7 +29562,7 @@
 "rxn09217"
 ],
 "smoment_enzyme":"EG10167-MONOMER",
-"smoment_kcat_per_s":20.51804061335434,
+"smoment_kcat_per_s":"20.427499452263934",
 "smoment_mw":"75.105"
 }
 },
@@ -29571,7 +29571,7 @@
 "name":"Transketolase",
 "metabolites":{
 "e4p_c":1.0,
-"enzyme_pool":-0.022393301667274174,
+"enzyme_pool":-0.0224687752054843,
 "f6p_c":-1.0,
 "g3p_c":-1.0,
 "xu5p__D_c":1.0
@@ -29597,8 +29597,8 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"TRANSKETOI-CPLX",
-"smoment_kcat_per_s":1.7915079416987605,
-"smoment_mw":"144.424"
+"smoment_kcat_per_s":"1.7854903413390737",
+"smoment_mw":"144.424012"
 }
 },
 {
@@ -29607,7 +29607,7 @@
 "metabolites":{
 "adp_c":1.0,
 "atp_c":-1.0,
-"enzyme_pool":-0.001335324139473431,
+"enzyme_pool":-0.00131957609083861,
 "h2o_c":-1.0,
 "h_c":-3.0,
 "h_p":4.0,
@@ -29631,8 +29631,8 @@
 "rxn10042"
 ],
 "smoment_enzyme":"ATPSYN-CPLX",
-"smoment_kcat_per_s":113.08968693431875,
-"smoment_mw":"543.641"
+"smoment_kcat_per_s":"114.43932339212844",
+"smoment_mw":"543.641022"
 }
 },
 {
@@ -29727,7 +29727,7 @@
 "metabolites":{
 "adp_c":-1.0,
 "atp_c":1.0,
-"enzyme_pool":-0.002167258404201169,
+"enzyme_pool":-0.00214170320165107,
 "gdp_c":-1.0,
 "gmp_c":1.0
 },
@@ -29754,7 +29754,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00239",
 "smoment_enzyme":"GUANYL-KIN-CPLX",
-"smoment_kcat_per_s":6.0478354573752,
+"smoment_kcat_per_s":"6.119999359443318",
 "smoment_mw":"47.186"
 }
 },
@@ -29762,7 +29762,7 @@
 "id":"GLCNtex_bw",
 "name":"D-gluconate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399733452802363,
+"enzyme_pool":-0.000320176081606259,
 "glcn_e":1.0,
 "glcn_p":-1.0
 },
@@ -29783,7 +29783,7 @@
 "rxn08610"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.8280146625415,
+"smoment_kcat_per_s":"105.06718625337308",
 "smoment_mw":"121.104"
 }
 },
@@ -29791,7 +29791,7 @@
 "id":"GLNtex_bw",
 "name":"L-glutamine transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399733440941793,
+"enzyme_pool":-0.000320176132097864,
 "gln__L_e":1.0,
 "gln__L_p":-1.0
 },
@@ -29824,7 +29824,7 @@
 "rxn10928"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801470054982,
+"smoment_kcat_per_s":"105.06716968433388",
 "smoment_mw":"121.104"
 }
 },
@@ -29832,7 +29832,7 @@
 "id":"O2tex_bw",
 "name":"Oxygen transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239950605914806,
+"enzyme_pool":-0.000320173655694331,
 "o2_e":1.0,
 "o2_p":-1.0
 },
@@ -29855,7 +29855,7 @@
 "rxn09734"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82874337215915,
+"smoment_kcat_per_s":"105.06798233304986",
 "smoment_mw":"121.104"
 }
 },
@@ -29863,7 +29863,7 @@
 "id":"D_LACtex_bw",
 "name":"D-lactate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239978786308679,
+"enzyme_pool":-0.000320176477495386,
 "lac__D_e":1.0,
 "lac__D_p":-1.0
 },
@@ -29881,7 +29881,7 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn08351",
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82784029992426,
+"smoment_kcat_per_s":"105.06705634077943",
 "smoment_mw":"121.104"
 }
 },
@@ -29889,7 +29889,7 @@
 "id":"PItex_bw",
 "name":"Phosphate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399376544284893,
+"enzyme_pool":-0.000320172409275245,
 "pi_e":1.0,
 "pi_p":-1.0
 },
@@ -29919,7 +29919,7 @@
 "rxn13178"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82915842229053,
+"smoment_kcat_per_s":"105.0683913587333",
 "smoment_mw":"121.104"
 }
 },
@@ -29955,7 +29955,7 @@
 "metabolites":{
 "ac_c":-1.0,
 "ac_p":1.0,
-"enzyme_pool":-0.0025669229684945343,
+"enzyme_pool":-0.00256928914686811,
 "h_c":-1.0,
 "h_p":1.0
 },
@@ -29975,8 +29975,8 @@
 "rxn05488"
 ],
 "smoment_enzyme":"EG11512-MONOMER",
-"smoment_kcat_per_s":2.171969258994789,
-"smoment_mw":"20.071"
+"smoment_kcat_per_s":"2.169969099177354",
+"smoment_mw":"20.071001"
 }
 },
 {
@@ -30002,7 +30002,7 @@
 "id":"FRUtex_bw",
 "name":"D-fructose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399738157458694,
+"enzyme_pool":-0.000320176346271201,
 "fru_e":1.0,
 "fru_p":-1.0
 },
@@ -30041,7 +30041,7 @@
 "rxn08537"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82799958602685,
+"smoment_kcat_per_s":"105.06709940248261",
 "smoment_mw":"121.104"
 }
 },
@@ -30049,7 +30049,7 @@
 "id":"FUMtex_bw",
 "name":"Fumarate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239970875960315,
+"enzyme_pool":-0.000320175727991231,
 "fum_e":1.0,
 "fum_p":-1.0
 },
@@ -30070,7 +30070,7 @@
 "rxn11013"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82809379429756,
+"smoment_kcat_per_s":"105.06730229382443",
 "smoment_mw":"121.104"
 }
 },
@@ -30079,7 +30079,7 @@
 "name":"Methenyltetrahydrofolate cyclohydrolase",
 "metabolites":{
 "10fthf_c":-1.0,
-"enzyme_pool":-0.001581456658397525,
+"enzyme_pool":-0.00156280658067284,
 "h2o_c":1.0,
 "h_c":-1.0,
 "methf_c":1.0
@@ -30127,7 +30127,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01211",
 "smoment_enzyme":"FOLD-CPLX",
-"smoment_kcat_per_s":10.905557591532448,
+"smoment_kcat_per_s":"11.035701333712982",
 "smoment_mw":"62.088"
 }
 },
@@ -30135,7 +30135,7 @@
 "id":"MTHFD_bw",
 "name":"Methylenetetrahydrofolate dehydrogenase (NADP)",
 "metabolites":{
-"enzyme_pool":-0.00199580239115269,
+"enzyme_pool":-0.00197226801012379,
 "methf_c":-1.0,
 "mlthf_c":1.0,
 "nadp_c":1.0,
@@ -30162,7 +30162,7 @@
 ],
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FOLD-CPLX",
-"smoment_kcat_per_s":8.641470088982972,
+"smoment_kcat_per_s":"8.74458571458762",
 "smoment_mw":"62.088"
 }
 },
@@ -30170,7 +30170,7 @@
 "id":"XYLtex_bw",
 "name":"D-xylose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239967123233006,
+"enzyme_pool":-0.000320175309274775,
 "xyl__D_e":1.0,
 "xyl__D_p":-1.0
 },
@@ -30190,7 +30190,7 @@
 "rxn09650"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82821405432125,
+"smoment_kcat_per_s":"105.06743969795025",
 "smoment_mw":"121.104"
 }
 },
@@ -30198,7 +30198,7 @@
 "id":"PYRtex_bw",
 "name":"Pyruvate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00039746143025625266,
+"enzyme_pool":-0.00039424461055635,
 "pyr_e":1.0,
 "pyr_p":-1.0
 },
@@ -30219,7 +30219,7 @@
 "rxn09218"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":84.63714322748626,
+"smoment_kcat_per_s":"85.32773587577502",
 "smoment_mw":"121.104"
 }
 },
@@ -30227,7 +30227,7 @@
 "id":"SO4tex_bw",
 "name":"Sulfate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239936872887748,
+"enzyme_pool":-0.000320172322717219,
 "so4_e":1.0,
 "so4_p":-1.0
 },
@@ -30271,7 +30271,7 @@
 "rxn05238"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82918346806167,
+"smoment_kcat_per_s":"105.06841976378867",
 "smoment_mw":"121.104"
 }
 },
@@ -30279,7 +30279,7 @@
 "id":"SUCCtex_bw",
 "name":"Succinate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239978046077841,
+"enzyme_pool":-0.000320176536958072,
 "succ_e":1.0,
 "succ_p":-1.0
 },
@@ -30299,7 +30299,7 @@
 "rxn09271"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82786402124835,
+"smoment_kcat_per_s":"105.06703682788977",
 "smoment_mw":"121.104"
 }
 },
@@ -30357,7 +30357,7 @@
 "id":"NH4tex_bw",
 "name":"Ammonia transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239944615226869,
+"enzyme_pool":-0.000320173075476976,
 "nh4_e":1.0,
 "nh4_p":-1.0
 },
@@ -30403,7 +30403,7 @@
 "rxn09736"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82893535247807,
+"smoment_kcat_per_s":"105.06817273715171",
 "smoment_mw":"121.104"
 }
 },
@@ -30411,7 +30411,7 @@
 "id":"GLYCAt2rpp_bw",
 "name":"D-glycerate transport via proton symport, reversible (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00039441827696957304,
+"enzyme_pool":-0.000389766179297845,
 "glyc__R_c":-1.0,
 "glyc__R_p":1.0,
 "h_c":-1.0,
@@ -30434,15 +30434,15 @@
 "rxn13711"
 ],
 "smoment_enzyme":"B2789-MONOMER",
-"smoment_kcat_per_s":34.60933823968967,
-"smoment_mw":"49.142"
+"smoment_kcat_per_s":"35.02242327875208",
+"smoment_mw":"49.142002"
 }
 },
 {
 "id":"GLYCAtex_bw",
 "name":"D-glycerate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239973343706374,
+"enzyme_pool":-0.00032017586592879,
 "glyc__R_e":1.0,
 "glyc__R_p":-1.0
 },
@@ -30460,7 +30460,7 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn08645",
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.8280147129774,
+"smoment_kcat_per_s":"105.06725702892881",
 "smoment_mw":"121.104"
 }
 },
@@ -30703,7 +30703,7 @@
 "metabolites":{
 "co2_e":1.0,
 "co2_p":-1.0,
-"enzyme_pool":-0.0001365004465362621
+"enzyme_pool":-0.0001363223423478
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -30783,7 +30783,7 @@
 "rxn09860"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":246.44608024094154,
+"smoment_kcat_per_s":"246.76806032406674",
 "smoment_mw":"121.104"
 }
 },
@@ -30791,7 +30791,7 @@
 "id":"GLUt2rpp_bw",
 "name":"L-glutamate transport via proton symport, reversible (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003785026995881969,
+"enzyme_pool":-0.000374039304942987,
 "glu__L_c":-1.0,
 "glu__L_p":1.0,
 "h_c":-1.0,
@@ -30832,7 +30832,7 @@
 "rxn08631"
 ],
 "smoment_enzyme":"GLTP-MONOMER",
-"smoment_kcat_per_s":34.60932309458941,
+"smoment_kcat_per_s":"35.02231463139667",
 "smoment_mw":"47.159"
 }
 },
@@ -30841,7 +30841,7 @@
 "name":"Glutamate dehydrogenase (NADP)",
 "metabolites":{
 "akg_c":-1.0,
-"enzyme_pool":-0.00031731745174644294,
+"enzyme_pool":-0.000317045273033004,
 "glu__L_c":1.0,
 "h2o_c":1.0,
 "h_c":-1.0,
@@ -30875,7 +30875,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00184",
 "smoment_enzyme":"GDHA-CPLX",
-"smoment_kcat_per_s":255.1650811756557,
+"smoment_kcat_per_s":"255.3841366526371",
 "smoment_mw":"291.486"
 }
 },
@@ -30883,7 +30883,7 @@
 "id":"GLCNt2rpp_bw",
 "name":"D-gluconate transport via proton symport, reversible (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003695293618734806,
+"enzyme_pool":-0.000365171331140986,
 "glcn_c":-1.0,
 "glcn_p":1.0,
 "h_c":-1.0,
@@ -30911,7 +30911,7 @@
 "rxn05571"
 ],
 "smoment_enzyme":"YJGT-MONOMER",
-"smoment_kcat_per_s":34.609338218285934,
+"smoment_kcat_per_s":"35.02237326984744",
 "smoment_mw":"46.041"
 }
 },
@@ -31061,7 +31061,7 @@
 "id":"ETOHtex_bw",
 "name":"Ethanol transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399742489809384,
+"enzyme_pool":-0.000320175660532172,
 "etoh_e":1.0,
 "etoh_p":-1.0
 },
@@ -31088,7 +31088,7 @@
 "rxn09764"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82798570260462,
+"smoment_kcat_per_s":"105.06732443086425",
 "smoment_mw":"121.104"
 }
 },
@@ -31097,7 +31097,7 @@
 "name":"Dihydrofolate reductase",
 "metabolites":{
 "dhf_c":1.0,
-"enzyme_pool":-0.0038351417565939913,
+"enzyme_pool":-0.00378994724834944,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0,
@@ -31142,7 +31142,7 @@
 "sabiork.reaction":"100",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"DIHYDROFOLATEREDUCT-MONOMER",
-"smoment_kcat_per_s":1.3036603441387524,
+"smoment_kcat_per_s":"1.3192062829897306",
 "smoment_mw":"17.999"
 }
 },
@@ -31175,7 +31175,7 @@
 "metabolites":{
 "34hpp_c":-1.0,
 "akg_c":1.0,
-"enzyme_pool":-0.003238938935497515,
+"enzyme_pool":-0.00320379469958362,
 "glu__L_c":-1.0,
 "tyr__L_c":1.0
 },
@@ -31240,7 +31240,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00527",
 "smoment_enzyme":"ASPAMINOTRANS-DIMER",
-"smoment_kcat_per_s":7.473812475104254,
+"smoment_kcat_per_s":"7.5557969508371725",
 "smoment_mw":"87.146"
 }
 },
@@ -31374,7 +31374,7 @@
 "adp_c":-1.0,
 "atp_c":1.0,
 "coa_c":1.0,
-"enzyme_pool":-0.0011171761614023874,
+"enzyme_pool":-0.00111566402738508,
 "pi_c":-1.0,
 "succ_c":1.0,
 "succoa_c":-1.0
@@ -31422,15 +31422,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00285",
 "smoment_enzyme":"SUCCCOASYN",
-"smoment_kcat_per_s":35.391812191244625,
-"smoment_mw":"142.34"
+"smoment_kcat_per_s":"35.439782075498236",
+"smoment_mw":"142.340004"
 }
 },
 {
 "id":"LDH_D_bw",
 "name":"D-lactate dehydrogenase",
 "metabolites":{
-"enzyme_pool":-0.0016482690012178027,
+"enzyme_pool":-0.00162883708549951,
 "h_c":-1.0,
 "lac__D_c":1.0,
 "nad_c":1.0,
@@ -31459,7 +31459,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00500",
 "smoment_enzyme":"CPLX0-8158",
-"smoment_kcat_per_s":24.628531152652723,
+"smoment_kcat_per_s":"24.92234785530772",
 "smoment_mw":"146.14"
 }
 },
@@ -31468,7 +31468,7 @@
 "name":"Trans-2-decenoyl-ACP isomerase",
 "metabolites":{
 "cdec3eACP_c":-1.0,
-"enzyme_pool":-0.003729709331203232,
+"enzyme_pool":-0.00368576434801696,
 "tdec2eACP_c":1.0
 },
 "lower_bound":0.0,
@@ -31483,15 +31483,15 @@
 "metanetx.reaction":"MNXR104659",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"FABA-CPLX",
-"smoment_kcat_per_s":2.8255106222804742,
-"smoment_mw":"37.938"
+"smoment_kcat_per_s":"2.8591991916451103",
+"smoment_mw":"37.938004"
 }
 },
 {
 "id":"MALtex_bw",
 "name":"Malate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00032399733435916066,
+"enzyme_pool":-0.000320175960657866,
 "mal__L_e":1.0,
 "mal__L_p":-1.0
 },
@@ -31512,7 +31512,7 @@
 "rxn08868"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801471665522,
+"smoment_kcat_per_s":"105.06722594313406",
 "smoment_mw":"121.104"
 }
 },
@@ -31522,7 +31522,7 @@
 "metabolites":{
 "amp_c":-1.0,
 "dcamp_c":1.0,
-"enzyme_pool":-0.008525434471423655,
+"enzyme_pool":-0.00842540843808697,
 "fum_c":-1.0
 },
 "lower_bound":0.0,
@@ -31568,8 +31568,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00800",
 "smoment_enzyme":"CPLX0-7959",
-"smoment_kcat_per_s":6.717546207405958,
-"smoment_mw":"206.172"
+"smoment_kcat_per_s":"6.79729698022055",
+"smoment_mw":"206.172012"
 }
 },
 {
@@ -31578,7 +31578,7 @@
 "metabolites":{
 "10fthf_c":1.0,
 "aicar_c":1.0,
-"enzyme_pool":-0.008779660391397425,
+"enzyme_pool":-0.00867671611196285,
 "fprica_c":-1.0,
 "thf_c":-1.0
 },
@@ -31623,15 +31623,15 @@
 "sabiork.reaction":"122",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"AICARTRANSIMPCYCLO-CPLX",
-"smoment_kcat_per_s":1.813819841804558,
-"smoment_mw":"57.329"
+"smoment_kcat_per_s":"1.835339841973381",
+"smoment_mw":"57.329002"
 }
 },
 {
 "id":"D_LACt2pp_bw",
 "name":"D-lactate transport via proton symport (periplasm)",
 "metabolites":{
-"enzyme_pool":-0.00047488909924635786,
+"enzyme_pool":-0.00046928816723756,
 "h_c":-1.0,
 "h_p":1.0,
 "lac__D_c":-1.0,
@@ -31654,15 +31654,15 @@
 "rxn08350"
 ],
 "smoment_enzyme":"LCTP-MONOMER",
-"smoment_kcat_per_s":34.609249994658846,
-"smoment_mw":"59.168"
+"smoment_kcat_per_s":"35.02231152691519",
+"smoment_mw":"59.168003"
 }
 },
 {
 "id":"RIBtex_bw",
 "name":"Ribose transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239973343754609,
+"enzyme_pool":-0.000320175935988963,
 "rib__D_e":1.0,
 "rib__D_p":-1.0
 },
@@ -31679,7 +31679,7 @@
 "sbo":"SBO:0000185",
 "seed.reaction":"rxn09228",
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82801471143168,
+"smoment_kcat_per_s":"105.06723403834955",
 "smoment_mw":"121.104"
 }
 },
@@ -31687,7 +31687,7 @@
 "id":"FORtex_bw",
 "name":"Formate transport via diffusion (extracellular to periplasm)",
 "metabolites":{
-"enzyme_pool":-0.0003239660236417425,
+"enzyme_pool":-0.000320146117136436,
 "for_e":1.0,
 "for_p":-1.0
 },
@@ -31717,7 +31717,7 @@
 "rxn08526"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.83804950237857,
+"smoment_kcat_per_s":"105.0770201459721",
 "smoment_mw":"121.104"
 }
 },
@@ -31727,7 +31727,7 @@
 "metabolites":{
 "2pg_c":1.0,
 "3pg_c":-1.0,
-"enzyme_pool":-0.00016829188710115368
+"enzyme_pool":-0.000168009441367263
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -31793,8 +31793,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01106",
 "smoment_enzyme":"PHOSGLYCMUTASE",
-"smoment_kcat_per_s":94.2674345015155,
-"smoment_mw":"57.112"
+"smoment_kcat_per_s":"94.42591693925374",
+"smoment_mw":"57.112004"
 }
 },
 {
@@ -31802,7 +31802,7 @@
 "name":"Triose-phosphate isomerase",
 "metabolites":{
 "dhap_c":1.0,
-"enzyme_pool":-0.0010628564224966534,
+"enzyme_pool":-0.00106142527155709,
 "g3p_c":-1.0
 },
 "lower_bound":0.0,
@@ -31866,15 +31866,15 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00747",
 "smoment_enzyme":"TPI",
-"smoment_kcat_per_s":14.098277177688715,
-"smoment_mw":"53.944"
+"smoment_kcat_per_s":"14.117287346638832",
+"smoment_mw":"53.944004"
 }
 },
 {
 "id":"RPI_bw",
 "name":"Ribose-5-phosphate isomerase",
 "metabolites":{
-"enzyme_pool":-0.0003097230204427231,
+"enzyme_pool":-0.000309452608367384,
 "r5p_c":1.0,
 "ru5p__D_c":-1.0
 },
@@ -31892,7 +31892,7 @@
 "metanetx.reaction":"MNXR189850",
 "sbo":"SBO:0000176",
 "smoment_enzyme":"RIB5PISOMA-CPLX",
-"smoment_kcat_per_s":41.00437862786696,
+"smoment_kcat_per_s":"41.0402098951529",
 "smoment_mw":"45.72"
 }
 },
@@ -31902,7 +31902,7 @@
 "metabolites":{
 "3hddecACP_c":-1.0,
 "3oddecACP_c":1.0,
-"enzyme_pool":-0.0033610009667898464,
+"enzyme_pool":-0.00332139648499791,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -31928,8 +31928,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05340",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":8.449863680677652,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"8.550620571614473",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -31938,7 +31938,7 @@
 "metabolites":{
 "akg_e":1.0,
 "akg_p":-1.0,
-"enzyme_pool":-0.00032399801570648677
+"enzyme_pool":-0.000320176832186877
 },
 "lower_bound":0.0,
 "upper_bound":1000.0,
@@ -31958,7 +31958,7 @@
 "rxn13220"
 ],
 "smoment_enzyme":"CPLX0-7533",
-"smoment_kcat_per_s":103.82779637290999,
+"smoment_kcat_per_s":"105.06693994762676",
 "smoment_mw":"121.104"
 }
 },
@@ -31967,7 +31967,7 @@
 "name":"Aconitase (half-reaction B, Isocitrate hydro-lyase)",
 "metabolites":{
 "acon_C_c":1.0,
-"enzyme_pool":-0.003453206356707231,
+"enzyme_pool":-0.00341252350407859,
 "h2o_c":1.0,
 "icit_c":-1.0
 },
@@ -31993,7 +31993,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn01388",
 "smoment_enzyme":"CPLX0-7761",
-"smoment_kcat_per_s":15.042058877380084,
+"smoment_kcat_per_s":"15.22138478203933",
 "smoment_mw":"186.996"
 }
 },
@@ -32028,7 +32028,7 @@
 "metabolites":{
 "3hmrsACP_c":-1.0,
 "3omrsACP_c":1.0,
-"enzyme_pool":-0.003361000579438657,
+"enzyme_pool":-0.00332139552247239,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32054,8 +32054,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05342",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":8.449864654514064,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"8.550623049545933",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32064,7 +32064,7 @@
 "metabolites":{
 "3hpalmACP_c":-1.0,
 "3opalmACP_c":1.0,
-"enzyme_pool":-0.0033609944434905724,
+"enzyme_pool":-0.00332139369045038,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32090,8 +32090,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05336",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":8.449880080880193,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"8.55062776591836",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32100,7 +32100,7 @@
 "metabolites":{
 "acon_C_c":-1.0,
 "cit_c":1.0,
-"enzyme_pool":-0.00607403596136822,
+"enzyme_pool":-0.00600259036351675,
 "h2o_c":-1.0
 },
 "lower_bound":0.0,
@@ -32126,7 +32126,7 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00974",
 "smoment_enzyme":"CPLX0-7761",
-"smoment_kcat_per_s":8.551700000411708,
+"smoment_kcat_per_s":"8.653486276365063",
 "smoment_mw":"186.996"
 }
 },
@@ -32136,7 +32136,7 @@
 "metabolites":{
 "3hhexACP_c":-1.0,
 "3ohexACP_c":1.0,
-"enzyme_pool":-0.00336100842216687,
+"enzyme_pool":-0.00332139739503665,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32162,8 +32162,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05337",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":8.449844937219849,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"8.550618228806592",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32172,7 +32172,7 @@
 "metabolites":{
 "3hoctACP_c":-1.0,
 "3ooctACP_c":1.0,
-"enzyme_pool":-0.0033610084221697275,
+"enzyme_pool":-0.00332139845287111,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32198,8 +32198,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05341",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":8.449844937212665,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"8.550615505514363",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32208,7 +32208,7 @@
 "metabolites":{
 "3haACP_c":-1.0,
 "actACP_c":1.0,
-"enzyme_pool":-0.005011310597585149,
+"enzyme_pool":-0.00495230123006286,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32228,8 +32228,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07994",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":5.667180161150936,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"5.734707925016635",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32238,7 +32238,7 @@
 "metabolites":{
 "3hdecACP_c":-1.0,
 "3odecACP_c":1.0,
-"enzyme_pool":-0.003361008422116239,
+"enzyme_pool":-0.00332139915501264,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32264,8 +32264,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn05338",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":8.44984493734714,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"8.550613697920031",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32274,7 +32274,7 @@
 "metabolites":{
 "3hoctaACP_c":-1.0,
 "3ooctdACP_c":1.0,
-"enzyme_pool":-0.005011328962729168,
+"enzyme_pool":-0.00495194912335215,
 "h_c":1.0,
 "nadp_c":-1.0,
 "nadph_c":1.0
@@ -32294,8 +32294,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn07992",
 "smoment_enzyme":"CPLX0-8005",
-"smoment_kcat_per_s":5.66715939249244,
-"smoment_mw":"102.24"
+"smoment_kcat_per_s":"5.735115689534011",
+"smoment_mw":"102.240004"
 }
 },
 {
@@ -32335,7 +32335,7 @@
 "metabolites":{
 "3mob_c":1.0,
 "ala__L_c":1.0,
-"enzyme_pool":-0.00038497443735724526,
+"enzyme_pool":-0.000384622783477981,
 "pyr_c":-1.0,
 "val__L_c":-1.0
 },
@@ -32360,8 +32360,8 @@
 "sbo":"SBO:0000176",
 "seed.reaction":"rxn00904",
 "smoment_enzyme":"VALINE-PYRUVATE-AMINOTRANSFER-MONOMER",
-"smoment_kcat_per_s":33.70425804593641,
-"smoment_mw":"46.711"
+"smoment_kcat_per_s":"33.73507470359236",
+"smoment_mw":"46.711002"
 }
 },
 {
@@ -32371,7 +32371,7 @@
 "enzyme_pool":1.0
 },
 "lower_bound":0.0,
-"upper_bound":0.2822839762412902,
+"upper_bound":0.281838974245756,
 "gene_reaction_rule":""
 }
 ],

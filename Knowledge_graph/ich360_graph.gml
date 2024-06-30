@@ -1439,7 +1439,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "ECOLI:PYRUVFORMLY-CPLX"
-    mw 0.0
+    mw 170.714
   ]
   node [
     id 106
@@ -1470,7 +1470,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "ECOLI:KETOBUTFORMLY-MONOMER"
-    mw 0.0
+    mw 85.935005
   ]
   node [
     id 108
@@ -1502,7 +1502,7 @@ graph [
     type "protein"
     subtype "multimeric_protein"
     biocyc_id "ECOLI:CPLX0-9871"
-    mw 14.284
+    mw 184.998
   ]
   node [
     id 110
@@ -3416,7 +3416,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "ECOLI:LIPOYL-GCVH"
-    mw 0.0
+    mw 13.811001
   ]
   node [
     id 249
@@ -3446,7 +3446,7 @@ graph [
     type "protein"
     subtype "multimeric_protein"
     biocyc_id "ECOLI:GCVMULTI-CPLX"
-    mw 350.27503099999996
+    mw 364.08603199999993
   ]
   node [
     id 251
@@ -4038,7 +4038,7 @@ graph [
     type "protein"
     subtype "multimeric_protein"
     biocyc_id "ECOLI:ASPCARBTRANS-CPLX"
-    mw 206.562012
+    mw 240.804012
   ]
   node [
     id 298
@@ -7292,7 +7292,7 @@ graph [
     type "protein"
     subtype "multimeric_protein"
     biocyc_id "ECOLI:ATPSYN-CPLX"
-    mw 530.0090210000001
+    mw 543.641022
   ]
   node [
     id 535
@@ -11337,7 +11337,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SHIKIMATE"
-    mw 0.0
   ]
   node [
     id 859
@@ -11346,7 +11345,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2358"
-    mw 0.0
   ]
   node [
     id 860
@@ -11355,7 +11353,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NI+2"
-    mw 0.0
   ]
   node [
     id 861
@@ -11364,7 +11361,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1454"
-    mw 0.0
   ]
   node [
     id 862
@@ -11373,7 +11369,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-29"
-    mw 0.0
   ]
   node [
     id 863
@@ -11382,7 +11377,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CU+2"
-    mw 0.0
   ]
   node [
     id 864
@@ -11391,7 +11385,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PALMITYL-COA"
-    mw 0.0
   ]
   node [
     id 865
@@ -11400,7 +11393,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ADENOSINE_DIPHOSPHATE_RIBOSE"
-    mw 0.0
   ]
   node [
     id 866
@@ -11409,7 +11401,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-3706"
-    mw 0.0
   ]
   node [
     id 867
@@ -11418,7 +11409,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-KETOGLUTARATE"
-    mw 0.0
   ]
   node [
     id 868
@@ -11427,7 +11417,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "K+"
-    mw 0.0
   ]
   node [
     id 869
@@ -11436,7 +11425,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ACETYL-COA"
-    mw 0.0
   ]
   node [
     id 870
@@ -11445,7 +11433,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PROPIONYL-COA"
-    mw 0.0
   ]
   node [
     id 871
@@ -11454,7 +11441,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1673"
-    mw 0.0
   ]
   node [
     id 872
@@ -11463,7 +11449,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NADH"
-    mw 0.0
   ]
   node [
     id 873
@@ -11472,7 +11457,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PHOSPHO-ENOL-PYRUVATE"
-    mw 0.0
   ]
   node [
     id 874
@@ -11481,7 +11465,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-628"
-    mw 0.0
   ]
   node [
     id 875
@@ -11490,7 +11473,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PHENYLGLYOXAL"
-    mw 0.0
   ]
   node [
     id 876
@@ -11499,7 +11481,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLYOX"
-    mw 0.0
   ]
   node [
     id 877
@@ -11508,7 +11489,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OXALACETIC_ACID"
-    mw 0.0
   ]
   node [
     id 878
@@ -11517,7 +11497,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ACETALD"
-    mw 0.0
   ]
   node [
     id 879
@@ -11526,7 +11505,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-400"
-    mw 0.0
   ]
   node [
     id 880
@@ -11535,7 +11513,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Thiols"
-    mw 0.0
   ]
   node [
     id 881
@@ -11544,7 +11521,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1364"
-    mw 0.0
   ]
   node [
     id 882
@@ -11553,7 +11529,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NAD"
-    mw 0.0
   ]
   node [
     id 883
@@ -11562,7 +11537,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "AMP"
-    mw 0.0
   ]
   node [
     id 884
@@ -11571,7 +11545,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BENZALDEHYDE"
-    mw 0.0
   ]
   node [
     id 885
@@ -11580,7 +11553,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "F-"
-    mw 0.0
   ]
   node [
     id 886
@@ -11589,7 +11561,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CA+2"
-    mw 0.0
   ]
   node [
     id 887
@@ -11598,7 +11569,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ATP"
-    mw 0.0
   ]
   node [
     id 888
@@ -11607,7 +11577,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-ASPARTATE"
-    mw 0.0
   ]
   node [
     id 889
@@ -11616,7 +11585,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CO-A"
-    mw 0.0
   ]
   node [
     id 890
@@ -11625,7 +11593,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1316"
-    mw 0.0
   ]
   node [
     id 891
@@ -11634,7 +11601,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1054"
-    mw 0.0
   ]
   node [
     id 892
@@ -11643,7 +11609,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Pi"
-    mw 0.0
   ]
   node [
     id 893
@@ -11652,7 +11617,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "FRUCTOSE-16-DIPHOSPHATE"
-    mw 0.0
   ]
   node [
     id 894
@@ -11661,7 +11625,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1461"
-    mw 0.0
   ]
   node [
     id 895
@@ -11670,7 +11633,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLYCEROL-3P"
-    mw 0.0
   ]
   node [
     id 896
@@ -11679,7 +11641,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ADP"
-    mw 0.0
   ]
   node [
     id 897
@@ -11688,7 +11649,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1614"
-    mw 0.0
   ]
   node [
     id 898
@@ -11697,7 +11657,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-12132"
-    mw 0.0
   ]
   node [
     id 899
@@ -11706,7 +11665,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "MALEATE"
-    mw 0.0
   ]
   node [
     id 900
@@ -11715,7 +11673,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DITHIOTHREITOL"
-    mw 0.0
   ]
   node [
     id 901
@@ -11724,7 +11681,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "KCL"
-    mw 0.0
   ]
   node [
     id 902
@@ -11733,7 +11689,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "LI+"
-    mw 0.0
   ]
   node [
     id 903
@@ -11742,7 +11697,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CIT"
-    mw 0.0
   ]
   node [
     id 904
@@ -11751,7 +11705,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLC-6-P"
-    mw 0.0
   ]
   node [
     id 905
@@ -11760,7 +11713,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SULFATE"
-    mw 0.0
   ]
   node [
     id 906
@@ -11769,7 +11721,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-535"
-    mw 0.0
   ]
   node [
     id 907
@@ -11803,7 +11754,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GTP"
-    mw 0.0
   ]
   node [
     id 909
@@ -11812,7 +11762,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SUC-COA"
-    mw 0.0
   ]
   node [
     id 910
@@ -11821,7 +11770,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Glucose-6-phosphate"
-    mw 0.0
   ]
   node [
     id 911
@@ -11830,7 +11778,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "RIBOSE-5P"
-    mw 0.0
   ]
   node [
     id 912
@@ -11839,7 +11786,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PHMB"
-    mw 0.0
   ]
   node [
     id 913
@@ -11848,7 +11794,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NADPH"
-    mw 0.0
   ]
   node [
     id 914
@@ -11857,7 +11802,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OXIDIZED-GLUTATHIONE"
-    mw 0.0
   ]
   node [
     id 915
@@ -11866,7 +11810,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CU+"
-    mw 0.0
   ]
   node [
     id 916
@@ -11875,7 +11818,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "LEU"
-    mw 0.0
   ]
   node [
     id 917
@@ -11884,7 +11826,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "VAL"
-    mw 0.0
   ]
   node [
     id 918
@@ -11893,7 +11834,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NaF"
-    mw 0.0
   ]
   node [
     id 919
@@ -11902,7 +11842,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1692"
-    mw 0.0
   ]
   node [
     id 920
@@ -11911,7 +11850,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ILE"
-    mw 0.0
   ]
   node [
     id 921
@@ -11920,7 +11858,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-OXOBUTANOATE"
-    mw 0.0
   ]
   node [
     id 922
@@ -11929,7 +11866,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PYRUVATE"
-    mw 0.0
   ]
   node [
     id 923
@@ -11938,7 +11874,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1308"
-    mw 0.0
   ]
   node [
     id 924
@@ -11947,7 +11882,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "3-ENOLPYRUVYL-SHIKIMATE-5P"
-    mw 0.0
   ]
   node [
     id 925
@@ -11956,7 +11890,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PYRIDOXAL_PHOSPHATE"
-    mw 0.0
   ]
   node [
     id 926
@@ -11965,7 +11898,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "3-BROMOPYRUVATE"
-    mw 0.0
   ]
   node [
     id 927
@@ -11974,7 +11906,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-13859"
-    mw 0.0
   ]
   node [
     id 928
@@ -11983,7 +11914,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-27"
-    mw 0.0
   ]
   node [
     id 929
@@ -11992,7 +11922,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OXYGEN-MOLECULE"
-    mw 0.0
   ]
   node [
     id 930
@@ -12001,7 +11930,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1544"
-    mw 0.0
   ]
   node [
     id 931
@@ -12010,7 +11938,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "TRP"
-    mw 0.0
   ]
   node [
     id 932
@@ -12019,7 +11946,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-Alkyl-Dinitrophenol-Derivatives"
-    mw 0.0
   ]
   node [
     id 933
@@ -12028,7 +11954,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-7975"
-    mw 0.0
   ]
   node [
     id 934
@@ -12037,7 +11962,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "MALONATE"
-    mw 0.0
   ]
   node [
     id 935
@@ -12046,7 +11970,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Ubiquinol-Analogues"
-    mw 0.0
   ]
   node [
     id 936
@@ -12055,7 +11978,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PENTACHLOROPHENOL"
-    mw 0.0
   ]
   node [
     id 937
@@ -12064,7 +11986,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PREPHENATE"
-    mw 0.0
   ]
   node [
     id 938
@@ -12073,7 +11994,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "TYR"
-    mw 0.0
   ]
   node [
     id 939
@@ -12082,7 +12002,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-12153"
-    mw 0.0
   ]
   node [
     id 940
@@ -12091,7 +12010,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-381"
-    mw 0.0
   ]
   node [
     id 941
@@ -12100,7 +12018,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PHE"
-    mw 0.0
   ]
   node [
     id 942
@@ -12109,7 +12026,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "6R-6-FLUORO-EPSP"
-    mw 0.0
   ]
   node [
     id 943
@@ -12118,7 +12034,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "6S-6-FLUORO-EPSP"
-    mw 0.0
   ]
   node [
     id 944
@@ -12127,7 +12042,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1490"
-    mw 0.0
   ]
   node [
     id 945
@@ -12136,7 +12050,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1489"
-    mw 0.0
   ]
   node [
     id 946
@@ -12145,7 +12058,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1488"
-    mw 0.0
   ]
   node [
     id 947
@@ -12154,7 +12066,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1487"
-    mw 0.0
   ]
   node [
     id 948
@@ -12163,7 +12074,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1486"
-    mw 0.0
   ]
   node [
     id 949
@@ -12172,7 +12082,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ANTHRANILATE"
-    mw 0.0
   ]
   node [
     id 950
@@ -12181,7 +12090,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-KETO-ISOVALERATE"
-    mw 0.0
   ]
   node [
     id 951
@@ -12190,7 +12098,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BOROHYDRIDE"
-    mw 0.0
   ]
   node [
     id 952
@@ -12199,7 +12106,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "AMMONIUM"
-    mw 0.0
   ]
   node [
     id 953
@@ -12208,7 +12114,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "EDTA"
-    mw 0.0
   ]
   node [
     id 954
@@ -12217,7 +12122,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-69"
-    mw 0.0
   ]
   node [
     id 955
@@ -12226,7 +12130,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1626"
-    mw 0.0
   ]
   node [
     id 956
@@ -12235,7 +12138,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SEROTONIN"
-    mw 0.0
   ]
   node [
     id 957
@@ -12244,7 +12146,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "4-HYDROXYBENZALDEHYDE"
-    mw 0.0
   ]
   node [
     id 958
@@ -12253,7 +12154,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NITRIC-OXIDE"
-    mw 0.0
   ]
   node [
     id 959
@@ -12262,7 +12162,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "XANTHOSINE-5-PHOSPHATE"
-    mw 0.0
   ]
   node [
     id 960
@@ -12271,7 +12170,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GUANOSINE-5DP-3DP"
-    mw 0.0
   ]
   node [
     id 961
@@ -12280,7 +12178,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1493"
-    mw 0.0
   ]
   node [
     id 962
@@ -12289,7 +12186,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1492"
-    mw 0.0
   ]
   node [
     id 963
@@ -12298,7 +12194,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "RB+"
-    mw 0.0
   ]
   node [
     id 964
@@ -12307,7 +12202,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-2"
-    mw 0.0
   ]
   node [
     id 965
@@ -12316,7 +12210,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GMP"
-    mw 0.0
   ]
   node [
     id 966
@@ -12325,7 +12218,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OXALATE"
-    mw 0.0
   ]
   node [
     id 967
@@ -12334,7 +12226,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-2961"
-    mw 0.0
   ]
   node [
     id 968
@@ -12343,7 +12234,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DEHYDROQUINATE"
-    mw 0.0
   ]
   node [
     id 969
@@ -12352,7 +12242,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BH4NA"
-    mw 0.0
   ]
   node [
     id 970
@@ -12361,7 +12250,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CL-"
-    mw 0.0
   ]
   node [
     id 971
@@ -12370,7 +12258,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ACET"
-    mw 0.0
   ]
   node [
     id 972
@@ -12379,7 +12266,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SUC"
-    mw 0.0
   ]
   node [
     id 973
@@ -12388,7 +12274,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DIETHYLPYROCARBONATE"
-    mw 0.0
   ]
   node [
     id 974
@@ -12397,7 +12282,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NAIR"
-    mw 0.0
   ]
   node [
     id 975
@@ -12406,7 +12290,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "TRIS"
-    mw 0.0
   ]
   node [
     id 976
@@ -12415,7 +12298,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ARABINOSE-5P"
-    mw 0.0
   ]
   node [
     id 977
@@ -12424,7 +12306,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-GLYCERALDEHYDE"
-    mw 0.0
   ]
   node [
     id 978
@@ -12433,7 +12314,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2022"
-    mw 0.0
   ]
   node [
     id 979
@@ -12442,7 +12322,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ZN+2"
-    mw 0.0
   ]
   node [
     id 980
@@ -12451,7 +12330,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PYRAZOLE"
-    mw 0.0
   ]
   node [
     id 981
@@ -12460,7 +12338,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1652"
-    mw 0.0
   ]
   node [
     id 982
@@ -12469,7 +12346,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-MERCAPTOETHANOL"
-    mw 0.0
   ]
   node [
     id 983
@@ -12478,7 +12354,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "METHYLENE-THF-GLU-N"
-    mw 0.0
   ]
   node [
     id 984
@@ -12487,7 +12362,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CD+2"
-    mw 0.0
   ]
   node [
     id 985
@@ -12496,7 +12370,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "AG+"
-    mw 0.0
   ]
   node [
     id 986
@@ -12505,7 +12378,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HG+2"
-    mw 0.0
   ]
   node [
     id 987
@@ -12514,7 +12386,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2489"
-    mw 0.0
   ]
   node [
     id 988
@@ -12523,7 +12394,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SUPER-OXIDE"
-    mw 0.0
   ]
   node [
     id 989
@@ -12532,7 +12402,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "TUNGSTATE"
-    mw 0.0
   ]
   node [
     id 990
@@ -12541,7 +12410,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NADP"
-    mw 0.0
   ]
   node [
     id 991
@@ -12550,7 +12418,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DIOH-ISOVALERATE"
-    mw 0.0
   ]
   node [
     id 992
@@ -12559,7 +12426,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1220"
-    mw 0.0
   ]
   node [
     id 993
@@ -12568,7 +12434,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1218"
-    mw 0.0
   ]
   node [
     id 994
@@ -12577,7 +12442,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1242"
-    mw 0.0
   ]
   node [
     id 995
@@ -12586,7 +12450,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "IODOACETAMIDE"
-    mw 0.0
   ]
   node [
     id 996
@@ -12595,7 +12458,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-6901"
-    mw 0.0
   ]
   node [
     id 997
@@ -12604,7 +12466,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Sulfhydryl-Reagents"
-    mw 0.0
   ]
   node [
     id 998
@@ -12613,7 +12474,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "FE+2"
-    mw 0.0
   ]
   node [
     id 999
@@ -12622,7 +12482,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "MN+2"
-    mw 0.0
   ]
   node [
     id 1000
@@ -12631,7 +12490,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-9275"
-    mw 0.0
   ]
   node [
     id 1001
@@ -12640,7 +12498,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "IODOACETATE"
-    mw 0.0
   ]
   node [
     id 1002
@@ -12649,7 +12506,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DITHIO-NITROBENZOATE"
-    mw 0.0
   ]
   node [
     id 1003
@@ -12658,7 +12514,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-8147"
-    mw 0.0
   ]
   node [
     id 1004
@@ -12667,7 +12522,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HYDROXYMALONATE"
-    mw 0.0
   ]
   node [
     id 1005
@@ -12676,7 +12530,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-546"
-    mw 0.0
   ]
   node [
     id 1006
@@ -12685,7 +12538,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CIS-ACONITATE"
-    mw 0.0
   ]
   node [
     id 1007
@@ -12694,7 +12546,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLYCOLLATE"
-    mw 0.0
   ]
   node [
     id 1008
@@ -12703,7 +12554,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ITACONATE"
-    mw 0.0
   ]
   node [
     id 1009
@@ -12712,7 +12562,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "G3P"
-    mw 0.0
   ]
   node [
     id 1010
@@ -12721,7 +12570,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CO+2"
-    mw 0.0
   ]
   node [
     id 1011
@@ -12730,7 +12578,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DODECANOATE"
-    mw 0.0
   ]
   node [
     id 1012
@@ -12739,7 +12586,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1682"
-    mw 0.0
   ]
   node [
     id 1013
@@ -12748,7 +12594,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CDP"
-    mw 0.0
   ]
   node [
     id 1014
@@ -12757,7 +12602,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "MAL"
-    mw 0.0
   ]
   node [
     id 1015
@@ -12766,7 +12610,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-ALANINE"
-    mw 0.0
   ]
   node [
     id 1016
@@ -12775,7 +12618,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "METHYLMETHANETHIOSULFONATE"
-    mw 0.0
   ]
   node [
     id 1017
@@ -12784,7 +12626,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OROTATE"
-    mw 0.0
   ]
   node [
     id 1018
@@ -12793,7 +12634,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "UTP"
-    mw 0.0
   ]
   node [
     id 1019
@@ -12802,7 +12642,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2635"
-    mw 0.0
   ]
   node [
     id 1020
@@ -12811,7 +12650,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-GLUTAMATE_GAMMA-SEMIALDEHYDE"
-    mw 0.0
   ]
   node [
     id 1021
@@ -12820,7 +12658,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1037"
-    mw 0.0
   ]
   node [
     id 1022
@@ -12829,7 +12666,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CTP"
-    mw 0.0
   ]
   node [
     id 1023
@@ -12838,7 +12674,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1038"
-    mw 0.0
   ]
   node [
     id 1024
@@ -12847,7 +12682,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-12164"
-    mw 0.0
   ]
   node [
     id 1025
@@ -12855,7 +12689,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "PTSH-PHOSPHORYLATED"
-    mw 0.0
+    mw NAN
   ]
   node [
     id 1026
@@ -12864,7 +12698,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1552"
-    mw 0.0
   ]
   node [
     id 1027
@@ -12873,7 +12706,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "MG+2"
-    mw 0.0
   ]
   node [
     id 1028
@@ -12882,7 +12714,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1137"
-    mw 0.0
   ]
   node [
     id 1029
@@ -12891,7 +12722,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLUTATHIONE"
-    mw 0.0
   ]
   node [
     id 1030
@@ -12900,7 +12730,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1641"
-    mw 0.0
   ]
   node [
     id 1031
@@ -12909,7 +12738,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-ORNITHINE"
-    mw 0.0
   ]
   node [
     id 1032
@@ -12918,7 +12746,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1055"
-    mw 0.0
   ]
   node [
     id 1033
@@ -12927,7 +12754,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ASN"
-    mw 0.0
   ]
   node [
     id 1034
@@ -12936,7 +12762,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "AMMONIA"
-    mw 0.0
   ]
   node [
     id 1035
@@ -12945,7 +12770,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1617"
-    mw 0.0
   ]
   node [
     id 1036
@@ -12954,7 +12778,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "N-ETHYLMALEIMIDE"
-    mw 0.0
   ]
   node [
     id 1037
@@ -12962,7 +12785,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "MALONYL-ACP"
-    mw 0.0
+    mw NAN
   ]
   node [
     id 1038
@@ -12971,7 +12794,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1537"
-    mw 0.0
   ]
   node [
     id 1039
@@ -12980,7 +12802,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1502"
-    mw 0.0
   ]
   node [
     id 1040
@@ -12989,7 +12810,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1535"
-    mw 0.0
   ]
   node [
     id 1041
@@ -12998,7 +12818,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1536"
-    mw 0.0
   ]
   node [
     id 1042
@@ -13007,7 +12826,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1533"
-    mw 0.0
   ]
   node [
     id 1043
@@ -13016,7 +12834,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1532"
-    mw 0.0
   ]
   node [
     id 1044
@@ -13025,7 +12842,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1530"
-    mw 0.0
   ]
   node [
     id 1045
@@ -13034,7 +12850,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1501"
-    mw 0.0
   ]
   node [
     id 1046
@@ -13043,7 +12858,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Lanthionine-Isomers"
-    mw 0.0
   ]
   node [
     id 1047
@@ -13052,7 +12866,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1500"
-    mw 0.0
   ]
   node [
     id 1048
@@ -13061,7 +12874,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1499"
-    mw 0.0
   ]
   node [
     id 1049
@@ -13070,7 +12882,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1498"
-    mw 0.0
   ]
   node [
     id 1050
@@ -13079,7 +12890,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "LYS"
-    mw 0.0
   ]
   node [
     id 1051
@@ -13088,7 +12898,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-Aminobutyrate"
-    mw 0.0
   ]
   node [
     id 1052
@@ -13097,7 +12906,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1475"
-    mw 0.0
   ]
   node [
     id 1053
@@ -13106,7 +12914,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HOMO-SER"
-    mw 0.0
   ]
   node [
     id 1054
@@ -13115,7 +12922,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CYS"
-    mw 0.0
   ]
   node [
     id 1055
@@ -13124,7 +12930,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HOMO-CYS"
-    mw 0.0
   ]
   node [
     id 1056
@@ -13133,7 +12938,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "THR"
-    mw 0.0
   ]
   node [
     id 1057
@@ -13142,7 +12946,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HYDROXYLAMINE"
-    mw 0.0
   ]
   node [
     id 1058
@@ -13151,7 +12954,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "4-PHOSPHONOOXY-THREONINE"
-    mw 0.0
   ]
   node [
     id 1059
@@ -13160,7 +12962,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ALPHA-METHYLMETHIONINE"
-    mw 0.0
   ]
   node [
     id 1060
@@ -13169,7 +12970,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "S-ADENOSYLMETHIONINE"
-    mw 0.0
   ]
   node [
     id 1061
@@ -13178,7 +12978,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "MET"
-    mw 0.0
   ]
   node [
     id 1062
@@ -13187,7 +12986,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1524"
-    mw 0.0
   ]
   node [
     id 1063
@@ -13196,7 +12994,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1525"
-    mw 0.0
   ]
   node [
     id 1064
@@ -13205,7 +13002,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CHORISMATE"
-    mw 0.0
   ]
   node [
     id 1065
@@ -13214,7 +13010,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "TETRANITROMETHANE"
-    mw 0.0
   ]
   node [
     id 1066
@@ -13223,7 +13018,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-225"
-    mw 0.0
   ]
   node [
     id 1067
@@ -13232,7 +13026,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1508"
-    mw 0.0
   ]
   node [
     id 1068
@@ -13241,7 +13034,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "TTP"
-    mw 0.0
   ]
   node [
     id 1069
@@ -13250,7 +13042,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DCTP"
-    mw 0.0
   ]
   node [
     id 1070
@@ -13259,7 +13050,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NA+"
-    mw 0.0
   ]
   node [
     id 1071
@@ -13268,7 +13058,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DUMP"
-    mw 0.0
   ]
   node [
     id 1072
@@ -13277,7 +13066,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HCN"
-    mw 0.0
   ]
   node [
     id 1073
@@ -13286,7 +13074,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1355"
-    mw 0.0
   ]
   node [
     id 1074
@@ -13295,7 +13082,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-7388"
-    mw 0.0
   ]
   node [
     id 1075
@@ -13304,7 +13090,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-763"
-    mw 0.0
   ]
   node [
     id 1076
@@ -13313,7 +13098,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "3-DEOXY-D-ARABINO-HEPTULOSONATE-7-P"
-    mw 0.0
   ]
   node [
     id 1077
@@ -13322,7 +13106,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1558"
-    mw 0.0
   ]
   node [
     id 1078
@@ -13331,7 +13114,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1557"
-    mw 0.0
   ]
   node [
     id 1079
@@ -13340,7 +13122,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "23-DIPHOSPHOGLYCERATE"
-    mw 0.0
   ]
   node [
     id 1080
@@ -13349,7 +13130,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1555"
-    mw 0.0
   ]
   node [
     id 1081
@@ -13358,7 +13138,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1554"
-    mw 0.0
   ]
   node [
     id 1082
@@ -13367,7 +13146,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-ALPHA-ALANINE"
-    mw 0.0
   ]
   node [
     id 1083
@@ -13376,7 +13154,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-PG"
-    mw 0.0
   ]
   node [
     id 1084
@@ -13385,7 +13162,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Long-Chain-Acyl-CoAs"
-    mw 0.0
   ]
   node [
     id 1085
@@ -13394,7 +13170,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1036"
-    mw 0.0
   ]
   node [
     id 1086
@@ -13403,7 +13178,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PPI"
-    mw 0.0
   ]
   node [
     id 1087
@@ -13412,7 +13186,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1035"
-    mw 0.0
   ]
   node [
     id 1088
@@ -13421,7 +13194,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1033"
-    mw 0.0
   ]
   node [
     id 1089
@@ -13430,7 +13202,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1627"
-    mw 0.0
   ]
   node [
     id 1090
@@ -13439,7 +13210,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PRO"
-    mw 0.0
   ]
   node [
     id 1091
@@ -13448,7 +13218,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-8179"
-    mw 0.0
   ]
   node [
     id 1092
@@ -13457,7 +13226,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HIS"
-    mw 0.0
   ]
   node [
     id 1093
@@ -13466,7 +13234,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-26607"
-    mw 0.0
   ]
   node [
     id 1094
@@ -13475,7 +13242,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OH-PYR"
-    mw 0.0
   ]
   node [
     id 1095
@@ -13484,7 +13250,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-4841"
-    mw 0.0
   ]
   node [
     id 1096
@@ -13493,7 +13258,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SUCC-S-ALD"
-    mw 0.0
   ]
   node [
     id 1097
@@ -13502,7 +13266,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-291"
-    mw 0.0
   ]
   node [
     id 1098
@@ -13511,7 +13274,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "S-2-AMINOETHYL-L-CYSTEINE"
-    mw 0.0
   ]
   node [
     id 1099
@@ -13520,7 +13282,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1491"
-    mw 0.0
   ]
   node [
     id 1100
@@ -13529,7 +13290,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1651"
-    mw 0.0
   ]
   node [
     id 1101
@@ -13538,7 +13298,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-9195"
-    mw 0.0
   ]
   node [
     id 1102
@@ -13547,7 +13306,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2692"
-    mw 0.0
   ]
   node [
     id 1103
@@ -13556,7 +13314,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2690"
-    mw 0.0
   ]
   node [
     id 1104
@@ -13565,7 +13322,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GDP"
-    mw 0.0
   ]
   node [
     id 1105
@@ -13574,7 +13330,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "IMP"
-    mw 0.0
   ]
   node [
     id 1106
@@ -13583,7 +13338,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1224"
-    mw 0.0
   ]
   node [
     id 1107
@@ -13592,7 +13346,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SER"
-    mw 0.0
   ]
   node [
     id 1108
@@ -13601,7 +13354,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLY"
-    mw 0.0
   ]
   node [
     id 1109
@@ -13610,7 +13362,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "3-5-ADP"
-    mw 0.0
   ]
   node [
     id 1110
@@ -13619,7 +13370,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BORATE"
-    mw 0.0
   ]
   node [
     id 1111
@@ -13628,7 +13378,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-CYSTINE"
-    mw 0.0
   ]
   node [
     id 1112
@@ -13637,7 +13386,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-9793"
-    mw 0.0
   ]
   node [
     id 1113
@@ -13646,7 +13394,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLT"
-    mw 0.0
   ]
   node [
     id 1114
@@ -13655,7 +13402,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1578"
-    mw 0.0
   ]
   node [
     id 1115
@@ -13664,7 +13410,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1577"
-    mw 0.0
   ]
   node [
     id 1116
@@ -13673,7 +13418,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "23-DIMERCAPTOPROPAN-1-OL"
-    mw 0.0
   ]
   node [
     id 1117
@@ -13682,7 +13426,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "N-DELTA-PHOSPHONOACETYL-L-ORNITHINE"
-    mw 0.0
   ]
   node [
     id 1118
@@ -13691,7 +13434,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-2-AMINOPENTANOIC-ACID"
-    mw 0.0
   ]
   node [
     id 1119
@@ -13700,7 +13442,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1576"
-    mw 0.0
   ]
   node [
     id 1120
@@ -13709,7 +13450,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1575"
-    mw 0.0
   ]
   node [
     id 1121
@@ -13718,7 +13458,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1574"
-    mw 0.0
   ]
   node [
     id 1122
@@ -13727,7 +13466,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-5401"
-    mw 0.0
   ]
   node [
     id 1123
@@ -13736,7 +13474,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1465"
-    mw 0.0
   ]
   node [
     id 1124
@@ -13745,7 +13482,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "B-ALANINE"
-    mw 0.0
   ]
   node [
     id 1125
@@ -13754,7 +13490,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "5-P-BETA-D-RIBOSYL-AMINE"
-    mw 0.0
   ]
   node [
     id 1126
@@ -13763,7 +13498,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ARSENATE"
-    mw 0.0
   ]
   node [
     id 1127
@@ -13772,7 +13506,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "RIBULOSE-5P"
-    mw 0.0
   ]
   node [
     id 1128
@@ -13781,7 +13514,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ACETYL-P"
-    mw 0.0
   ]
   node [
     id 1129
@@ -13790,7 +13522,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "FUM"
-    mw 0.0
   ]
   node [
     id 1130
@@ -13799,7 +13530,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CAMP"
-    mw 0.0
   ]
   node [
     id 1131
@@ -13808,7 +13538,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-AZASERINE"
-    mw 0.0
   ]
   node [
     id 1132
@@ -13817,7 +13546,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "UMP"
-    mw 0.0
   ]
   node [
     id 1133
@@ -13826,7 +13554,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-511"
-    mw 0.0
   ]
   node [
     id 1134
@@ -13835,7 +13562,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PUTRESCINE"
-    mw 0.0
   ]
   node [
     id 1135
@@ -13844,7 +13570,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SPERMINE"
-    mw 0.0
   ]
   node [
     id 1136
@@ -13853,7 +13578,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SPERMIDINE"
-    mw 0.0
   ]
   node [
     id 1137
@@ -13862,7 +13586,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CADAVERINE"
-    mw 0.0
   ]
   node [
     id 1138
@@ -13871,7 +13594,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PAPS"
-    mw 0.0
   ]
   node [
     id 1139
@@ -13880,7 +13602,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "APS"
-    mw 0.0
   ]
   node [
     id 1140
@@ -13889,7 +13610,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1636"
-    mw 0.0
   ]
   node [
     id 1141
@@ -13898,7 +13618,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-13353"
-    mw 0.0
   ]
   node [
     id 1142
@@ -13907,7 +13626,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-Glucose"
-    mw 0.0
   ]
   node [
     id 1143
@@ -13916,7 +13634,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-7970"
-    mw 0.0
   ]
   node [
     id 1144
@@ -13925,7 +13642,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1250"
-    mw 0.0
   ]
   node [
     id 1145
@@ -13934,7 +13650,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-10322"
-    mw 0.0
   ]
   node [
     id 1146
@@ -13943,7 +13658,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-23697"
-    mw 0.0
   ]
   node [
     id 1147
@@ -13952,7 +13666,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-16010"
-    mw 0.0
   ]
   node [
     id 1148
@@ -13961,7 +13674,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-11925"
-    mw 0.0
   ]
   node [
     id 1149
@@ -13970,7 +13682,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1618"
-    mw 0.0
   ]
   node [
     id 1150
@@ -13979,7 +13690,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-520"
-    mw 0.0
   ]
   node [
     id 1151
@@ -13988,7 +13698,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-83"
-    mw 0.0
   ]
   node [
     id 1152
@@ -13997,7 +13706,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1624"
-    mw 0.0
   ]
   node [
     id 1153
@@ -14006,7 +13714,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1620"
-    mw 0.0
   ]
   node [
     id 1154
@@ -14015,7 +13722,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1468"
-    mw 0.0
   ]
   node [
     id 1155
@@ -14024,7 +13730,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DGTP"
-    mw 0.0
   ]
   node [
     id 1156
@@ -14033,7 +13738,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GUANOSINE"
-    mw 0.0
   ]
   node [
     id 1157
@@ -14042,7 +13746,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-15909"
-    mw 0.0
   ]
   node [
     id 1158
@@ -14051,7 +13754,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CARBON-MONOXIDE"
-    mw 0.0
   ]
   node [
     id 1159
@@ -14060,7 +13762,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CARDIOLIPIN"
-    mw 0.0
   ]
   node [
     id 1160
@@ -14069,7 +13770,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-7733"
-    mw 0.0
   ]
   node [
     id 1161
@@ -14078,7 +13778,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-22318"
-    mw 0.0
   ]
   node [
     id 1162
@@ -14087,7 +13786,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Gramicidins"
-    mw 0.0
   ]
   node [
     id 1163
@@ -14096,7 +13794,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Phospholipids"
-    mw 0.0
   ]
   node [
     id 1164
@@ -14105,7 +13802,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1633"
-    mw 0.0
   ]
   node [
     id 1165
@@ -14114,7 +13810,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1233"
-    mw 0.0
   ]
   node [
     id 1166
@@ -14123,7 +13818,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-7082"
-    mw 0.0
   ]
   node [
     id 1167
@@ -14132,7 +13826,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-2841"
-    mw 0.0
   ]
   node [
     id 1168
@@ -14141,7 +13834,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "FORMATE"
-    mw 0.0
   ]
   node [
     id 1169
@@ -14150,7 +13842,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "PROPIONATE"
-    mw 0.0
   ]
   node [
     id 1170
@@ -14159,7 +13850,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BENZOATE"
-    mw 0.0
   ]
   node [
     id 1171
@@ -14168,7 +13858,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BUTYRIC_ACID"
-    mw 0.0
   ]
   node [
     id 1172
@@ -14177,7 +13866,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "NITROUS-OXIDE"
-    mw 0.0
   ]
   node [
     id 1173
@@ -14186,7 +13874,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2685"
-    mw 0.0
   ]
   node [
     id 1174
@@ -14195,7 +13882,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "10-FORMYL-THF"
-    mw 0.0
   ]
   node [
     id 1175
@@ -14204,7 +13890,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "GLN"
-    mw 0.0
   ]
   node [
     id 1176
@@ -14213,7 +13898,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-GLT"
-    mw 0.0
   ]
   node [
     id 1177
@@ -14238,7 +13922,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "2-Oxo-Acids"
-    mw 0.0
   ]
   node [
     id 1180
@@ -14247,7 +13930,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-THREONINE"
-    mw 0.0
   ]
   node [
     id 1181
@@ -14256,7 +13938,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-SERINE"
-    mw 0.0
   ]
   node [
     id 1182
@@ -14265,7 +13946,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-CYSTEINE"
-    mw 0.0
   ]
   node [
     id 1183
@@ -14274,7 +13954,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1234"
-    mw 0.0
   ]
   node [
     id 1184
@@ -14283,7 +13962,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-6041"
-    mw 0.0
   ]
   node [
     id 1185
@@ -14292,7 +13970,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "BA+2"
-    mw 0.0
   ]
   node [
     id 1186
@@ -14301,7 +13978,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-14445"
-    mw 0.0
   ]
   node [
     id 1187
@@ -14310,7 +13986,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1594"
-    mw 0.0
   ]
   node [
     id 1188
@@ -14319,7 +13994,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1591"
-    mw 0.0
   ]
   node [
     id 1189
@@ -14328,7 +14002,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1590"
-    mw 0.0
   ]
   node [
     id 1190
@@ -14337,7 +14010,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1587"
-    mw 0.0
   ]
   node [
     id 1191
@@ -14346,7 +14018,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1588"
-    mw 0.0
   ]
   node [
     id 1192
@@ -14355,7 +14026,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1586"
-    mw 0.0
   ]
   node [
     id 1193
@@ -14364,7 +14034,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1585"
-    mw 0.0
   ]
   node [
     id 1194
@@ -14373,7 +14042,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1584"
-    mw 0.0
   ]
   node [
     id 1195
@@ -14382,7 +14050,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1583"
-    mw 0.0
   ]
   node [
     id 1196
@@ -14391,7 +14058,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1581"
-    mw 0.0
   ]
   node [
     id 1197
@@ -14400,7 +14066,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-3682"
-    mw 0.0
   ]
   node [
     id 1198
@@ -14409,7 +14074,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-302"
-    mw 0.0
   ]
   node [
     id 1199
@@ -14418,7 +14082,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-4544"
-    mw 0.0
   ]
   node [
     id 1200
@@ -14427,7 +14090,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1354"
-    mw 0.0
   ]
   node [
     id 1201
@@ -14436,7 +14098,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1353"
-    mw 0.0
   ]
   node [
     id 1202
@@ -14445,7 +14106,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1352"
-    mw 0.0
   ]
   node [
     id 1203
@@ -14454,7 +14114,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "DUDP"
-    mw 0.0
   ]
   node [
     id 1204
@@ -14463,7 +14122,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-12520"
-    mw 0.0
   ]
   node [
     id 1205
@@ -14472,7 +14130,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "EGTA"
-    mw 0.0
   ]
   node [
     id 1206
@@ -14481,7 +14138,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "O-PHENANTHROLINE"
-    mw 0.0
   ]
   node [
     id 1207
@@ -14490,7 +14146,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1249"
-    mw 0.0
   ]
   node [
     id 1208
@@ -14499,7 +14154,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1248"
-    mw 0.0
   ]
   node [
     id 1209
@@ -14508,7 +14162,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-9035"
-    mw 0.0
   ]
   node [
     id 1210
@@ -14517,7 +14170,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1246"
-    mw 0.0
   ]
   node [
     id 1211
@@ -14526,7 +14178,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1245"
-    mw 0.0
   ]
   node [
     id 1212
@@ -14535,7 +14186,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "D-GLUCOSAMINE-6-P"
-    mw 0.0
   ]
   node [
     id 1213
@@ -14544,7 +14194,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CARBAMOYL-P"
-    mw 0.0
   ]
   node [
     id 1214
@@ -14553,7 +14202,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1650"
-    mw 0.0
   ]
   node [
     id 1215
@@ -14562,7 +14210,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-PHOSPHINOTHRICIN"
-    mw 0.0
   ]
   node [
     id 1216
@@ -14571,7 +14218,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "ARG"
-    mw 0.0
   ]
   node [
     id 1217
@@ -14580,7 +14226,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-CITRULLINE"
-    mw 0.0
   ]
   node [
     id 1218
@@ -14589,7 +14234,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1691"
-    mw 0.0
   ]
   node [
     id 1219
@@ -14598,7 +14242,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1690"
-    mw 0.0
   ]
   node [
     id 1220
@@ -14607,7 +14250,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "5-PHOSPHORIBOSYL-5-AMINOIMIDAZOLE"
-    mw 0.0
   ]
   node [
     id 1221
@@ -14616,7 +14258,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HISTIDINOL"
-    mw 0.0
   ]
   node [
     id 1222
@@ -14625,7 +14266,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "OXAMATE"
-    mw 0.0
   ]
   node [
     id 1223
@@ -14633,7 +14273,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "ACYL-ACP"
-    mw 0.0
+    mw NAN
   ]
   node [
     id 1224
@@ -14642,7 +14282,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "Oxygen-Substituted-Quinates"
-    mw 0.0
   ]
   node [
     id 1225
@@ -14651,7 +14290,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1374"
-    mw 0.0
   ]
   node [
     id 1226
@@ -14660,7 +14298,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1373"
-    mw 0.0
   ]
   node [
     id 1227
@@ -14669,7 +14306,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1372"
-    mw 0.0
   ]
   node [
     id 1228
@@ -14678,7 +14314,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1370"
-    mw 0.0
   ]
   node [
     id 1229
@@ -14687,7 +14322,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "FRUCTOSE-6P"
-    mw 0.0
   ]
   node [
     id 1230
@@ -14696,7 +14330,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-4584"
-    mw 0.0
   ]
   node [
     id 1231
@@ -14705,7 +14338,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "HS"
-    mw 0.0
   ]
   node [
     id 1232
@@ -14714,7 +14346,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1232"
-    mw 0.0
   ]
   node [
     id 1233
@@ -14723,7 +14354,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-581"
-    mw 0.0
   ]
   node [
     id 1234
@@ -14732,7 +14362,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "FORMAMIDE"
-    mw 0.0
   ]
   node [
     id 1235
@@ -14741,7 +14370,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-67"
-    mw 0.0
   ]
   node [
     id 1236
@@ -14750,7 +14378,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1306"
-    mw 0.0
   ]
   node [
     id 1237
@@ -14759,7 +14386,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1228"
-    mw 0.0
   ]
   node [
     id 1238
@@ -14768,7 +14394,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1227"
-    mw 0.0
   ]
   node [
     id 1239
@@ -14777,7 +14402,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "SO3"
-    mw 0.0
   ]
   node [
     id 1240
@@ -14786,7 +14410,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1367"
-    mw 0.0
   ]
   node [
     id 1241
@@ -14795,7 +14418,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1366"
-    mw 0.0
   ]
   node [
     id 1242
@@ -14804,7 +14426,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-18649"
-    mw 0.0
   ]
   node [
     id 1243
@@ -14813,7 +14434,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "L-THREO-3-METHYL-ASPARTATE"
-    mw 0.0
   ]
   node [
     id 1244
@@ -14822,7 +14442,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "3-SULFINOALANINE"
-    mw 0.0
   ]
   node [
     id 1245
@@ -14831,7 +14450,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD-15302"
-    mw 0.0
   ]
   node [
     id 1246
@@ -14840,7 +14458,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-2356"
-    mw 0.0
   ]
   node [
     id 1247
@@ -14849,7 +14466,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1244"
-    mw 0.0
   ]
   node [
     id 1248
@@ -14858,7 +14474,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CPD0-1689"
-    mw 0.0
   ]
   node [
     id 1249
@@ -14867,7 +14482,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CAPSAICIN"
-    mw 0.0
   ]
   node [
     id 1250
@@ -14876,7 +14490,6 @@ graph [
     type "compound"
     subtype "NA"
     biocyc_id "CHLORALAN-CPD"
-    mw 0.0
   ]
   node [
     id 1251
@@ -14884,7 +14497,6 @@ graph [
     type "spontaneous"
     subtype "NA"
     biocyc_id "NA"
-    mw 0.0
   ]
   node [
     id 1252
@@ -14915,7 +14527,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "ECOLI:ACP-MONOMER"
-    mw 0.0
+    mw 8.64
   ]
   node [
     id 1254
@@ -14923,7 +14535,6 @@ graph [
     type "logical_OR"
     subtype "NA"
     biocyc_id "NA"
-    mw 0.0
   ]
   node [
     id 1255
@@ -14979,7 +14590,6 @@ graph [
     type "logical_OR"
     subtype "NA"
     biocyc_id "NA"
-    mw 0.0
   ]
   node [
     id 1258
@@ -15670,7 +15280,7 @@ graph [
     type "protein"
     subtype "modified_protein"
     biocyc_id "ECOLI:BCCP-BIOTIN"
-    mw 0.0
+    mw 16.687
   ]
   node [
     id 1295
@@ -15678,7 +15288,7 @@ graph [
     type "protein"
     subtype "multimeric_protein"
     biocyc_id "ECOLI:BCCP-CPLX"
-    mw 0.0
+    mw 33.374
   ]
   node [
     id 1296
@@ -15686,7 +15296,7 @@ graph [
     type "protein"
     subtype "multimeric_protein"
     biocyc_id "ECOLI:ACETYL-COA-CARBOXYLMULTI-CPLX"
-    mw 235.77000999999996
+    mw 269.14401
   ]
   node [
     id 1297
@@ -15804,7 +15414,6 @@ graph [
       name "adk"
     ]
     biocyc_id "ECOLI:EG10032"
-    mw 0.0
   ]
   node [
     id 1303
@@ -15816,7 +15425,6 @@ graph [
       name "ndk"
     ]
     biocyc_id "ECOLI:EG10650"
-    mw 0.0
   ]
   node [
     id 1304
@@ -15828,7 +15436,6 @@ graph [
       name "aroE"
     ]
     biocyc_id "ECOLI:EG10077"
-    mw 0.0
   ]
   node [
     id 1305
@@ -15840,7 +15447,6 @@ graph [
       name "pyrC"
     ]
     biocyc_id "ECOLI:EG10806"
-    mw 0.0
   ]
   node [
     id 1306
@@ -15852,7 +15458,6 @@ graph [
       name "pyrF"
     ]
     biocyc_id "ECOLI:EG10809"
-    mw 0.0
   ]
   node [
     id 1307
@@ -15864,7 +15469,6 @@ graph [
       name "proA"
     ]
     biocyc_id "ECOLI:EG10767"
-    mw 0.0
   ]
   node [
     id 1308
@@ -15876,7 +15480,6 @@ graph [
       name "gltA"
     ]
     biocyc_id "ECOLI:EG10402"
-    mw 0.0
   ]
   node [
     id 1309
@@ -15888,7 +15491,6 @@ graph [
       name "icd"
     ]
     biocyc_id "ECOLI:EG10489"
-    mw 0.0
   ]
   node [
     id 1310
@@ -15900,7 +15502,6 @@ graph [
       name "mhpF"
     ]
     biocyc_id "ECOLI:M014"
-    mw 0.0
   ]
   node [
     id 1311
@@ -15912,7 +15513,6 @@ graph [
       name "adhE"
     ]
     biocyc_id "ECOLI:EG10031"
-    mw 0.0
   ]
   node [
     id 1312
@@ -15924,7 +15524,6 @@ graph [
       name "eutE"
     ]
     biocyc_id "ECOLI:G7285"
-    mw 0.0
   ]
   node [
     id 1313
@@ -15936,7 +15535,6 @@ graph [
       name "phoA"
     ]
     biocyc_id "ECOLI:EG10727"
-    mw 0.0
   ]
   node [
     id 1314
@@ -15948,7 +15546,6 @@ graph [
       name "ppa"
     ]
     biocyc_id "ECOLI:EG10755"
-    mw 0.0
   ]
   node [
     id 1315
@@ -15960,7 +15557,6 @@ graph [
       name "pck"
     ]
     biocyc_id "ECOLI:EG10688"
-    mw 0.0
   ]
   node [
     id 1316
@@ -15972,7 +15568,6 @@ graph [
       name "maeA"
     ]
     biocyc_id "ECOLI:EG10948"
-    mw 0.0
   ]
   node [
     id 1317
@@ -15984,7 +15579,6 @@ graph [
       name "alaC"
     ]
     biocyc_id "ECOLI:G7242"
-    mw 0.0
   ]
   node [
     id 1318
@@ -15996,7 +15590,6 @@ graph [
       name "alaA"
     ]
     biocyc_id "ECOLI:G7184"
-    mw 0.0
   ]
   node [
     id 1319
@@ -16008,7 +15601,6 @@ graph [
       name "xylB"
     ]
     biocyc_id "ECOLI:EG11075"
-    mw 0.0
   ]
   node [
     id 1320
@@ -16020,7 +15612,6 @@ graph [
       name "rbsK"
     ]
     biocyc_id "ECOLI:EG10818"
-    mw 0.0
   ]
   node [
     id 1321
@@ -16032,7 +15623,6 @@ graph [
       name "glpK"
     ]
     biocyc_id "ECOLI:EG10398"
-    mw 0.0
   ]
   node [
     id 1322
@@ -16044,7 +15634,6 @@ graph [
       name "aspC"
     ]
     biocyc_id "ECOLI:EG10096"
-    mw 0.0
   ]
   node [
     id 1323
@@ -16056,7 +15645,6 @@ graph [
       name "yggF"
     ]
     biocyc_id "ECOLI:EG11245"
-    mw 0.0
   ]
   node [
     id 1324
@@ -16068,7 +15656,6 @@ graph [
       name "ybhA"
     ]
     biocyc_id "ECOLI:EG11239"
-    mw 0.0
   ]
   node [
     id 1325
@@ -16080,7 +15667,6 @@ graph [
       name "glpX"
     ]
     biocyc_id "ECOLI:EG11517"
-    mw 0.0
   ]
   node [
     id 1326
@@ -16092,7 +15678,6 @@ graph [
       name "fbp"
     ]
     biocyc_id "ECOLI:EG10283"
-    mw 0.0
   ]
   node [
     id 1327
@@ -16104,7 +15689,6 @@ graph [
       name "pykF"
     ]
     biocyc_id "ECOLI:EG10804"
-    mw 0.0
   ]
   node [
     id 1328
@@ -16116,7 +15700,6 @@ graph [
       name "pykA"
     ]
     biocyc_id "ECOLI:EG10803"
-    mw 0.0
   ]
   node [
     id 1329
@@ -16128,7 +15711,6 @@ graph [
       name "gor"
     ]
     biocyc_id "ECOLI:EG10412"
-    mw 0.0
   ]
   node [
     id 1330
@@ -16140,7 +15722,6 @@ graph [
       name "ilvE"
     ]
     biocyc_id "ECOLI:EG10497"
-    mw 0.0
   ]
   node [
     id 1331
@@ -16152,7 +15733,6 @@ graph [
       name "pyrD"
     ]
     biocyc_id "ECOLI:EG10807"
-    mw 0.0
   ]
   node [
     id 1332
@@ -16164,7 +15744,6 @@ graph [
       name "leuC"
     ]
     biocyc_id "ECOLI:EG11576"
-    mw 0.0
   ]
   node [
     id 1333
@@ -16176,7 +15755,6 @@ graph [
       name "leuD"
     ]
     biocyc_id "ECOLI:EG11575"
-    mw 0.0
   ]
   node [
     id 1334
@@ -16188,7 +15766,6 @@ graph [
       name "pyrE"
     ]
     biocyc_id "ECOLI:EG10808"
-    mw 0.0
   ]
   node [
     id 1335
@@ -16200,7 +15777,6 @@ graph [
       name "ilvM"
     ]
     biocyc_id "ECOLI:EG10501"
-    mw 0.0
   ]
   node [
     id 1336
@@ -16212,7 +15788,6 @@ graph [
       name "ilvB"
     ]
     biocyc_id "ECOLI:EG10494"
-    mw 0.0
   ]
   node [
     id 1337
@@ -16224,7 +15799,6 @@ graph [
       name "ilvN"
     ]
     biocyc_id "ECOLI:EG10502"
-    mw 0.0
   ]
   node [
     id 1338
@@ -16236,7 +15810,6 @@ graph [
       name "ilvI"
     ]
     biocyc_id "ECOLI:EG10500"
-    mw 0.0
   ]
   node [
     id 1339
@@ -16248,7 +15821,6 @@ graph [
       name "ilvH"
     ]
     biocyc_id "ECOLI:EG10499"
-    mw 0.0
   ]
   node [
     id 1340
@@ -16260,7 +15832,6 @@ graph [
       name "ilvD"
     ]
     biocyc_id "ECOLI:EG10496"
-    mw 0.0
   ]
   node [
     id 1341
@@ -16272,7 +15843,6 @@ graph [
       name "trpB"
     ]
     biocyc_id "ECOLI:EG11025"
-    mw 0.0
   ]
   node [
     id 1342
@@ -16284,7 +15854,6 @@ graph [
       name "aroA"
     ]
     biocyc_id "ECOLI:EG10073"
-    mw 0.0
   ]
   node [
     id 1343
@@ -16296,7 +15865,6 @@ graph [
       name "pflB"
     ]
     biocyc_id "ECOLI:EG10701"
-    mw 0.0
   ]
   node [
     id 1344
@@ -16308,7 +15876,6 @@ graph [
       name "tdcE"
     ]
     biocyc_id "ECOLI:G7627"
-    mw 0.0
   ]
   node [
     id 1345
@@ -16320,7 +15887,6 @@ graph [
       name "grcA"
     ]
     biocyc_id "ECOLI:EG11784"
-    mw 0.0
   ]
   node [
     id 1346
@@ -16332,7 +15898,6 @@ graph [
       name "trpE"
     ]
     biocyc_id "ECOLI:EG11028"
-    mw 0.0
   ]
   node [
     id 1347
@@ -16344,7 +15909,6 @@ graph [
       name "trpD"
     ]
     biocyc_id "ECOLI:EG11027"
-    mw 0.0
   ]
   node [
     id 1348
@@ -16356,7 +15920,6 @@ graph [
       name "frdA"
     ]
     biocyc_id "ECOLI:EG10330"
-    mw 0.0
   ]
   node [
     id 1349
@@ -16368,7 +15931,6 @@ graph [
       name "frdB"
     ]
     biocyc_id "ECOLI:EG10331"
-    mw 0.0
   ]
   node [
     id 1350
@@ -16380,7 +15942,6 @@ graph [
       name "frdC"
     ]
     biocyc_id "ECOLI:EG10332"
-    mw 0.0
   ]
   node [
     id 1351
@@ -16392,7 +15953,6 @@ graph [
       name "frdD"
     ]
     biocyc_id "ECOLI:EG10333"
-    mw 0.0
   ]
   node [
     id 1352
@@ -16404,7 +15964,6 @@ graph [
       name "tyrA"
     ]
     biocyc_id "ECOLI:EG11039"
-    mw 0.0
   ]
   node [
     id 1353
@@ -16416,7 +15975,6 @@ graph [
       name "pheA"
     ]
     biocyc_id "ECOLI:EG10707"
-    mw 0.0
   ]
   node [
     id 1354
@@ -16428,7 +15986,6 @@ graph [
       name "eutD"
     ]
     biocyc_id "ECOLI:G7288"
-    mw 0.0
   ]
   node [
     id 1355
@@ -16440,7 +15997,6 @@ graph [
       name "pta"
     ]
     biocyc_id "ECOLI:EG20173"
-    mw 0.0
   ]
   node [
     id 1356
@@ -16452,7 +16008,6 @@ graph [
       name "aroC"
     ]
     biocyc_id "ECOLI:EG10075"
-    mw 0.0
   ]
   node [
     id 1357
@@ -16464,7 +16019,6 @@ graph [
       name "trpC"
     ]
     biocyc_id "ECOLI:EG11026"
-    mw 0.0
   ]
   node [
     id 1358
@@ -16476,7 +16030,6 @@ graph [
       name "purT"
     ]
     biocyc_id "ECOLI:EG11809"
-    mw 0.0
   ]
   node [
     id 1359
@@ -16488,7 +16041,6 @@ graph [
       name "ackA"
     ]
     biocyc_id "ECOLI:EG10027"
-    mw 0.0
   ]
   node [
     id 1360
@@ -16500,7 +16052,6 @@ graph [
       name "tyrB"
     ]
     biocyc_id "ECOLI:EG11040"
-    mw 0.0
   ]
   node [
     id 1361
@@ -16512,7 +16063,6 @@ graph [
       name "eno"
     ]
     biocyc_id "ECOLI:EG10258"
-    mw 0.0
   ]
   node [
     id 1362
@@ -16524,7 +16074,6 @@ graph [
       name "fbaB"
     ]
     biocyc_id "ECOLI:G7129"
-    mw 0.0
   ]
   node [
     id 1363
@@ -16536,7 +16085,6 @@ graph [
       name "fbaA"
     ]
     biocyc_id "ECOLI:EG10282"
-    mw 0.0
   ]
   node [
     id 1364
@@ -16548,7 +16096,6 @@ graph [
       name "cynT"
     ]
     biocyc_id "ECOLI:EG10176"
-    mw 0.0
   ]
   node [
     id 1365
@@ -16560,7 +16107,6 @@ graph [
       name "can"
     ]
     biocyc_id "ECOLI:EG12319"
-    mw 0.0
   ]
   node [
     id 1366
@@ -16572,7 +16118,6 @@ graph [
       name "purH"
     ]
     biocyc_id "ECOLI:EG10795"
-    mw 0.0
   ]
   node [
     id 1367
@@ -16584,7 +16129,6 @@ graph [
       name "guaB"
     ]
     biocyc_id "ECOLI:EG10421"
-    mw 0.0
   ]
   node [
     id 1368
@@ -16596,7 +16140,6 @@ graph [
       name "ppsA"
     ]
     biocyc_id "ECOLI:EG10759"
-    mw 0.0
   ]
   node [
     id 1369
@@ -16608,7 +16151,6 @@ graph [
       name "pgi"
     ]
     biocyc_id "ECOLI:EG10702"
-    mw 0.0
   ]
   node [
     id 1370
@@ -16620,7 +16162,6 @@ graph [
       name "kduI"
     ]
     biocyc_id "ECOLI:G7463"
-    mw 0.0
   ]
   node [
     id 1371
@@ -16632,7 +16173,6 @@ graph [
       name "pgk"
     ]
     biocyc_id "ECOLI:EG10703"
-    mw 0.0
   ]
   node [
     id 1372
@@ -16644,7 +16184,6 @@ graph [
       name "pgl"
     ]
     biocyc_id "ECOLI:G6397"
-    mw 0.0
   ]
   node [
     id 1373
@@ -16656,7 +16195,6 @@ graph [
       name "rpe"
     ]
     biocyc_id "ECOLI:M004"
-    mw 0.0
   ]
   node [
     id 1374
@@ -16668,7 +16206,6 @@ graph [
       name "aroD"
     ]
     biocyc_id "ECOLI:EG10076"
-    mw 0.0
   ]
   node [
     id 1375
@@ -16680,7 +16217,6 @@ graph [
       name "dmlA"
     ]
     biocyc_id "ECOLI:G6986"
-    mw 0.0
   ]
   node [
     id 1376
@@ -16692,7 +16228,6 @@ graph [
       name "leuB"
     ]
     biocyc_id "ECOLI:EG11577"
-    mw 0.0
   ]
   node [
     id 1377
@@ -16704,7 +16239,6 @@ graph [
       name "purE"
     ]
     biocyc_id "ECOLI:EG10793"
-    mw 0.0
   ]
   node [
     id 1378
@@ -16716,7 +16250,6 @@ graph [
       name "talA"
     ]
     biocyc_id "ECOLI:EG11797"
-    mw 0.0
   ]
   node [
     id 1379
@@ -16728,7 +16261,6 @@ graph [
       name "talB"
     ]
     biocyc_id "ECOLI:EG11556"
-    mw 0.0
   ]
   node [
     id 1380
@@ -16740,7 +16272,6 @@ graph [
       name "purB"
     ]
     biocyc_id "ECOLI:EG11314"
-    mw 0.0
   ]
   node [
     id 1381
@@ -16752,7 +16283,6 @@ graph [
       name "tktB"
     ]
     biocyc_id "ECOLI:EG12100"
-    mw 0.0
   ]
   node [
     id 1382
@@ -16764,7 +16294,6 @@ graph [
       name "tktA"
     ]
     biocyc_id "ECOLI:EG11427"
-    mw 0.0
   ]
   node [
     id 1383
@@ -16776,7 +16305,6 @@ graph [
       name "nrdA"
     ]
     biocyc_id "ECOLI:EG10660"
-    mw 0.0
   ]
   node [
     id 1384
@@ -16788,7 +16316,6 @@ graph [
       name "nrdB"
     ]
     biocyc_id "ECOLI:EG10661"
-    mw 0.0
   ]
   node [
     id 1385
@@ -16800,7 +16327,6 @@ graph [
       name "adhP"
     ]
     biocyc_id "ECOLI:G6775"
-    mw 0.0
   ]
   node [
     id 1386
@@ -16812,7 +16338,6 @@ graph [
       name "thyA"
     ]
     biocyc_id "ECOLI:EG11002"
-    mw 0.0
   ]
   node [
     id 1387
@@ -16824,7 +16349,6 @@ graph [
       name "mdh"
     ]
     biocyc_id "ECOLI:EG10576"
-    mw 0.0
   ]
   node [
     id 1388
@@ -16836,7 +16360,6 @@ graph [
       name "fumE"
     ]
     biocyc_id "ECOLI:EG11162"
-    mw 0.0
   ]
   node [
     id 1389
@@ -16848,7 +16371,6 @@ graph [
       name "fumD"
     ]
     biocyc_id "ECOLI:G6903"
-    mw 0.0
   ]
   node [
     id 1390
@@ -16860,7 +16382,6 @@ graph [
       name "fumA"
     ]
     biocyc_id "ECOLI:EG10356"
-    mw 0.0
   ]
   node [
     id 1391
@@ -16872,7 +16393,6 @@ graph [
       name "fumB"
     ]
     biocyc_id "ECOLI:EG10357"
-    mw 0.0
   ]
   node [
     id 1392
@@ -16884,7 +16404,6 @@ graph [
       name "fumC"
     ]
     biocyc_id "ECOLI:EG10358"
-    mw 0.0
   ]
   node [
     id 1393
@@ -16896,7 +16415,6 @@ graph [
       name "ilvC"
     ]
     biocyc_id "ECOLI:EG10495"
-    mw 0.0
   ]
   node [
     id 1394
@@ -16908,7 +16426,6 @@ graph [
       name "fabB"
     ]
     biocyc_id "ECOLI:EG10274"
-    mw 0.0
   ]
   node [
     id 1395
@@ -16920,7 +16437,6 @@ graph [
       name "fabF"
     ]
     biocyc_id "ECOLI:EG12606"
-    mw 0.0
   ]
   node [
     id 1396
@@ -16932,7 +16448,6 @@ graph [
       name "argG"
     ]
     biocyc_id "ECOLI:EG10068"
-    mw 0.0
   ]
   node [
     id 1397
@@ -16944,7 +16459,6 @@ graph [
       name "argC"
     ]
     biocyc_id "ECOLI:EG10065"
-    mw 0.0
   ]
   node [
     id 1398
@@ -16956,7 +16470,6 @@ graph [
       name "aceA"
     ]
     biocyc_id "ECOLI:EG10022"
-    mw 0.0
   ]
   node [
     id 1399
@@ -16968,7 +16481,6 @@ graph [
       name "lpd"
     ]
     biocyc_id "ECOLI:EG10543"
-    mw 0.0
   ]
   node [
     id 1400
@@ -16980,7 +16492,6 @@ graph [
       name "gcvP"
     ]
     biocyc_id "ECOLI:EG11810"
-    mw 0.0
   ]
   node [
     id 1401
@@ -16992,7 +16503,6 @@ graph [
       name "gcvH"
     ]
     biocyc_id "ECOLI:EG10371"
-    mw 0.0
   ]
   node [
     id 1402
@@ -17004,7 +16514,6 @@ graph [
       name "gcvT"
     ]
     biocyc_id "ECOLI:EG11442"
-    mw 0.0
   ]
   node [
     id 1403
@@ -17016,7 +16525,6 @@ graph [
       name "xylA"
     ]
     biocyc_id "ECOLI:EG11074"
-    mw 0.0
   ]
   node [
     id 1404
@@ -17028,7 +16536,6 @@ graph [
       name "ppc"
     ]
     biocyc_id "ECOLI:EG10756"
-    mw 0.0
   ]
   node [
     id 1405
@@ -17040,7 +16547,6 @@ graph [
       name "cysD"
     ]
     biocyc_id "ECOLI:EG10186"
-    mw 0.0
   ]
   node [
     id 1406
@@ -17052,7 +16558,6 @@ graph [
       name "cysN"
     ]
     biocyc_id "ECOLI:EG10194"
-    mw 0.0
   ]
   node [
     id 1407
@@ -17064,7 +16569,6 @@ graph [
       name "glyA"
     ]
     biocyc_id "ECOLI:EG10408"
-    mw 0.0
   ]
   node [
     id 1408
@@ -17076,7 +16580,6 @@ graph [
       name "dapE"
     ]
     biocyc_id "ECOLI:EG10208"
-    mw 0.0
   ]
   node [
     id 1409
@@ -17088,7 +16591,6 @@ graph [
       name "pyrH"
     ]
     biocyc_id "ECOLI:EG11539"
-    mw 0.0
   ]
   node [
     id 1410
@@ -17100,7 +16602,6 @@ graph [
       name "pyrG"
     ]
     biocyc_id "ECOLI:EG10810"
-    mw 0.0
   ]
   node [
     id 1411
@@ -17112,7 +16613,6 @@ graph [
       name "trpA"
     ]
     biocyc_id "ECOLI:EG11024"
-    mw 0.0
   ]
   node [
     id 1412
@@ -17124,7 +16624,6 @@ graph [
       name "argE"
     ]
     biocyc_id "ECOLI:EG11286"
-    mw 0.0
   ]
   node [
     id 1413
@@ -17136,7 +16635,6 @@ graph [
       name "purA"
     ]
     biocyc_id "ECOLI:EG10790"
-    mw 0.0
   ]
   node [
     id 1414
@@ -17148,7 +16646,6 @@ graph [
       name "asnB"
     ]
     biocyc_id "ECOLI:EG10092"
-    mw 0.0
   ]
   node [
     id 1415
@@ -17160,7 +16657,6 @@ graph [
       name "asnA"
     ]
     biocyc_id "ECOLI:EG10091"
-    mw 0.0
   ]
   node [
     id 1416
@@ -17172,7 +16668,6 @@ graph [
       name "pyrB"
     ]
     biocyc_id "ECOLI:EG10805"
-    mw 0.0
   ]
   node [
     id 1417
@@ -17184,7 +16679,6 @@ graph [
       name "pyrI"
     ]
     biocyc_id "ECOLI:EG10811"
-    mw 0.0
   ]
   node [
     id 1418
@@ -17196,7 +16690,6 @@ graph [
       name "fabD"
     ]
     biocyc_id "ECOLI:EG11317"
-    mw 0.0
   ]
   node [
     id 1419
@@ -17208,7 +16701,6 @@ graph [
       name "dapF"
     ]
     biocyc_id "ECOLI:EG10209"
-    mw 0.0
   ]
   node [
     id 1420
@@ -17220,7 +16712,6 @@ graph [
       name "dapB"
     ]
     biocyc_id "ECOLI:EG10206"
-    mw 0.0
   ]
   node [
     id 1421
@@ -17232,7 +16723,6 @@ graph [
       name "thrB"
     ]
     biocyc_id "ECOLI:EG10999"
-    mw 0.0
   ]
   node [
     id 1422
@@ -17244,7 +16734,6 @@ graph [
       name "serC"
     ]
     biocyc_id "ECOLI:EG10946"
-    mw 0.0
   ]
   node [
     id 1423
@@ -17256,7 +16745,6 @@ graph [
       name "argD"
     ]
     biocyc_id "ECOLI:EG10066"
-    mw 0.0
   ]
   node [
     id 1424
@@ -17268,7 +16756,6 @@ graph [
       name "thrC"
     ]
     biocyc_id "ECOLI:EG11000"
-    mw 0.0
   ]
   node [
     id 1425
@@ -17280,7 +16767,6 @@ graph [
       name "metA"
     ]
     biocyc_id "ECOLI:EG10581"
-    mw 0.0
   ]
   node [
     id 1426
@@ -17292,7 +16778,6 @@ graph [
       name "tmk"
     ]
     biocyc_id "ECOLI:EG12302"
-    mw 0.0
   ]
   node [
     id 1427
@@ -17304,7 +16789,6 @@ graph [
       name "trxB"
     ]
     biocyc_id "ECOLI:EG11032"
-    mw 0.0
   ]
   node [
     id 1428
@@ -17316,7 +16800,6 @@ graph [
       name "aroF"
     ]
     biocyc_id "ECOLI:EG10078"
-    mw 0.0
   ]
   node [
     id 1429
@@ -17328,7 +16811,6 @@ graph [
       name "aroH"
     ]
     biocyc_id "ECOLI:EG10080"
-    mw 0.0
   ]
   node [
     id 1430
@@ -17340,7 +16822,6 @@ graph [
       name "aroG"
     ]
     biocyc_id "ECOLI:EG10079"
-    mw 0.0
   ]
   node [
     id 1431
@@ -17352,7 +16833,6 @@ graph [
       name "glcB"
     ]
     biocyc_id "ECOLI:EG20080"
-    mw 0.0
   ]
   node [
     id 1432
@@ -17364,7 +16844,6 @@ graph [
       name "aceB"
     ]
     biocyc_id "ECOLI:EG10023"
-    mw 0.0
   ]
   node [
     id 1433
@@ -17376,7 +16855,6 @@ graph [
       name "sthA"
     ]
     biocyc_id "ECOLI:EG11428"
-    mw 0.0
   ]
   node [
     id 1434
@@ -17388,7 +16866,6 @@ graph [
       name "gpsA"
     ]
     biocyc_id "ECOLI:EG20091"
-    mw 0.0
   ]
   node [
     id 1435
@@ -17400,7 +16877,6 @@ graph [
       name "guaA"
     ]
     biocyc_id "ECOLI:EG10420"
-    mw 0.0
   ]
   node [
     id 1436
@@ -17412,7 +16888,6 @@ graph [
       name "proC"
     ]
     biocyc_id "ECOLI:EG10769"
-    mw 0.0
   ]
   node [
     id 1437
@@ -17424,7 +16899,6 @@ graph [
       name "sucA"
     ]
     biocyc_id "ECOLI:EG10979"
-    mw 0.0
   ]
   node [
     id 1438
@@ -17436,7 +16910,6 @@ graph [
       name "sucB"
     ]
     biocyc_id "ECOLI:EG10980"
-    mw 0.0
   ]
   node [
     id 1439
@@ -17448,7 +16921,6 @@ graph [
       name "hisG"
     ]
     biocyc_id "ECOLI:EG10449"
-    mw 0.0
   ]
   node [
     id 1440
@@ -17460,7 +16932,6 @@ graph [
       name "hisD"
     ]
     biocyc_id "ECOLI:EG10447"
-    mw 0.0
   ]
   node [
     id 1441
@@ -17472,7 +16943,6 @@ graph [
       name "dapA"
     ]
     biocyc_id "ECOLI:EG10205"
-    mw 0.0
   ]
   node [
     id 1442
@@ -17484,7 +16954,6 @@ graph [
       name "hisB"
     ]
     biocyc_id "ECOLI:EG10445"
-    mw 0.0
   ]
   node [
     id 1443
@@ -17496,7 +16965,6 @@ graph [
       name "prs"
     ]
     biocyc_id "ECOLI:EG10774"
-    mw 0.0
   ]
   node [
     id 1444
@@ -17508,7 +16976,6 @@ graph [
       name "hisI"
     ]
     biocyc_id "ECOLI:EG10451"
-    mw 0.0
   ]
   node [
     id 1445
@@ -17520,7 +16987,6 @@ graph [
       name "glsA"
     ]
     biocyc_id "ECOLI:G6261"
-    mw 0.0
   ]
   node [
     id 1446
@@ -17532,7 +16998,6 @@ graph [
       name "glsB"
     ]
     biocyc_id "ECOLI:G6810"
-    mw 0.0
   ]
   node [
     id 1447
@@ -17544,7 +17009,6 @@ graph [
       name "hisA"
     ]
     biocyc_id "ECOLI:EG10444"
-    mw 0.0
   ]
   node [
     id 1448
@@ -17556,7 +17020,6 @@ graph [
       name "purF"
     ]
     biocyc_id "ECOLI:EG10794"
-    mw 0.0
   ]
   node [
     id 1449
@@ -17568,7 +17031,6 @@ graph [
       name "cysE"
     ]
     biocyc_id "ECOLI:EG10187"
-    mw 0.0
   ]
   node [
     id 1450
@@ -17580,7 +17042,6 @@ graph [
       name "cysM"
     ]
     biocyc_id "ECOLI:EG10193"
-    mw 0.0
   ]
   node [
     id 1451
@@ -17592,7 +17053,6 @@ graph [
       name "cysK"
     ]
     biocyc_id "ECOLI:EG10192"
-    mw 0.0
   ]
   node [
     id 1452
@@ -17604,7 +17064,6 @@ graph [
       name "cysQ"
     ]
     biocyc_id "ECOLI:EG10043"
-    mw 0.0
   ]
   node [
     id 1453
@@ -17616,7 +17075,6 @@ graph [
       name "cysH"
     ]
     biocyc_id "ECOLI:EG10189"
-    mw 0.0
   ]
   node [
     id 1454
@@ -17628,7 +17086,6 @@ graph [
       name "lysC"
     ]
     biocyc_id "ECOLI:EG10550"
-    mw 0.0
   ]
   node [
     id 1455
@@ -17640,7 +17097,6 @@ graph [
       name "metL"
     ]
     biocyc_id "ECOLI:EG10590"
-    mw 0.0
   ]
   node [
     id 1456
@@ -17652,7 +17108,6 @@ graph [
       name "thrA"
     ]
     biocyc_id "ECOLI:EG10998"
-    mw 0.0
   ]
   node [
     id 1457
@@ -17664,7 +17119,6 @@ graph [
       name "asd"
     ]
     biocyc_id "ECOLI:EG10088"
-    mw 0.0
   ]
   node [
     id 1458
@@ -17676,7 +17130,6 @@ graph [
       name "lysA"
     ]
     biocyc_id "ECOLI:EG10549"
-    mw 0.0
   ]
   node [
     id 1459
@@ -17688,7 +17141,6 @@ graph [
       name "argF"
     ]
     biocyc_id "ECOLI:EG10067"
-    mw 0.0
   ]
   node [
     id 1460
@@ -17700,7 +17152,6 @@ graph [
       name "argI"
     ]
     biocyc_id "ECOLI:EG10069"
-    mw 0.0
   ]
   node [
     id 1461
@@ -17712,7 +17163,6 @@ graph [
       name "purN"
     ]
     biocyc_id "ECOLI:EG10799"
-    mw 0.0
   ]
   node [
     id 1462
@@ -17724,7 +17174,6 @@ graph [
       name "glxK"
     ]
     biocyc_id "ECOLI:G6283"
-    mw 0.0
   ]
   node [
     id 1463
@@ -17736,7 +17185,6 @@ graph [
       name "garK"
     ]
     biocyc_id "ECOLI:EG11175"
-    mw 0.0
   ]
   node [
     id 1464
@@ -17748,7 +17196,6 @@ graph [
       name "gabT"
     ]
     biocyc_id "ECOLI:EG10361"
-    mw 0.0
   ]
   node [
     id 1465
@@ -17760,7 +17207,6 @@ graph [
       name "astC"
     ]
     biocyc_id "ECOLI:G6944"
-    mw 0.0
   ]
   node [
     id 1466
@@ -17772,7 +17218,6 @@ graph [
       name "cysJ"
     ]
     biocyc_id "ECOLI:EG10191"
-    mw 0.0
   ]
   node [
     id 1467
@@ -17784,7 +17229,6 @@ graph [
       name "cysI"
     ]
     biocyc_id "ECOLI:EG10190"
-    mw 0.0
   ]
   node [
     id 1468
@@ -17796,7 +17240,6 @@ graph [
       name "purD"
     ]
     biocyc_id "ECOLI:EG10792"
-    mw 0.0
   ]
   node [
     id 1469
@@ -17808,7 +17251,6 @@ graph [
       name "purL"
     ]
     biocyc_id "ECOLI:EG10797"
-    mw 0.0
   ]
   node [
     id 1470
@@ -17820,7 +17262,6 @@ graph [
       name "purK"
     ]
     biocyc_id "ECOLI:EG10796"
-    mw 0.0
   ]
   node [
     id 1471
@@ -17832,7 +17273,6 @@ graph [
       name "gapA"
     ]
     biocyc_id "ECOLI:EG10367"
-    mw 0.0
   ]
   node [
     id 1472
@@ -17844,7 +17284,6 @@ graph [
       name "gnd"
     ]
     biocyc_id "ECOLI:EG10411"
-    mw 0.0
   ]
   node [
     id 1473
@@ -17856,7 +17295,6 @@ graph [
       name "zwf"
     ]
     biocyc_id "ECOLI:EG11221"
-    mw 0.0
   ]
   node [
     id 1474
@@ -17868,7 +17306,6 @@ graph [
       name "maeB"
     ]
     biocyc_id "ECOLI:G7293"
-    mw 0.0
   ]
   node [
     id 1475
@@ -17880,7 +17317,6 @@ graph [
       name "argH"
     ]
     biocyc_id "ECOLI:EG11223"
-    mw 0.0
   ]
   node [
     id 1476
@@ -17892,7 +17328,6 @@ graph [
       name "carB"
     ]
     biocyc_id "ECOLI:EG10135"
-    mw 0.0
   ]
   node [
     id 1477
@@ -17904,7 +17339,6 @@ graph [
       name "carA"
     ]
     biocyc_id "ECOLI:EG10134"
-    mw 0.0
   ]
   node [
     id 1478
@@ -17916,7 +17350,6 @@ graph [
       name "proB"
     ]
     biocyc_id "ECOLI:EG10768"
-    mw 0.0
   ]
   node [
     id 1479
@@ -17928,7 +17361,6 @@ graph [
       name "leuA"
     ]
     biocyc_id "ECOLI:EG11226"
-    mw 0.0
   ]
   node [
     id 1480
@@ -17940,7 +17372,6 @@ graph [
       name "fabH"
     ]
     biocyc_id "ECOLI:EG10277"
-    mw 0.0
   ]
   node [
     id 1481
@@ -17952,7 +17383,6 @@ graph [
       name "ompF"
     ]
     biocyc_id "ECOLI:EG10671"
-    mw 0.0
   ]
   node [
     id 1482
@@ -17964,7 +17394,6 @@ graph [
       name "ompC"
     ]
     biocyc_id "ECOLI:EG10670"
-    mw 0.0
   ]
   node [
     id 1483
@@ -17976,7 +17405,6 @@ graph [
       name "phoE"
     ]
     biocyc_id "ECOLI:EG10729"
-    mw 0.0
   ]
   node [
     id 1484
@@ -17988,7 +17416,6 @@ graph [
       name "ompN"
     ]
     biocyc_id "ECOLI:G6700"
-    mw 0.0
   ]
   node [
     id 1485
@@ -18000,7 +17427,6 @@ graph [
       name "aphA"
     ]
     biocyc_id "ECOLI:EG11934"
-    mw 0.0
   ]
   node [
     id 1486
@@ -18012,7 +17438,6 @@ graph [
       name "serB"
     ]
     biocyc_id "ECOLI:EG10945"
-    mw 0.0
   ]
   node [
     id 1487
@@ -18024,7 +17449,6 @@ graph [
       name "cysC"
     ]
     biocyc_id "ECOLI:EG10185"
-    mw 0.0
   ]
   node [
     id 1488
@@ -18036,7 +17460,6 @@ graph [
       name "dauA"
     ]
     biocyc_id "ECOLI:EG12392"
-    mw 0.0
   ]
   node [
     id 1489
@@ -18048,7 +17471,6 @@ graph [
       name "satP"
     ]
     biocyc_id "ECOLI:EG11512"
-    mw 0.0
   ]
   node [
     id 1490
@@ -18060,7 +17482,6 @@ graph [
       name "dctA"
     ]
     biocyc_id "ECOLI:EG20044"
-    mw 0.0
   ]
   node [
     id 1491
@@ -18072,7 +17493,6 @@ graph [
       name "malY"
     ]
     biocyc_id "ECOLI:EG10564"
-    mw 0.0
   ]
   node [
     id 1492
@@ -18084,7 +17504,6 @@ graph [
       name "metC"
     ]
     biocyc_id "ECOLI:EG10583"
-    mw 0.0
   ]
   node [
     id 1493
@@ -18096,7 +17515,6 @@ graph [
       name "metB"
     ]
     biocyc_id "ECOLI:EG10582"
-    mw 0.0
   ]
   node [
     id 1494
@@ -18108,7 +17526,6 @@ graph [
       name "cysA"
     ]
     biocyc_id "ECOLI:EG10183"
-    mw 0.0
   ]
   node [
     id 1495
@@ -18120,7 +17537,6 @@ graph [
       name "cysW"
     ]
     biocyc_id "ECOLI:EG10198"
-    mw 0.0
   ]
   node [
     id 1496
@@ -18132,7 +17548,6 @@ graph [
       name "cysU"
     ]
     biocyc_id "ECOLI:EG10197"
-    mw 0.0
   ]
   node [
     id 1497
@@ -18144,7 +17559,6 @@ graph [
       name "cysP"
     ]
     biocyc_id "ECOLI:EG10195"
-    mw 0.0
   ]
   node [
     id 1498
@@ -18156,7 +17570,6 @@ graph [
       name "sbp"
     ]
     biocyc_id "ECOLI:EG10929"
-    mw 0.0
   ]
   node [
     id 1499
@@ -18168,7 +17581,6 @@ graph [
       name "kgtP"
     ]
     biocyc_id "ECOLI:EG10522"
-    mw 0.0
   ]
   node [
     id 1500
@@ -18180,7 +17592,6 @@ graph [
       name "xylE"
     ]
     biocyc_id "ECOLI:EG11076"
-    mw 0.0
   ]
   node [
     id 1501
@@ -18192,7 +17603,6 @@ graph [
       name "btsT"
     ]
     biocyc_id "ECOLI:G7942"
-    mw 0.0
   ]
   node [
     id 1502
@@ -18204,7 +17614,6 @@ graph [
       name "cstA"
     ]
     biocyc_id "ECOLI:EG10167"
-    mw 0.0
   ]
   node [
     id 1503
@@ -18216,7 +17625,6 @@ graph [
       name "pntB"
     ]
     biocyc_id "ECOLI:EG10745"
-    mw 0.0
   ]
   node [
     id 1504
@@ -18228,7 +17636,6 @@ graph [
       name "pntA"
     ]
     biocyc_id "ECOLI:EG10744"
-    mw 0.0
   ]
   node [
     id 1505
@@ -18240,7 +17647,6 @@ graph [
       name "atpE"
     ]
     biocyc_id "ECOLI:EG10102"
-    mw 0.0
   ]
   node [
     id 1506
@@ -18252,7 +17658,6 @@ graph [
       name "atpF"
     ]
     biocyc_id "ECOLI:EG10103"
-    mw 0.0
   ]
   node [
     id 1507
@@ -18264,7 +17669,6 @@ graph [
       name "atpB"
     ]
     biocyc_id "ECOLI:EG10099"
-    mw 0.0
   ]
   node [
     id 1508
@@ -18276,7 +17680,6 @@ graph [
       name "atpC"
     ]
     biocyc_id "ECOLI:EG10100"
-    mw 0.0
   ]
   node [
     id 1509
@@ -18288,7 +17691,6 @@ graph [
       name "atpH"
     ]
     biocyc_id "ECOLI:EG10105"
-    mw 0.0
   ]
   node [
     id 1510
@@ -18300,7 +17702,6 @@ graph [
       name "atpA"
     ]
     biocyc_id "ECOLI:EG10098"
-    mw 0.0
   ]
   node [
     id 1511
@@ -18312,7 +17713,6 @@ graph [
       name "atpG"
     ]
     biocyc_id "ECOLI:EG10104"
-    mw 0.0
   ]
   node [
     id 1512
@@ -18324,7 +17724,6 @@ graph [
       name "atpD"
     ]
     biocyc_id "ECOLI:EG10101"
-    mw 0.0
   ]
   node [
     id 1513
@@ -18336,7 +17735,6 @@ graph [
       name "gmk"
     ]
     biocyc_id "ECOLI:EG10965"
-    mw 0.0
   ]
   node [
     id 1514
@@ -18348,7 +17746,6 @@ graph [
       name "appC"
     ]
     biocyc_id "ECOLI:EG11380"
-    mw 0.0
   ]
   node [
     id 1515
@@ -18360,7 +17757,6 @@ graph [
       name "appB"
     ]
     biocyc_id "ECOLI:EG11379"
-    mw 0.0
   ]
   node [
     id 1516
@@ -18372,7 +17768,6 @@ graph [
       name "appX"
     ]
     biocyc_id "ECOLI:G0-10588"
-    mw 0.0
   ]
   node [
     id 1517
@@ -18384,7 +17779,6 @@ graph [
       name "cydA"
     ]
     biocyc_id "ECOLI:EG10173"
-    mw 0.0
   ]
   node [
     id 1518
@@ -18396,7 +17790,6 @@ graph [
       name "cydB"
     ]
     biocyc_id "ECOLI:EG10174"
-    mw 0.0
   ]
   node [
     id 1519
@@ -18408,7 +17801,6 @@ graph [
       name "cydX"
     ]
     biocyc_id "ECOLI:G0-10441"
-    mw 0.0
   ]
   node [
     id 1520
@@ -18420,7 +17812,6 @@ graph [
       name "cydH"
     ]
     biocyc_id "ECOLI:G0-10594"
-    mw 0.0
   ]
   node [
     id 1521
@@ -18432,7 +17823,6 @@ graph [
       name "metH"
     ]
     biocyc_id "ECOLI:EG10587"
-    mw 0.0
   ]
   node [
     id 1522
@@ -18444,7 +17834,6 @@ graph [
       name "purC"
     ]
     biocyc_id "ECOLI:EG10791"
-    mw 0.0
   ]
   node [
     id 1523
@@ -18456,7 +17845,6 @@ graph [
       name "folD"
     ]
     biocyc_id "ECOLI:EG10328"
-    mw 0.0
   ]
   node [
     id 1524
@@ -18468,7 +17856,6 @@ graph [
       name "focA"
     ]
     biocyc_id "ECOLI:EG11258"
-    mw 0.0
   ]
   node [
     id 1525
@@ -18480,7 +17867,6 @@ graph [
       name "focB"
     ]
     biocyc_id "ECOLI:G7309"
-    mw 0.0
   ]
   node [
     id 1526
@@ -18492,7 +17878,6 @@ graph [
       name "grxC"
     ]
     biocyc_id "ECOLI:EG12294"
-    mw 0.0
   ]
   node [
     id 1527
@@ -18504,7 +17889,6 @@ graph [
       name "grxA"
     ]
     biocyc_id "ECOLI:EG10417"
-    mw 0.0
   ]
   node [
     id 1528
@@ -18516,7 +17900,6 @@ graph [
       name "grxB"
     ]
     biocyc_id "ECOLI:EG12688"
-    mw 0.0
   ]
   node [
     id 1529
@@ -18528,7 +17911,6 @@ graph [
       name "nrdE"
     ]
     biocyc_id "ECOLI:EG20257"
-    mw 0.0
   ]
   node [
     id 1530
@@ -18540,7 +17922,6 @@ graph [
       name "nrdF"
     ]
     biocyc_id "ECOLI:EG12381"
-    mw 0.0
   ]
   node [
     id 1531
@@ -18552,7 +17933,6 @@ graph [
       name "amtB"
     ]
     biocyc_id "ECOLI:EG11821"
-    mw 0.0
   ]
   node [
     id 1532
@@ -18564,7 +17944,6 @@ graph [
       name "rbsA"
     ]
     biocyc_id "ECOLI:EG10814"
-    mw 0.0
   ]
   node [
     id 1533
@@ -18576,7 +17955,6 @@ graph [
       name "rbsC"
     ]
     biocyc_id "ECOLI:EG10816"
-    mw 0.0
   ]
   node [
     id 1534
@@ -18588,7 +17966,6 @@ graph [
       name "rbsB"
     ]
     biocyc_id "ECOLI:EG10815"
-    mw 0.0
   ]
   node [
     id 1535
@@ -18600,7 +17977,6 @@ graph [
       name "gudP"
     ]
     biocyc_id "ECOLI:G7447"
-    mw 0.0
   ]
   node [
     id 1536
@@ -18612,7 +17988,6 @@ graph [
       name "garP"
     ]
     biocyc_id "ECOLI:EG12760"
-    mw 0.0
   ]
   node [
     id 1537
@@ -18624,7 +17999,6 @@ graph [
       name "glpF"
     ]
     biocyc_id "ECOLI:EG10396"
-    mw 0.0
   ]
   node [
     id 1538
@@ -18636,7 +18010,6 @@ graph [
       name "aqpZ"
     ]
     biocyc_id "ECOLI:EG13270"
-    mw 0.0
   ]
   node [
     id 1539
@@ -18648,7 +18021,6 @@ graph [
       name "glnQ"
     ]
     biocyc_id "ECOLI:EG10389"
-    mw 0.0
   ]
   node [
     id 1540
@@ -18660,7 +18032,6 @@ graph [
       name "glnP"
     ]
     biocyc_id "ECOLI:EG10388"
-    mw 0.0
   ]
   node [
     id 1541
@@ -18672,7 +18043,6 @@ graph [
       name "glnH"
     ]
     biocyc_id "ECOLI:EG10386"
-    mw 0.0
   ]
   node [
     id 1542
@@ -18684,7 +18054,6 @@ graph [
       name "gltP"
     ]
     biocyc_id "ECOLI:EG10405"
-    mw 0.0
   ]
   node [
     id 1543
@@ -18696,7 +18065,6 @@ graph [
       name "argB"
     ]
     biocyc_id "ECOLI:EG10064"
-    mw 0.0
   ]
   node [
     id 1544
@@ -18708,7 +18076,6 @@ graph [
       name "gntK"
     ]
     biocyc_id "ECOLI:EG12629"
-    mw 0.0
   ]
   node [
     id 1545
@@ -18720,7 +18087,6 @@ graph [
       name "idnK"
     ]
     biocyc_id "ECOLI:EG12152"
-    mw 0.0
   ]
   node [
     id 1546
@@ -18732,7 +18098,6 @@ graph [
       name "gltD"
     ]
     biocyc_id "ECOLI:EG10404"
-    mw 0.0
   ]
   node [
     id 1547
@@ -18744,7 +18109,6 @@ graph [
       name "gltB"
     ]
     biocyc_id "ECOLI:EG10403"
-    mw 0.0
   ]
   node [
     id 1548
@@ -18756,7 +18120,6 @@ graph [
       name "gdhA"
     ]
     biocyc_id "ECOLI:EG10372"
-    mw 0.0
   ]
   node [
     id 1549
@@ -18768,7 +18131,6 @@ graph [
       name "gntP"
     ]
     biocyc_id "ECOLI:EG12563"
-    mw 0.0
   ]
   node [
     id 1550
@@ -18780,7 +18142,6 @@ graph [
       name "gntT"
     ]
     biocyc_id "ECOLI:EG12380"
-    mw 0.0
   ]
   node [
     id 1551
@@ -18792,7 +18153,6 @@ graph [
       name "gntU"
     ]
     biocyc_id "ECOLI:EG12631"
-    mw 0.0
   ]
   node [
     id 1552
@@ -18804,7 +18164,6 @@ graph [
       name "idnT"
     ]
     biocyc_id "ECOLI:EG12539"
-    mw 0.0
   ]
   node [
     id 1553
@@ -18816,7 +18175,6 @@ graph [
       name "bglF"
     ]
     biocyc_id "ECOLI:EG10115"
-    mw 0.0
   ]
   node [
     id 1554
@@ -18828,7 +18186,6 @@ graph [
       name "manZ"
     ]
     biocyc_id "ECOLI:EG10569"
-    mw 0.0
   ]
   node [
     id 1555
@@ -18840,7 +18197,6 @@ graph [
       name "manY"
     ]
     biocyc_id "ECOLI:EG10568"
-    mw 0.0
   ]
   node [
     id 1556
@@ -18852,7 +18208,6 @@ graph [
       name "manX"
     ]
     biocyc_id "ECOLI:EG10567"
-    mw 0.0
   ]
   node [
     id 1557
@@ -18864,7 +18219,6 @@ graph [
       name "ptsG"
     ]
     biocyc_id "ECOLI:EG10787"
-    mw 0.0
   ]
   node [
     id 1558
@@ -18876,7 +18230,6 @@ graph [
       name "crr"
     ]
     biocyc_id "ECOLI:EG10165"
-    mw 0.0
   ]
   node [
     id 1559
@@ -18888,7 +18241,6 @@ graph [
       name "hisC"
     ]
     biocyc_id "ECOLI:EG10446"
-    mw 0.0
   ]
   node [
     id 1560
@@ -18900,7 +18252,6 @@ graph [
       name "dapD"
     ]
     biocyc_id "ECOLI:EG10207"
-    mw 0.0
   ]
   node [
     id 1561
@@ -18912,7 +18263,6 @@ graph [
       name "ychF"
     ]
     biocyc_id "ECOLI:EG11404"
-    mw 0.0
   ]
   node [
     id 1562
@@ -18924,7 +18274,6 @@ graph [
       name "radD"
     ]
     biocyc_id "ECOLI:EG12045"
-    mw 0.0
   ]
   node [
     id 1563
@@ -18936,7 +18285,6 @@ graph [
       name "lhr"
     ]
     biocyc_id "ECOLI:EG11548"
-    mw 0.0
   ]
   node [
     id 1564
@@ -18948,7 +18296,6 @@ graph [
       name "tdcB"
     ]
     biocyc_id "ECOLI:EG10990"
-    mw 0.0
   ]
   node [
     id 1565
@@ -18960,7 +18307,6 @@ graph [
       name "ilvA"
     ]
     biocyc_id "ECOLI:EG10493"
-    mw 0.0
   ]
   node [
     id 1566
@@ -18972,7 +18318,6 @@ graph [
       name "folM"
     ]
     biocyc_id "ECOLI:G6862"
-    mw 0.0
   ]
   node [
     id 1567
@@ -18984,7 +18329,6 @@ graph [
       name "folA"
     ]
     biocyc_id "ECOLI:EG10326"
-    mw 0.0
   ]
   node [
     id 1568
@@ -18996,7 +18340,6 @@ graph [
       name "aroK"
     ]
     biocyc_id "ECOLI:EG10081"
-    mw 0.0
   ]
   node [
     id 1569
@@ -19008,7 +18351,6 @@ graph [
       name "aroL"
     ]
     biocyc_id "ECOLI:EG10082"
-    mw 0.0
   ]
   node [
     id 1570
@@ -19020,7 +18362,6 @@ graph [
       name "hisH"
     ]
     biocyc_id "ECOLI:EG10450"
-    mw 0.0
   ]
   node [
     id 1571
@@ -19032,7 +18373,6 @@ graph [
       name "hisF"
     ]
     biocyc_id "ECOLI:EG10448"
-    mw 0.0
   ]
   node [
     id 1572
@@ -19044,7 +18384,6 @@ graph [
       name "aceE"
     ]
     biocyc_id "ECOLI:EG10024"
-    mw 0.0
   ]
   node [
     id 1573
@@ -19056,7 +18395,6 @@ graph [
       name "aceF"
     ]
     biocyc_id "ECOLI:EG10025"
-    mw 0.0
   ]
   node [
     id 1574
@@ -19068,7 +18406,6 @@ graph [
       name "metF"
     ]
     biocyc_id "ECOLI:EG10585"
-    mw 0.0
   ]
   node [
     id 1575
@@ -19080,7 +18417,6 @@ graph [
       name "nudI"
     ]
     biocyc_id "ECOLI:G7164"
-    mw 0.0
   ]
   node [
     id 1576
@@ -19092,7 +18428,6 @@ graph [
       name "dut"
     ]
     biocyc_id "ECOLI:EG10251"
-    mw 0.0
   ]
   node [
     id 1577
@@ -19104,7 +18439,6 @@ graph [
       name "glnA"
     ]
     biocyc_id "ECOLI:EG10383"
-    mw 0.0
   ]
   node [
     id 1578
@@ -19116,7 +18450,6 @@ graph [
       name "argA"
     ]
     biocyc_id "ECOLI:EG10063"
-    mw 0.0
   ]
   node [
     id 1579
@@ -19128,7 +18461,6 @@ graph [
       name "sucD"
     ]
     biocyc_id "ECOLI:EG10982"
-    mw 0.0
   ]
   node [
     id 1580
@@ -19140,7 +18472,6 @@ graph [
       name "sucC"
     ]
     biocyc_id "ECOLI:EG10981"
-    mw 0.0
   ]
   node [
     id 1581
@@ -19152,7 +18483,6 @@ graph [
       name "purM"
     ]
     biocyc_id "ECOLI:EG10798"
-    mw 0.0
   ]
   node [
     id 1582
@@ -19164,7 +18494,6 @@ graph [
       name "ldhA"
     ]
     biocyc_id "ECOLI:G592"
-    mw 0.0
   ]
   node [
     id 1583
@@ -19176,7 +18505,6 @@ graph [
       name "fabA"
     ]
     biocyc_id "ECOLI:EG10273"
-    mw 0.0
   ]
   node [
     id 1584
@@ -19188,7 +18516,6 @@ graph [
       name "aroB"
     ]
     biocyc_id "ECOLI:EG10074"
-    mw 0.0
   ]
   node [
     id 1585
@@ -19200,7 +18527,6 @@ graph [
       name "fabI"
     ]
     biocyc_id "ECOLI:EG11528"
-    mw 0.0
   ]
   node [
     id 1586
@@ -19212,7 +18538,6 @@ graph [
       name "serA"
     ]
     biocyc_id "ECOLI:EG10944"
-    mw 0.0
   ]
   node [
     id 1587
@@ -19224,7 +18549,6 @@ graph [
       name "fabG"
     ]
     biocyc_id "ECOLI:EG11318"
-    mw 0.0
   ]
   node [
     id 1588
@@ -19236,7 +18560,6 @@ graph [
       name "glcA"
     ]
     biocyc_id "ECOLI:G7542"
-    mw 0.0
   ]
   node [
     id 1589
@@ -19248,7 +18571,6 @@ graph [
       name "lldP"
     ]
     biocyc_id "ECOLI:EG11961"
-    mw 0.0
   ]
   node [
     id 1590
@@ -19260,7 +18582,6 @@ graph [
       name "pfkA"
     ]
     biocyc_id "ECOLI:EG10699"
-    mw 0.0
   ]
   node [
     id 1591
@@ -19272,7 +18593,6 @@ graph [
       name "pfkB"
     ]
     biocyc_id "ECOLI:EG10700"
-    mw 0.0
   ]
   node [
     id 1592
@@ -19284,7 +18604,6 @@ graph [
       name "gpmA"
     ]
     biocyc_id "ECOLI:EG11699"
-    mw 0.0
   ]
   node [
     id 1593
@@ -19296,7 +18615,6 @@ graph [
       name "cyoD"
     ]
     biocyc_id "ECOLI:EG10181"
-    mw 0.0
   ]
   node [
     id 1594
@@ -19308,7 +18626,6 @@ graph [
       name "cyoA"
     ]
     biocyc_id "ECOLI:EG10178"
-    mw 0.0
   ]
   node [
     id 1595
@@ -19320,7 +18637,6 @@ graph [
       name "cyoB"
     ]
     biocyc_id "ECOLI:EG10179"
-    mw 0.0
   ]
   node [
     id 1596
@@ -19332,7 +18648,6 @@ graph [
       name "cyoC"
     ]
     biocyc_id "ECOLI:EG10180"
-    mw 0.0
   ]
   node [
     id 1597
@@ -19344,7 +18659,6 @@ graph [
       name "tpiA"
     ]
     biocyc_id "ECOLI:EG11015"
-    mw 0.0
   ]
   node [
     id 1598
@@ -19356,7 +18670,6 @@ graph [
       name "rpiA"
     ]
     biocyc_id "ECOLI:EG11443"
-    mw 0.0
   ]
   node [
     id 1599
@@ -19368,7 +18681,6 @@ graph [
       name "rpiB"
     ]
     biocyc_id "ECOLI:EG11827"
-    mw 0.0
   ]
   node [
     id 1600
@@ -19380,7 +18692,6 @@ graph [
       name "fabZ"
     ]
     biocyc_id "ECOLI:EG11284"
-    mw 0.0
   ]
   node [
     id 1601
@@ -19392,7 +18703,6 @@ graph [
       name "cysZ"
     ]
     biocyc_id "ECOLI:EG10003"
-    mw 0.0
   ]
   node [
     id 1602
@@ -19404,7 +18714,6 @@ graph [
       name "acnB"
     ]
     biocyc_id "ECOLI:EG12316"
-    mw 0.0
   ]
   node [
     id 1603
@@ -19416,7 +18725,6 @@ graph [
       name "acnA"
     ]
     biocyc_id "ECOLI:EG11325"
-    mw 0.0
   ]
   node [
     id 1604
@@ -19428,7 +18736,6 @@ graph [
       name "sdhA"
     ]
     biocyc_id "ECOLI:EG10931"
-    mw 0.0
   ]
   node [
     id 1605
@@ -19440,7 +18747,6 @@ graph [
       name "sdhB"
     ]
     biocyc_id "ECOLI:EG10932"
-    mw 0.0
   ]
   node [
     id 1606
@@ -19452,7 +18758,6 @@ graph [
       name "sdhC"
     ]
     biocyc_id "ECOLI:EG10933"
-    mw 0.0
   ]
   node [
     id 1607
@@ -19464,7 +18769,6 @@ graph [
       name "sdhD"
     ]
     biocyc_id "ECOLI:EG10934"
-    mw 0.0
   ]
   node [
     id 1608
@@ -19476,7 +18780,6 @@ graph [
       name "nuoA"
     ]
     biocyc_id "ECOLI:EG12082"
-    mw 0.0
   ]
   node [
     id 1609
@@ -19488,7 +18791,6 @@ graph [
       name "nuoH"
     ]
     biocyc_id "ECOLI:EG12088"
-    mw 0.0
   ]
   node [
     id 1610
@@ -19500,7 +18802,6 @@ graph [
       name "nuoJ"
     ]
     biocyc_id "ECOLI:EG12090"
-    mw 0.0
   ]
   node [
     id 1611
@@ -19512,7 +18813,6 @@ graph [
       name "nuoK"
     ]
     biocyc_id "ECOLI:EG12091"
-    mw 0.0
   ]
   node [
     id 1612
@@ -19524,7 +18824,6 @@ graph [
       name "nuoL"
     ]
     biocyc_id "ECOLI:EG12092"
-    mw 0.0
   ]
   node [
     id 1613
@@ -19536,7 +18835,6 @@ graph [
       name "nuoM"
     ]
     biocyc_id "ECOLI:EG11773"
-    mw 0.0
   ]
   node [
     id 1614
@@ -19548,7 +18846,6 @@ graph [
       name "nuoN"
     ]
     biocyc_id "ECOLI:EG12093"
-    mw 0.0
   ]
   node [
     id 1615
@@ -19560,7 +18857,6 @@ graph [
       name "nuoB"
     ]
     biocyc_id "ECOLI:EG12083"
-    mw 0.0
   ]
   node [
     id 1616
@@ -19572,7 +18868,6 @@ graph [
       name "nuoC"
     ]
     biocyc_id "ECOLI:EG12084"
-    mw 0.0
   ]
   node [
     id 1617
@@ -19584,7 +18879,6 @@ graph [
       name "nuoE"
     ]
     biocyc_id "ECOLI:EG12086"
-    mw 0.0
   ]
   node [
     id 1618
@@ -19596,7 +18890,6 @@ graph [
       name "nuoF"
     ]
     biocyc_id "ECOLI:EG11774"
-    mw 0.0
   ]
   node [
     id 1619
@@ -19608,7 +18901,6 @@ graph [
       name "nuoG"
     ]
     biocyc_id "ECOLI:EG12087"
-    mw 0.0
   ]
   node [
     id 1620
@@ -19620,7 +18912,6 @@ graph [
       name "nuoI"
     ]
     biocyc_id "ECOLI:EG12089"
-    mw 0.0
   ]
   node [
     id 1621
@@ -19632,7 +18923,6 @@ graph [
       name "avtA"
     ]
     biocyc_id "ECOLI:EG10107"
-    mw 0.0
   ]
   node [
     id 1622
@@ -19644,7 +18934,6 @@ graph [
       name "pitA"
     ]
     biocyc_id "ECOLI:EG12230"
-    mw 0.0
   ]
   node [
     id 1623
@@ -19656,7 +18945,6 @@ graph [
       name "pitB"
     ]
     biocyc_id "ECOLI:EG12883"
-    mw 0.0
   ]
   node [
     id 1624
@@ -19668,7 +18956,6 @@ graph [
       name "yjbB"
     ]
     biocyc_id "ECOLI:EG11919"
-    mw 0.0
   ]
   node [
     id 1625
@@ -19680,7 +18967,6 @@ graph [
       name "ptsH"
     ]
     biocyc_id "ECOLI:EG10788"
-    mw 0.0
   ]
   node [
     id 1626
@@ -19692,7 +18978,6 @@ graph [
       name "acpP"
     ]
     biocyc_id "ECOLI:EG50003"
-    mw 0.0
   ]
   node [
     id 1627
@@ -19704,7 +18989,6 @@ graph [
       name "trxA"
     ]
     biocyc_id "ECOLI:EG11031"
-    mw 0.0
   ]
   node [
     id 1628
@@ -19716,7 +19000,6 @@ graph [
       name "trxC"
     ]
     biocyc_id "ECOLI:EG11887"
-    mw 0.0
   ]
   node [
     id 1629
@@ -19728,7 +19011,6 @@ graph [
       name "ydiB"
     ]
     biocyc_id "ECOLI:EG11234"
-    mw 0.0
   ]
   node [
     id 1630
@@ -19740,7 +19022,6 @@ graph [
       name "araB"
     ]
     biocyc_id "ECOLI:EG10053"
-    mw 0.0
   ]
   node [
     id 1631
@@ -19752,7 +19033,6 @@ graph [
       name "yidA"
     ]
     biocyc_id "ECOLI:EG11195"
-    mw 0.0
   ]
   node [
     id 1632
@@ -19764,7 +19044,6 @@ graph [
       name "gmhB"
     ]
     biocyc_id "ECOLI:EG11736"
-    mw 0.0
   ]
   node [
     id 1633
@@ -19776,7 +19055,6 @@ graph [
       name "gpmM"
     ]
     biocyc_id "ECOLI:EG12296"
-    mw 0.0
   ]
   node [
     id 1634
@@ -19788,7 +19066,6 @@ graph [
       name "pflA"
     ]
     biocyc_id "ECOLI:EG10028"
-    mw 0.0
   ]
   node [
     id 1635
@@ -19800,7 +19077,6 @@ graph [
       name "pflD"
     ]
     biocyc_id "ECOLI:EG11910"
-    mw 0.0
   ]
   node [
     id 1636
@@ -19812,7 +19088,6 @@ graph [
       name "pflC"
     ]
     biocyc_id "ECOLI:EG11911"
-    mw 0.0
   ]
   node [
     id 1637
@@ -19824,7 +19099,6 @@ graph [
       name "tdcD"
     ]
     biocyc_id "ECOLI:EG11172"
-    mw 0.0
   ]
   node [
     id 1638
@@ -19836,7 +19110,6 @@ graph [
       name "patA"
     ]
     biocyc_id "ECOLI:G7596"
-    mw 0.0
   ]
   node [
     id 1639
@@ -19848,7 +19121,6 @@ graph [
       name "puuE"
     ]
     biocyc_id "ECOLI:G6646"
-    mw 0.0
   ]
   node [
     id 1640
@@ -19860,7 +19132,6 @@ graph [
       name "atpI"
     ]
     biocyc_id "ECOLI:EG10106"
-    mw 0.0
   ]
   node [
     id 1641
@@ -19872,7 +19143,6 @@ graph [
       name "lamB"
     ]
     biocyc_id "ECOLI:EG10528"
-    mw 0.0
   ]
   node [
     id 1642
@@ -19884,7 +19154,6 @@ graph [
       name "alsA"
     ]
     biocyc_id "ECOLI:EG11959"
-    mw 0.0
   ]
   node [
     id 1643
@@ -19896,7 +19165,6 @@ graph [
       name "alsC"
     ]
     biocyc_id "ECOLI:EG11958"
-    mw 0.0
   ]
   node [
     id 1644
@@ -19908,7 +19176,6 @@ graph [
       name "alsB"
     ]
     biocyc_id "ECOLI:EG12458"
-    mw 0.0
   ]
   node [
     id 1645
@@ -19920,7 +19187,6 @@ graph [
       name "yjfF"
     ]
     biocyc_id "ECOLI:EG12439"
-    mw 0.0
   ]
   node [
     id 1646
@@ -19932,7 +19198,6 @@ graph [
       name "ytfR"
     ]
     biocyc_id "ECOLI:EG12518"
-    mw 0.0
   ]
   node [
     id 1647
@@ -19944,7 +19209,6 @@ graph [
       name "ytfT"
     ]
     biocyc_id "ECOLI:EG12520"
-    mw 0.0
   ]
   node [
     id 1648
@@ -19956,7 +19220,6 @@ graph [
       name "ytfQ"
     ]
     biocyc_id "ECOLI:EG12517"
-    mw 0.0
   ]
   node [
     id 1649
@@ -19968,7 +19231,6 @@ graph [
       name "rbsD"
     ]
     biocyc_id "ECOLI:EG10817"
-    mw 0.0
   ]
   node [
     id 1650
@@ -19980,7 +19242,6 @@ graph [
       name "ptsI"
     ]
     biocyc_id "ECOLI:EG10789"
-    mw 0.0
   ]
   node [
     id 1651
@@ -19992,7 +19253,6 @@ graph [
       name "ybiV"
     ]
     biocyc_id "ECOLI:G6425"
-    mw 0.0
   ]
   node [
     id 1652
@@ -20004,7 +19264,6 @@ graph [
       name "hxpA"
     ]
     biocyc_id "ECOLI:G7187"
-    mw 0.0
   ]
   node [
     id 1653
@@ -20016,7 +19275,6 @@ graph [
       name "accA"
     ]
     biocyc_id "ECOLI:EG11647"
-    mw 0.0
   ]
   node [
     id 1654
@@ -20028,7 +19286,6 @@ graph [
       name "accD"
     ]
     biocyc_id "ECOLI:EG10217"
-    mw 0.0
   ]
   node [
     id 1655
@@ -20040,7 +19297,6 @@ graph [
       name "accC"
     ]
     biocyc_id "ECOLI:EG10276"
-    mw 0.0
   ]
   node [
     id 1656
@@ -20052,7 +19308,6 @@ graph [
       name "accB"
     ]
     biocyc_id "ECOLI:EG10275"
-    mw 0.0
   ]
   node [
     id 1657
@@ -20064,7 +19319,6 @@ graph [
       name "sdaA"
     ]
     biocyc_id "ECOLI:EG10930"
-    mw 0.0
   ]
   node [
     id 1658
@@ -20076,7 +19330,6 @@ graph [
       name "rsgA"
     ]
     biocyc_id "ECOLI:G7841"
-    mw 0.0
   ]
   node [
     id 1659
@@ -20088,7 +19341,6 @@ graph [
       name "gph"
     ]
     biocyc_id "ECOLI:EG11871"
-    mw 0.0
   ]
   node [
     id 1660
@@ -20100,7 +19352,6 @@ graph [
       name "ytjC"
     ]
     biocyc_id "ECOLI:EG12164"
-    mw 0.0
   ]
   node [
     id 1661
@@ -20112,23 +19363,22 @@ graph [
       name "metE"
     ]
     biocyc_id "ECOLI:EG10584"
-    mw 0.0
   ]
   edge [
     source 0
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941720"
-    subtype "NA"
   ]
   edge [
     source 0
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20155,7 +19405,7 @@ graph [
     target 2
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20164,7 +19414,7 @@ graph [
     target 5
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20172,10 +19422,10 @@ graph [
     source 4
     target 1258
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "shikimate dehydrogenase with much lower activity than aroE"
     references "PMID:12637497"
-    subtype "NA"
   ]
   edge [
     source 5
@@ -20191,7 +19441,7 @@ graph [
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20199,17 +19449,17 @@ graph [
     source 6
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941717"
-    subtype "NA"
   ]
   edge [
     source 7
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20217,17 +19467,17 @@ graph [
     source 7
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941718"
-    subtype "NA"
   ]
   edge [
     source 8
     target 10
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20245,7 +19495,7 @@ graph [
     target 9
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20254,7 +19504,7 @@ graph [
     target 13
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20272,7 +19522,7 @@ graph [
     target 12
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20281,7 +19531,7 @@ graph [
     target 16
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20299,7 +19549,7 @@ graph [
     target 15
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20308,7 +19558,7 @@ graph [
     target 19
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20326,7 +19576,7 @@ graph [
     target 18
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20335,7 +19585,7 @@ graph [
     target 22
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20353,7 +19603,7 @@ graph [
     target 21
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20362,7 +19612,7 @@ graph [
     target 24
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20371,7 +19621,7 @@ graph [
     target 26
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20380,7 +19630,7 @@ graph [
     target 27
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20407,7 +19657,7 @@ graph [
     target 25
     weight 40
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20425,7 +19675,7 @@ graph [
     target 30
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20434,7 +19684,7 @@ graph [
     target 32
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20452,7 +19702,7 @@ graph [
     target 29
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20470,7 +19720,7 @@ graph [
     target 31
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20479,7 +19729,7 @@ graph [
     target 34
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20497,7 +19747,7 @@ graph [
     target 37
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20515,7 +19765,7 @@ graph [
     target 36
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20524,7 +19774,7 @@ graph [
     target 40
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20533,7 +19783,7 @@ graph [
     target 42
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20541,73 +19791,73 @@ graph [
     source 38
     target 313
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243376;PMID: 20729367"
-    subtype "NA"
   ]
   edge [
     source 38
     target 54
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729368"
-    subtype "NA"
   ]
   edge [
     source 38
     target 426
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729369"
-    subtype "NA"
   ]
   edge [
     source 38
     target 424
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729370"
-    subtype "NA"
   ]
   edge [
     source 38
     target 1268
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729371"
-    subtype "NA"
   ]
   edge [
     source 38
     target 1269
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729372"
-    subtype "NA"
   ]
   edge [
     source 38
     target 311
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729373"
-    subtype "NA"
   ]
   edge [
     source 38
     target 141
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases argD, aspC, astC, gabT, patA, puuE, serC, tyrB were all reported to have promiscuous activity as as transaminases for the formation of alanine. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple alaA, alaC, avtA KO mutant, lacking the three alanine-producing transaminases. Since all of these transaminases use glutamate as a nitrogen donor in their primary catalysis function, we assign their promiscuous activity to ALATA_L "
     references "PMID:25243382;PMID: 20729374"
-    subtype "NA"
   ]
   edge [
     source 39
@@ -20623,7 +19873,7 @@ graph [
     target 39
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20641,7 +19891,7 @@ graph [
     target 41
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20650,7 +19900,7 @@ graph [
     target 45
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20658,10 +19908,10 @@ graph [
     source 43
     target 1259
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "L-ribulokynanase has broad substrate specifity and can phosphorilate D-xylulose as well. However, affinity for D-xylulose  was reported to be much lower (>100-fold smaller Km)                                                                                                                                                                                                                                                                                                                                     "
     references "PMID:11747300"
-    subtype "NA"
   ]
   edge [
     source 44
@@ -20677,7 +19927,7 @@ graph [
     target 44
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20686,7 +19936,7 @@ graph [
     target 48
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20704,7 +19954,7 @@ graph [
     target 47
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20713,7 +19963,7 @@ graph [
     target 51
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20731,7 +19981,7 @@ graph [
     target 50
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20740,7 +19990,7 @@ graph [
     target 54
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20749,9 +19999,9 @@ graph [
     target 141
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "aromatic aminotransferase (tyrB) shows comparable affinity to aspartate aminotransferase (aspC) for dicarboxylic aminoacid (e.g) aspartate. Note that the reverse is not true, with tyrB being significantly more affine to aromatic aminoacids than aspC                                                                                                                                                                                                                                                           "
     references "PMID:8218300"
-    subtype "NA"
   ]
   edge [
     source 53
@@ -20767,7 +20017,7 @@ graph [
     target 53
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20775,44 +20025,44 @@ graph [
     source 55
     target 30
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "phoA is a periplasmic alkaline phosphatase with broad specificity (Ecocyc). Since this is a periplasmic protein and since a fbp deletion strain was reported unable to grow on gluconeogic substrates, this edge is marked as secondary catalysis."
     references NAN
-    subtype "NA"
   ]
   edge [
     source 55
     target 57
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "YggF posses FBPase activity in vitro (PMID:19073594), albeit less than fbp. However, a fbp deletion strain was reported unable to grow on gluconeogic substrates, suggesting that fbp is the most physiologically relevant isoenzyme for the FBP reaction (PMID:10986273)"
     references "PMID:19073594;PMID:10986274"
-    subtype "NA"
   ]
   edge [
     source 55
     target 58
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "YhbA is a pyridoxal phosphate phosphatase which was shown to possess fructose 1,6-bisphosphate phosphatase activity in vitro (PMID: 19073594), alnbeit lower than fbp . However, a fbp deletion strain was reported unable to grow on gluconeogic substrates, suggesting that fbp is the most physiologically relevant isoenzyme for the FBP reaction (PMID:10986273)"
     references "PMID:19073594;PMID:10986273"
-    subtype "NA"
   ]
   edge [
     source 55
     target 60
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "gplX encodes a second fructose biphosphate phosphatase. It's activity in vitro was reported to be 7-fold less than FBPase I (fbp). In addition, a fbp deltion strain was reported unable to grow on gluconeogic substrates, suggesting that fbp is the most physiologically relevant isoenzyme for the FBP reaction. Expression of glpX from a multicopy plasmid complemented the fbp-deletion phenotype"
     references "PMID:10986273"
-    subtype "NA"
   ]
   edge [
     source 55
     target 62
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20820,19 +20070,19 @@ graph [
     source 55
     target 1260
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "fructose-1,6 biphosphate phosphatase activity reported, though this is not specific to the C1-phosphate, like fbp,gplx, and pther FBP-Phosphatases                                                                                                                                                                                                                                                                                                                                                                  "
     references "PMID: 16990279"
-    subtype "NA"
   ]
   edge [
     source 55
     target 1261
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "this haloacid dehalogenase (HAD)-like hydrolase was reported to have enzymatc activity for the conversion of FBP to F6P"
     references "PMID: 16990279"
-    subtype "NA"
   ]
   edge [
     source 56
@@ -20848,7 +20098,7 @@ graph [
     target 56
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20875,7 +20125,7 @@ graph [
     target 59
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20893,7 +20143,7 @@ graph [
     target 61
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20902,7 +20152,7 @@ graph [
     target 65
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20911,7 +20161,7 @@ graph [
     target 67
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20929,7 +20179,7 @@ graph [
     target 64
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20947,7 +20197,7 @@ graph [
     target 66
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20956,7 +20206,7 @@ graph [
     target 70
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -20974,7 +20224,7 @@ graph [
     target 69
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -20983,7 +20233,7 @@ graph [
     target 73
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21001,7 +20251,7 @@ graph [
     target 72
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21010,7 +20260,7 @@ graph [
     target 75
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21028,7 +20278,7 @@ graph [
     target 73
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21037,7 +20287,7 @@ graph [
     target 80
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21064,7 +20314,7 @@ graph [
     target 78
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21073,7 +20323,7 @@ graph [
     target 79
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21082,7 +20332,7 @@ graph [
     target 83
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21100,7 +20350,7 @@ graph [
     target 82
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21108,17 +20358,17 @@ graph [
     source 84
     target 86
     weight NAN
-    type "inactive_catalysis"
+    type "catalysis"
+    subtype "inactive"
     notes "this 2-aceto-2-hydroxybutanoate synthase isozyme is known to be inactive in canonical K12 strains due to a frameshift mutation. (see Ecocyc page for ilvG and references thereof)"
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 84
     target 89
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21127,7 +20377,7 @@ graph [
     target 92
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21145,7 +20395,7 @@ graph [
     target 85
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21172,7 +20422,7 @@ graph [
     target 87
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21181,7 +20431,7 @@ graph [
     target 88
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21208,7 +20458,7 @@ graph [
     target 90
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21217,7 +20467,7 @@ graph [
     target 91
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21226,7 +20476,7 @@ graph [
     target 95
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21244,7 +20494,7 @@ graph [
     target 94
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21253,7 +20503,7 @@ graph [
     target 92
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21261,17 +20511,17 @@ graph [
     source 96
     target 86
     weight NAN
-    type "inactive_catalysis"
+    type "catalysis"
+    subtype "inactive"
     notes "this 2-aceto-2-hydroxybutanoate synthase isozyme is known to be inactive in canonical K12 strains due to a frameshift mutation. (see Ecocyc page for ilvG and references thereof)"
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 96
     target 89
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21280,7 +20530,7 @@ graph [
     target 99
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21298,7 +20548,7 @@ graph [
     target 98
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21307,7 +20557,7 @@ graph [
     target 101
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21325,45 +20575,45 @@ graph [
     target 105
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes NAN
     references NAN
-    subtype "NA"
   ]
   edge [
     source 102
     target 107
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "Tdce was identified as having both 2-oxobutanoate formate-lyase and pyruvate formate-lyase activities and is activated by pflA. Expression from a plasmid could partially complement growth defects under anaerobic growth in a pflA mutant"
     references "PMID:9484901;PMID:9657990"
-    subtype "NA"
   ]
   edge [
     source 102
     target 109
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "from Ecocyc: GrcA is a small (14 kDa) glycyl radical enzyme (GRE) that can restore activity of oxygen-damaged pyruvate formate-lyase (PFL). "
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 102
     target 1264
     weight NAN
-    type "putative_gpr"
+    type "putative_association"
+    subtype NAN
     notes "PflD was identified by sequence similarity as a homolog of pyruvate formate-lyase in PMID:7773398. However, its role as a PFL remains putative. Additionally, in PMID:14673546, pflA and pflB knockout suppressed almost entirely PFL activity.                                                                                                                                                                                                                                                                     "
     references "PMID:7773398;PMID:14673546"
-    subtype "NA"
   ]
   edge [
     source 102
     target 1265
     weight NAN
-    type "putative_gpr"
+    type "putative_association"
+    subtype NAN
     notes "PflC was identified by sequence similarity as a homolog of pyruvate formate-lyase activating enzyme in PMID:7773398. However, its role as a PFL remains putative. Additionally, in PMID:14673546, pflA and pflB knockout suppressed almost entirely PFL activity.                                                                                                                                                                                                                                                   "
     references "PMID:7773398"
-    subtype "NA"
   ]
   edge [
     source 103
@@ -21379,7 +20629,7 @@ graph [
     target 103
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21388,18 +20638,18 @@ graph [
     target 104
     weight "NA"
     type "protein_modification"
+    subtype "NA"
     notes ""
     references ""
-    subtype "NA"
   ]
   edge [
     source 105
     target 1263
     weight NAN
     type "protein_modification_requirement"
+    subtype NAN
     notes "pyruvate formate-lyase activating enzyme (PflA, PFL-AE) activates pyruvate formate-lyase by generating an essential glycyl radical within the enzyme (source: EcoCyc page for pflA). pyruvate formate-lyase activating enzyme 2 (pflC) is a putative homolog of pflA                                                                                                                                                                                                                                                "
     references NAN
-    subtype "NA"
   ]
   edge [
     source 106
@@ -21415,18 +20665,18 @@ graph [
     target 106
     weight NAN
     type "protein_modification"
+    subtype NAN
     notes "Tdce was identified as having both 2-oxobutanoate formate-lyase and pyruvate formate-lyase activities and is activated by pflA. Expression from a plasmid could partially complement growth defects under anaerobic growth in a pflA mutant"
     references "PMID:9484901;PMID:9657991"
-    subtype "NA"
   ]
   edge [
     source 107
     target 1263
     weight NAN
     type "protein_modification_requirement"
+    subtype NAN
     notes "pyruvate formate-lyase activating enzyme (PflA, PFL-AE) activates pyruvate formate-lyase by generating an essential glycyl radical within the enzyme (source: EcoCyc page for pflA)                                                                                                                                                                                                                                                                                                                                 "
     references NAN
-    subtype "NA"
   ]
   edge [
     source 108
@@ -21442,34 +20692,34 @@ graph [
     target 108
     weight 1.0
     type "subunit_composition"
+    subtype "requirement"
     notes NAN
     references NAN
-    subtype "NA"
   ]
   edge [
     source 109
     target 105
     weight 1.0
     type "subunit_composition"
+    subtype "requirement"
     notes NAN
     references NAN
-    subtype "NA"
   ]
   edge [
     source 109
     target 1263
     weight NAN
     type "protein_modification_requirement"
+    subtype NAN
     notes NAN
     references NAN
-    subtype "NA"
   ]
   edge [
     source 110
     target 113
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21496,7 +20746,7 @@ graph [
     target 111
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21505,7 +20755,7 @@ graph [
     target 112
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21514,7 +20764,7 @@ graph [
     target 119
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21559,7 +20809,7 @@ graph [
     target 115
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21568,7 +20818,7 @@ graph [
     target 116
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21577,7 +20827,7 @@ graph [
     target 117
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21586,7 +20836,7 @@ graph [
     target 118
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21595,7 +20845,7 @@ graph [
     target 112
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21604,7 +20854,7 @@ graph [
     target 123
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21613,7 +20863,7 @@ graph [
     target 125
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21631,7 +20881,7 @@ graph [
     target 122
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21649,7 +20899,7 @@ graph [
     target 124
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21658,7 +20908,7 @@ graph [
     target 128
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21667,7 +20917,7 @@ graph [
     target 130
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21685,7 +20935,7 @@ graph [
     target 127
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21703,7 +20953,7 @@ graph [
     target 129
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21712,7 +20962,7 @@ graph [
     target 133
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21730,7 +20980,7 @@ graph [
     target 132
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21739,7 +20989,7 @@ graph [
     target 135
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21756,17 +21006,17 @@ graph [
     source 136
     target 137
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "purT is a phosphoribosylglycinamide (GAR) transformylase, but possesses some acetate kinase activity. Reported activity as an acetate kinase is significantly lower compared to turnovers reported in BRENDA for the main acetate kinase ackA                                                                                                                                                                                                                                                                       "
     references "PMID:8117714"
-    subtype "NA"
   ]
   edge [
     source 136
     target 138
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21774,10 +21024,10 @@ graph [
     source 136
     target 1266
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "tcdD is a proprionate kinase with acetate kinase secondary activity. In ackA (the primary acetate kinase) KO strains, overexpression of tdcD from a plasmid partially restore growth rate.                                                                                                                                                                                                                                                                                                                          "
     references "PMID:9484901"
-    subtype "NA"
   ]
   edge [
     source 137
@@ -21802,7 +21052,7 @@ graph [
     target 141
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21811,7 +21061,7 @@ graph [
     target 73
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21829,7 +21079,7 @@ graph [
     target 140
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21838,7 +21088,7 @@ graph [
     target 144
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21856,7 +21106,7 @@ graph [
     target 143
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21865,7 +21115,7 @@ graph [
     target 147
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21874,7 +21124,7 @@ graph [
     target 149
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21892,7 +21142,7 @@ graph [
     target 146
     weight 10
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21910,7 +21160,7 @@ graph [
     target 148
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21919,7 +21169,7 @@ graph [
     target 152
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21928,7 +21178,7 @@ graph [
     target 154
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21946,7 +21196,7 @@ graph [
     target 151
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21964,7 +21214,7 @@ graph [
     target 153
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -21973,7 +21223,7 @@ graph [
     target 156
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -21991,7 +21241,7 @@ graph [
     target 159
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22009,7 +21259,7 @@ graph [
     target 158
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22018,7 +21268,7 @@ graph [
     target 162
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22036,7 +21286,7 @@ graph [
     target 161
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22045,7 +21295,7 @@ graph [
     target 165
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22053,10 +21303,10 @@ graph [
     source 163
     target 167
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "kduI has been shown to have PGI activity (PMID: 32179131) and potentially support pgi in vivo. However, pgi mutants are unable to grow on glucose as a sole carbon source (PMID: 16046082)"
     references "PMID:32179131;PMID:16046082"
-    subtype "NA"
   ]
   edge [
     source 164
@@ -22072,7 +21322,7 @@ graph [
     target 164
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22090,7 +21340,7 @@ graph [
     target 166
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22099,7 +21349,7 @@ graph [
     target 169
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22117,7 +21367,7 @@ graph [
     target 171
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22135,7 +21385,7 @@ graph [
     target 173
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22153,7 +21403,7 @@ graph [
     target 176
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22171,7 +21421,7 @@ graph [
     target 175
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22179,17 +21429,17 @@ graph [
     source 177
     target 178
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "DmlA is a D-malate dehydrogenase that is essential for aerobic growth on D-malate as the sole carbon source and its expression appears induced by malate(EcoCyc). DmlA was shown to catalyse oxidative decarboxylation of 3-isopropylmalate (IPMD), and chromosomal expression was shown to rescue growth in a leucin-auxotroph leuB deletion strain (PMID: 25160617)"
     references "PMID:25160617"
-    subtype "NA"
   ]
   edge [
     source 177
     target 180
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22216,7 +21466,7 @@ graph [
     target 179
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22225,7 +21475,7 @@ graph [
     target 183
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22243,7 +21493,7 @@ graph [
     target 182
     weight 8
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22252,7 +21502,7 @@ graph [
     target 185
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22261,7 +21511,7 @@ graph [
     target 187
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22288,7 +21538,7 @@ graph [
     target 186
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22297,7 +21547,7 @@ graph [
     target 190
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22315,7 +21565,7 @@ graph [
     target 189
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22323,17 +21573,17 @@ graph [
     source 191
     target 193
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "Transketolase activity in E. coli is known to be carried by two isozymes, tktA and tktB. Experimental evidence suggests tktB to be responsible for only minor transketolase activity (PMID: 8396116), This is further supported by large scale fitness screenings (PMID: 29769716), where tktA mutants show more significant fitness defects than tktB ones"
     references "PMID:8396116;PMID:29769716"
-    subtype "NA"
   ]
   edge [
     source 191
     target 195
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22351,7 +21601,7 @@ graph [
     target 192
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22369,7 +21619,7 @@ graph [
     target 194
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22378,7 +21628,7 @@ graph [
     target 201
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22404,7 +21654,7 @@ graph [
     target 197
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22422,7 +21672,7 @@ graph [
     target 199
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22431,7 +21681,7 @@ graph [
     target 198
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22440,7 +21690,7 @@ graph [
     target 200
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22449,7 +21699,7 @@ graph [
     target 26
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22458,7 +21708,7 @@ graph [
     target 204
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22476,7 +21726,7 @@ graph [
     target 203
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22485,7 +21735,7 @@ graph [
     target 201
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22502,7 +21752,7 @@ graph [
     target 201
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22519,7 +21769,7 @@ graph [
     target 209
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22537,7 +21787,7 @@ graph [
     target 208
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22546,7 +21796,7 @@ graph [
     target 95
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22555,7 +21805,7 @@ graph [
     target 80
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22564,7 +21814,7 @@ graph [
     target 214
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22582,7 +21832,7 @@ graph [
     target 213
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22590,26 +21840,26 @@ graph [
     source 215
     target 216
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "fumD and fumE are enzymes with fumarase activity identified in a  large-scale metabolomics screen for enzymatic activities of uncharacterized proteins in E. coli. While their activity was confirmed in vitro, a triple fumABC mutant was reported not to growth on acetate"
     references "PMID:27941785;doi.org/10.1101/2020.08.04.232652"
-    subtype "NA"
   ]
   edge [
     source 215
     target 217
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "fumD and fumE are enzymes with fumarase activity identified in a  large-scale metabolomics screen for enzymatic activities of uncharacterized proteins in E. coli. While their activity was confirmed in vitro, a triple fumABC mutant was reported not to growth on acetate"
     references "PMID:27941785;doi.org/10.1101/2020.08.04.232653"
-    subtype "NA"
   ]
   edge [
     source 215
     target 219
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22617,19 +21867,19 @@ graph [
     source 215
     target 221
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "fumarase B is mainly known to be active under anaerobic coditions"
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 215
     target 223
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "fumC is one the three well-characterised e.coli fumarases, but is mainly active under oxydative stress conditions. In addition, fumarase activity in a delta_fumC mutant was reported to be 90% of that of the wild-type"
     references "https://doi.org/10.1101/2020.08.04.232652"
-    subtype "NA"
   ]
   edge [
     source 216
@@ -22663,7 +21913,7 @@ graph [
     target 218
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22681,7 +21931,7 @@ graph [
     target 220
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22699,7 +21949,7 @@ graph [
     target 222
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22708,7 +21958,7 @@ graph [
     target 226
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22726,7 +21976,7 @@ graph [
     target 225
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22735,7 +21985,7 @@ graph [
     target 226
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22744,16 +21994,16 @@ graph [
     target 1296
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "manual curation because the carboxylase reaction does not have a specific reaction ID in Ecocyc"
     references NAN
-    subtype "NA"
   ]
   edge [
     source 229
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22762,7 +22012,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22787,7 +22037,7 @@ graph [
     target 230
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22805,7 +22055,7 @@ graph [
     target 232
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22814,7 +22064,7 @@ graph [
     target 236
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22832,7 +22082,7 @@ graph [
     target 235
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22841,7 +22091,7 @@ graph [
     target 238
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22859,7 +22109,7 @@ graph [
     target 241
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22877,7 +22127,7 @@ graph [
     target 240
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22886,7 +22136,7 @@ graph [
     target 250
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -22904,7 +22154,7 @@ graph [
     target 243
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22922,7 +22172,7 @@ graph [
     target 245
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22958,7 +22208,7 @@ graph [
     target 244
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22967,7 +22217,7 @@ graph [
     target 246
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22976,7 +22226,7 @@ graph [
     target 248
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22985,7 +22235,7 @@ graph [
     target 249
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -22994,7 +22244,7 @@ graph [
     target 253
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23012,7 +22262,7 @@ graph [
     target 252
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23021,7 +22271,7 @@ graph [
     target 256
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23039,7 +22289,7 @@ graph [
     target 255
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23047,26 +22297,26 @@ graph [
     source 257
     target 1286
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "ybiV is a type II Holoacid dehalogenase (HAD) with some reported activity on glycerol-3-phosphate, though this activity was low when compared to other substrates.                                                                                                                                                                                                                                                                                                                                                  "
     references "PMID:16990279"
-    subtype "NA"
   ]
   edge [
     source 257
     target 1287
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "hexpA shows glycerol-3-phosphe phosphatase activity in crude E.coli extract"
     references "PMID:22353596"
-    subtype "NA"
   ]
   edge [
     source 258
     target 261
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23093,7 +22343,7 @@ graph [
     target 259
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23102,7 +22352,7 @@ graph [
     target 260
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23111,7 +22361,7 @@ graph [
     target 264
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23129,7 +22379,7 @@ graph [
     target 263
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23138,7 +22388,7 @@ graph [
     target 75
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23147,7 +22397,7 @@ graph [
     target 268
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23165,7 +22415,7 @@ graph [
     target 267
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23174,7 +22424,7 @@ graph [
     target 271
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23192,7 +22442,7 @@ graph [
     target 270
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23201,7 +22451,7 @@ graph [
     target 274
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23219,7 +22469,7 @@ graph [
     target 273
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23227,17 +22477,17 @@ graph [
     source 275
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941722"
-    subtype "NA"
   ]
   edge [
     source 275
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23246,7 +22496,7 @@ graph [
     target 277
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23264,7 +22514,7 @@ graph [
     target 1
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23272,17 +22522,17 @@ graph [
     source 279
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941718"
-    subtype "NA"
   ]
   edge [
     source 279
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23290,17 +22540,17 @@ graph [
     source 280
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941719"
-    subtype "NA"
   ]
   edge [
     source 280
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23309,7 +22559,7 @@ graph [
     target 283
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23327,7 +22577,7 @@ graph [
     target 282
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23336,7 +22586,7 @@ graph [
     target 286
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23354,7 +22604,7 @@ graph [
     target 285
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23363,7 +22613,7 @@ graph [
     target 289
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23372,7 +22622,7 @@ graph [
     target 291
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23390,7 +22640,7 @@ graph [
     target 288
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23408,7 +22658,7 @@ graph [
     target 290
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23417,7 +22667,7 @@ graph [
     target 297
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23435,7 +22685,7 @@ graph [
     target 293
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23453,7 +22703,7 @@ graph [
     target 295
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23462,7 +22712,7 @@ graph [
     target 294
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23470,17 +22720,17 @@ graph [
     source 297
     target 296
     weight 1.0
-    type "accessory_component"
+    type "subunit_composition"
+    subtype "accessory"
     notes "pyrI encodes a regulatory subunit of the ASPCT complex, which contains binding sites for the allosteric effectors CTP and ATP but has no catalytic activity (source: Ecocyc). Since the gene is not essential, but the gene encoding the catalytic subunit is, the regulatory subunit is understood to be accessory"
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 298
     target 299
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23505,7 +22755,7 @@ graph [
     target 302
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23523,7 +22773,7 @@ graph [
     target 301
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23532,7 +22782,7 @@ graph [
     target 305
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23550,7 +22800,7 @@ graph [
     target 304
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23559,7 +22809,7 @@ graph [
     target 308
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23577,7 +22827,7 @@ graph [
     target 307
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23586,7 +22836,7 @@ graph [
     target 311
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23595,7 +22845,7 @@ graph [
     target 313
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23603,73 +22853,73 @@ graph [
     source 309
     target 426
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "astC can carry SDPTA activity and can support production of SDAP in strain with argD and serC simultaneous knockouts. However, its SDPA activity is not sufficent to also sustain lysine production in the the same mutant.                                                                                                                                                                                                                                                                                         "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 54
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 424
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 648
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 73
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 1268
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 1269
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 309
     target 141
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the aminotransferases aspC, gabT, hisC, ilvE, patA, puuE, tyrB were all reported to have promiscuous activity as SDPTA. When individually  expressed from a plasmid, each of these transaminase could rescue growth in a triple argD, serC, astC KO mutant, lacking the three main SDP-Transaminases.                                                                                                                                                                                                               "
     references "PMID:25243376"
-    subtype "NA"
   ]
   edge [
     source 310
@@ -23685,7 +22935,7 @@ graph [
     target 310
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23703,7 +22953,7 @@ graph [
     target 312
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23712,7 +22962,7 @@ graph [
     target 315
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23730,7 +22980,7 @@ graph [
     target 318
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23748,7 +22998,7 @@ graph [
     target 317
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23757,7 +23007,7 @@ graph [
     target 125
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23766,7 +23016,7 @@ graph [
     target 322
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23784,7 +23034,7 @@ graph [
     target 321
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23792,17 +23042,17 @@ graph [
     source 323
     target 1
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "adenylate kinase main catalytic function is bigg:ADK1, but possesses nucleoside diphosphate kinase ( bigg:NDPK(n) ) catalytic activity                                                                                                                                                                                                                                                                                                                                                                              "
     references "PMID:8650159;PMID:15941717"
-    subtype "NA"
   ]
   edge [
     source 323
     target 3
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23811,7 +23061,7 @@ graph [
     target 326
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23837,7 +23087,7 @@ graph [
     target 325
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23846,7 +23096,7 @@ graph [
     target 329
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23855,7 +23105,7 @@ graph [
     target 331
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23864,7 +23114,7 @@ graph [
     target 333
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23882,7 +23132,7 @@ graph [
     target 328
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23900,7 +23150,7 @@ graph [
     target 330
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23918,7 +23168,7 @@ graph [
     target 332
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23927,7 +23177,7 @@ graph [
     target 335
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23936,7 +23186,7 @@ graph [
     target 336
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23963,7 +23213,7 @@ graph [
     target 339
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -23981,7 +23231,7 @@ graph [
     target 338
     weight 8
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -23990,7 +23240,7 @@ graph [
     target 342
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24008,7 +23258,7 @@ graph [
     target 341
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24017,7 +23267,7 @@ graph [
     target 345
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24035,7 +23285,7 @@ graph [
     target 344
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24044,7 +23294,7 @@ graph [
     target 348
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24062,7 +23312,7 @@ graph [
     target 347
     weight 10
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24078,7 +23328,7 @@ graph [
     target 355
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24096,7 +23346,7 @@ graph [
     target 351
     weight 12
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24114,7 +23364,7 @@ graph [
     target 353
     weight 24
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24123,7 +23373,7 @@ graph [
     target 352
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24132,7 +23382,7 @@ graph [
     target 354
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24141,7 +23391,7 @@ graph [
     target 244
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24150,7 +23400,7 @@ graph [
     target 358
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24168,7 +23418,7 @@ graph [
     target 357
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24177,7 +23427,7 @@ graph [
     target 361
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24195,7 +23445,7 @@ graph [
     target 360
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24204,7 +23454,7 @@ graph [
     target 364
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24222,7 +23472,7 @@ graph [
     target 363
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24231,7 +23481,7 @@ graph [
     target 367
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24249,7 +23499,7 @@ graph [
     target 366
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24258,7 +23508,7 @@ graph [
     target 370
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24276,7 +23526,7 @@ graph [
     target 369
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24285,7 +23535,7 @@ graph [
     target 372
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24303,7 +23553,7 @@ graph [
     target 289
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24312,7 +23562,7 @@ graph [
     target 375
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24321,7 +23571,7 @@ graph [
     target 377
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24339,7 +23589,7 @@ graph [
     target 374
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24357,7 +23607,7 @@ graph [
     target 376
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24366,7 +23616,7 @@ graph [
     target 379
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24384,7 +23634,7 @@ graph [
     target 382
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24402,7 +23652,7 @@ graph [
     target 381
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24411,7 +23661,7 @@ graph [
     target 385
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24429,7 +23679,7 @@ graph [
     target 384
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24437,17 +23687,17 @@ graph [
     source 386
     target 388
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "TBC"
     references NAN
-    subtype "NA"
   ]
   edge [
     source 386
     target 390
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24465,7 +23715,7 @@ graph [
     target 387
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24483,7 +23733,7 @@ graph [
     target 389
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24492,7 +23742,7 @@ graph [
     target 392
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24510,7 +23760,7 @@ graph [
     target 395
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24536,7 +23786,7 @@ graph [
     target 394
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24545,7 +23795,7 @@ graph [
     target 398
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24554,7 +23804,7 @@ graph [
     target 400
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24563,7 +23813,7 @@ graph [
     target 402
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24581,7 +23831,7 @@ graph [
     target 397
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24599,7 +23849,7 @@ graph [
     target 399
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24617,7 +23867,7 @@ graph [
     target 401
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24626,7 +23876,7 @@ graph [
     target 405
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24644,7 +23894,7 @@ graph [
     target 404
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24653,7 +23903,7 @@ graph [
     target 408
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24671,7 +23921,7 @@ graph [
     target 407
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24680,7 +23930,7 @@ graph [
     target 411
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24689,7 +23939,7 @@ graph [
     target 413
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24707,7 +23957,7 @@ graph [
     target 410
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24725,7 +23975,7 @@ graph [
     target 412
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24734,7 +23984,7 @@ graph [
     target 415
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24751,26 +24001,26 @@ graph [
     source 416
     target 73
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "branched-chain-amino-acid aminotransferase possesses broad substrate specificity, but its activity on pheylalanine  and tyrosine was reported to be very low                                                                                                                                                                                                                                                                                                                                                        "
     references "PMID:378964"
-    subtype "NA"
   ]
   edge [
     source 416
     target 54
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "Aspartate aminotransferase (aspC) possesses considerably lower activity on aromatic aminoacids than the aromatic aminotranferase( tyrB)"
     references "PMID:8218300"
-    subtype "NA"
   ]
   edge [
     source 416
     target 141
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24779,7 +24029,7 @@ graph [
     target 123
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24788,7 +24038,7 @@ graph [
     target 372
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24797,7 +24047,7 @@ graph [
     target 420
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24806,7 +24056,7 @@ graph [
     target 421
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24833,7 +24083,7 @@ graph [
     target 424
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24841,17 +24091,17 @@ graph [
     source 422
     target 426
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "astC can carry ACOAT activity. However a delta_astC mutant showes no growth defects, while a delta_argD mutatent showed slower growth and and grew to only 45% of the wild-type final cell density (both recovered by addition of arginine). This suggest a secondary catalysis role for astC in this reacrion"
     references "PMID:25243383"
-    subtype "NA"
   ]
   edge [
     source 422
     target 313
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24859,10 +24109,10 @@ graph [
     source 422
     target 1269
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "puuE was identified to have some, albeit small, promiscuous activity as an ACOAT. Note, however, that that a argD, astC, gabT mutatnt could not growth in minimal medium unless putrescine (which cannot be converted to ornithine or arginine) was supplemented to activate puuE expression                                                                                                                                                                                                                        "
     references "PMID:25243382"
-    subtype "NA"
   ]
   edge [
     source 423
@@ -24878,7 +24128,7 @@ graph [
     target 423
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24896,7 +24146,7 @@ graph [
     target 425
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24905,7 +24155,7 @@ graph [
     target 431
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24923,7 +24173,7 @@ graph [
     target 428
     weight 8
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24941,7 +24191,7 @@ graph [
     target 429
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24950,7 +24200,7 @@ graph [
     target 430
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -24959,7 +24209,7 @@ graph [
     target 433
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24977,7 +24227,7 @@ graph [
     target 435
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -24995,7 +24245,7 @@ graph [
     target 311
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25004,7 +24254,7 @@ graph [
     target 439
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25022,7 +24272,7 @@ graph [
     target 438
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25031,7 +24281,7 @@ graph [
     target 442
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25049,7 +24299,7 @@ graph [
     target 441
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25058,7 +24308,7 @@ graph [
     target 445
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25076,7 +24326,7 @@ graph [
     target 444
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25085,7 +24335,7 @@ graph [
     target 447
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25103,7 +24353,7 @@ graph [
     target 450
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25121,7 +24371,7 @@ graph [
     target 449
     weight 8
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25130,7 +24380,7 @@ graph [
     target 452
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25148,7 +24398,7 @@ graph [
     target 456
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25175,7 +24425,7 @@ graph [
     target 454
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25184,7 +24434,7 @@ graph [
     target 455
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25193,7 +24443,7 @@ graph [
     target 459
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25211,7 +24461,7 @@ graph [
     target 458
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25220,7 +24470,7 @@ graph [
     target 461
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25238,7 +24488,7 @@ graph [
     target 464
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25263,7 +24513,7 @@ graph [
     target 463
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25272,7 +24522,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25281,7 +24531,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25290,7 +24540,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25299,7 +24549,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25317,7 +24567,7 @@ graph [
     target 466
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25335,7 +24585,7 @@ graph [
     target 468
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25353,7 +24603,7 @@ graph [
     target 470
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25371,7 +24621,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25380,7 +24630,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25389,7 +24639,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25398,7 +24648,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25406,26 +24656,26 @@ graph [
     source 474
     target 30
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "phoA is a periplasmic alkaline phosphatase with broad specificity (Ecocyc). Since this is a periplasmic protein and  a serB deletion strain is known to be a serine auxotroph (e.g. PMID:17884825,PMID:36920032, and results from the large fitness screen in PMID: 29769716), this edge is assigned secondary catalysis role."
     references " PMID:17884825;PMID:36920032;PMID:29769716"
-    subtype "NA"
   ]
   edge [
     source 474
     target 476
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "aphA encodes a periplasmic phosphatase/phosphotransferase which was shown to have activity with various substrates, including activity for phosphoserine (PMID: 9011040). Since this is a periplasmic protein and  a serB deletion strain is known to be a serine auxotroph (e.g. PMID:17884825,PMID:36920032, and results from the large fitness screen in PMID: 29769716), this edge is assigned secondary catalysis role."
     references "PMID:9011040; PMID:17884825;PMID:36920032;PMID:29769716"
-    subtype "NA"
   ]
   edge [
     source 474
     target 477
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25433,28 +24683,28 @@ graph [
     source 474
     target 1299
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "overexpression of gph, hisB, and YtjC were shown to rescue serine auxotrophy in a serB deletion strain (PMID:17884825)"
     references "PMID:17884825"
-    subtype "NA"
   ]
   edge [
     source 474
     target 1300
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "overexpression of gph, hisB, and YtjC were shown to rescue serine auxotrophy in a serB deletion strain (PMID:17884825)"
     references "PMID:17884825"
-    subtype "NA"
   ]
   edge [
     source 474
     target 367
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "overexpression of gph, hisB, and YtjC were shown to rescue serine auxotrophy in a serB deletion strain (PMID:17884825)"
     references "PMID:17884825"
-    subtype "NA"
   ]
   edge [
     source 475
@@ -25470,7 +24720,7 @@ graph [
     target 475
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25488,7 +24738,7 @@ graph [
     target 480
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25506,7 +24756,7 @@ graph [
     target 479
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25515,7 +24765,7 @@ graph [
     target 482
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25524,7 +24774,7 @@ graph [
     target 483
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25533,7 +24783,7 @@ graph [
     target 484
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25568,17 +24818,17 @@ graph [
     source 485
     target 400
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes NAN
     references NAN
-    subtype "NA"
   ]
   edge [
     source 485
     target 402
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25586,17 +24836,17 @@ graph [
     source 486
     target 488
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "overexpression of malY from a plasmid was able to complement methionine auxotrophy in a metC auxotroph"
     references "PMID:7665481"
-    subtype "NA"
   ]
   edge [
     source 486
     target 490
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25614,7 +24864,7 @@ graph [
     target 487
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25632,7 +24882,7 @@ graph [
     target 489
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25641,7 +24891,7 @@ graph [
     target 493
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25659,7 +24909,7 @@ graph [
     target 492
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25668,7 +24918,7 @@ graph [
     target 499
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25677,7 +24927,7 @@ graph [
     target 501
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25722,7 +24972,7 @@ graph [
     target 495
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25731,7 +24981,7 @@ graph [
     target 496
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25740,7 +24990,7 @@ graph [
     target 497
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25749,7 +24999,7 @@ graph [
     target 498
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25767,7 +25017,7 @@ graph [
     target 500
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25776,7 +25026,7 @@ graph [
     target 496
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25785,7 +25035,7 @@ graph [
     target 497
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25794,7 +25044,7 @@ graph [
     target 495
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -25803,7 +25053,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25812,7 +25062,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25821,7 +25071,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25830,7 +25080,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25839,7 +25089,7 @@ graph [
     target 504
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25857,7 +25107,7 @@ graph [
     target 506
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25875,7 +25125,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25884,7 +25134,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25893,7 +25143,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25902,7 +25152,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25911,7 +25161,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25920,7 +25170,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25929,7 +25179,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25938,7 +25188,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25947,7 +25197,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25956,7 +25206,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25965,7 +25215,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25988,7 +25238,7 @@ graph [
     target 512
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -25997,7 +25247,7 @@ graph [
     target 513
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26024,7 +25274,7 @@ graph [
     target 517
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26051,7 +25301,7 @@ graph [
     target 515
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26060,7 +25310,7 @@ graph [
     target 516
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26069,7 +25319,7 @@ graph [
     target 195
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26077,17 +25327,17 @@ graph [
     source 518
     target 193
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "Transketolase activity in E. coli is known to be carried by two isozymes, tktA and tktB. Experimental evidence suggests tktB to be responsible for only minor transketolase activity (PMID: 8396116), This is further supported by large scale fitness screenings (PMID: 29769716), where tktA mutants show more significant fitness defects than tktB ones"
     references "PMID:8396116;PMID:29769717"
-    subtype "NA"
   ]
   edge [
     source 519
     target 534
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26105,7 +25355,7 @@ graph [
     target 520
     weight 10
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26123,7 +25373,7 @@ graph [
     target 522
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26141,7 +25391,7 @@ graph [
     target 521
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26150,7 +25400,7 @@ graph [
     target 523
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26159,7 +25409,7 @@ graph [
     target 524
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26195,7 +25445,7 @@ graph [
     target 528
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26222,7 +25472,7 @@ graph [
     target 531
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26231,7 +25481,7 @@ graph [
     target 526
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26240,7 +25490,7 @@ graph [
     target 527
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26249,7 +25499,7 @@ graph [
     target 529
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26258,7 +25508,7 @@ graph [
     target 530
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26267,7 +25517,7 @@ graph [
     target 532
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26276,7 +25526,7 @@ graph [
     target 525
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26285,7 +25535,7 @@ graph [
     target 533
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26293,10 +25543,10 @@ graph [
     source 534
     target 1270
     weight 1.0
-    type "accessory_component"
+    type "subunit_composition"
+    subtype "accessory"
     notes "atp codes for a non-essential ATP synthase accessory factor"
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 535
@@ -26310,7 +25560,7 @@ graph [
     target 538
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26328,7 +25578,7 @@ graph [
     target 537
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26337,7 +25587,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26346,7 +25596,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26355,7 +25605,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26364,7 +25614,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26373,7 +25623,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26382,7 +25632,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26391,7 +25641,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26400,7 +25650,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26409,7 +25659,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26418,7 +25668,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26427,7 +25677,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26436,7 +25686,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26445,7 +25695,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26454,7 +25704,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26463,7 +25713,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26472,7 +25722,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26481,7 +25731,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26490,7 +25740,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26499,7 +25749,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26508,7 +25758,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26517,16 +25767,16 @@ graph [
     target 1272
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "outer membrane porin lamB has a sugar-binding site for maltooligosaccharides and also has an affinity to glucose"
     references "PMID:31900563"
-    subtype "NA"
   ]
   edge [
     source 544
     target 484
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26535,7 +25785,7 @@ graph [
     target 482
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26544,7 +25794,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26553,7 +25803,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26562,7 +25812,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26571,7 +25821,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26579,17 +25829,17 @@ graph [
     source 546
     target 550
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "The relevance of  cytochrome bd-II under aerobic conditions is unclear"
     references NAN
-    subtype "NA"
   ]
   edge [
     source 546
     target 555
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26625,7 +25875,7 @@ graph [
     target 547
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26634,7 +25884,7 @@ graph [
     target 548
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26643,7 +25893,7 @@ graph [
     target 549
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26688,7 +25938,7 @@ graph [
     target 551
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26697,7 +25947,7 @@ graph [
     target 552
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26706,7 +25956,7 @@ graph [
     target 553
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26715,7 +25965,7 @@ graph [
     target 554
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26723,17 +25973,17 @@ graph [
     source 556
     target 550
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "The relevance of  cytochrome bd-II under aerobic conditions is unclear"
     references NAN
-    subtype "NA"
   ]
   edge [
     source 556
     target 555
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26749,7 +25999,7 @@ graph [
     target 483
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26758,7 +26008,7 @@ graph [
     target 560
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26767,9 +26017,9 @@ graph [
     target 1301
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "MetE was shown to utilize only the triglutamate form of folate, which is technically a different reaction on than bigg:METS (see ECOLI:HOMOCYSMET-RXN on Ecocyc). Since this reaction is not present in iML1515, we add a catalytic edge to metE to avoid creating an extra reaction, which would result in iCH360 no longer being a perfect submodel of iML1515."
     references NAN
-    subtype "NA"
   ]
   edge [
     source 560
@@ -26785,7 +26035,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26794,7 +26044,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26803,7 +26053,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26812,7 +26062,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26821,7 +26071,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26830,7 +26080,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26839,7 +26089,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26848,7 +26098,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26857,7 +26107,7 @@ graph [
     target 565
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26875,7 +26125,7 @@ graph [
     target 564
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26884,7 +26134,7 @@ graph [
     target 568
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26902,7 +26152,7 @@ graph [
     target 567
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -26911,7 +26161,7 @@ graph [
     target 568
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26920,7 +26170,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26929,7 +26179,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26938,7 +26188,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26947,7 +26197,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26956,7 +26206,7 @@ graph [
     target 573
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26965,7 +26215,7 @@ graph [
     target 574
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -26983,7 +26233,7 @@ graph [
     target 572
     weight 5
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27001,7 +26251,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27010,7 +26260,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27019,7 +26269,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27028,7 +26278,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27037,7 +26287,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27046,7 +26296,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27055,7 +26305,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27064,7 +26314,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27073,7 +26323,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27082,7 +26332,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27091,7 +26341,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27100,7 +26350,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27109,7 +26359,7 @@ graph [
     target 579
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27118,7 +26368,7 @@ graph [
     target 580
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27127,7 +26377,7 @@ graph [
     target 581
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27171,7 +26421,7 @@ graph [
     target 587
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27197,7 +26447,7 @@ graph [
     target 583
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27215,7 +26465,7 @@ graph [
     target 585
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27224,7 +26474,7 @@ graph [
     target 584
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27233,7 +26483,7 @@ graph [
     target 586
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27242,7 +26492,7 @@ graph [
     target 587
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27259,7 +26509,7 @@ graph [
     target 484
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27268,7 +26518,7 @@ graph [
     target 592
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27293,7 +26543,7 @@ graph [
     target 591
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27302,7 +26552,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27311,7 +26561,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27320,7 +26570,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27329,7 +26579,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27338,7 +26588,7 @@ graph [
     target 598
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27346,28 +26596,28 @@ graph [
     source 594
     target 1276
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the D-allose ABC-type transporter was reporter to be promiscouous, albeit with low affinity, for ribose tranport                                                                                                                                                                                                                                                                                                                                                                                                    "
     references "PMID:9401019"
-    subtype "NA"
   ]
   edge [
     source 594
     target 1281
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "the periplasmic binding protein ytfQ was reported to bind arabinose, allose, Ribose and others, in addition to its primary substrate galactofuranose                                                                                                                                                                                                                                                                                                                                                                "
     references "PMID:19744923"
-    subtype "NA"
   ]
   edge [
     source 594
     target 1283
     weight NAN
     type "non_catalytic_requirement"
+    subtype NAN
     notes "ribsD encodes a pyranase converting between pyranose and furanose forms of D-Ribose and has been reported to be be important in utilisation of robose as a carbon source. ribsD mutant showed impaired fitness in growth on Ribose."
     references "PMID:29769716"
-    subtype "NA"
   ]
   edge [
     source 595
@@ -27401,7 +26651,7 @@ graph [
     target 595
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27410,7 +26660,7 @@ graph [
     target 596
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27419,7 +26669,7 @@ graph [
     target 597
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27428,7 +26678,7 @@ graph [
     target 600
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27437,7 +26687,7 @@ graph [
     target 601
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27464,7 +26714,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27473,7 +26723,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27482,7 +26732,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27491,7 +26741,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27500,7 +26750,7 @@ graph [
     target 605
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27525,7 +26775,7 @@ graph [
     target 604
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27534,7 +26784,7 @@ graph [
     target 608
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27559,7 +26809,7 @@ graph [
     target 607
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27568,7 +26818,7 @@ graph [
     target 613
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27604,7 +26854,7 @@ graph [
     target 610
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27613,7 +26863,7 @@ graph [
     target 611
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27622,7 +26872,7 @@ graph [
     target 612
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27631,7 +26881,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27640,7 +26890,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27649,7 +26899,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27658,7 +26908,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27667,7 +26917,7 @@ graph [
     target 616
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27685,7 +26935,7 @@ graph [
     target 619
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27703,7 +26953,7 @@ graph [
     target 618
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27712,7 +26962,7 @@ graph [
     target 622
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27721,7 +26971,7 @@ graph [
     target 623
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27739,7 +26989,7 @@ graph [
     target 621
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27756,17 +27006,17 @@ graph [
     source 624
     target 628
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "while the small subunit of the glutamate synthase can use ammonia as a nitrogen sorurce for the for the generation of L-glutamate from alpha-ketoglutarate, NH4 dependent activity has been reported to be significantly lower than the glutamine-dependent activity (GLUSy) suggesting promiscous, but not primary catalysis of the GLUDy reaction"
     references "PMID:770440"
-    subtype "NA"
   ]
   edge [
     source 624
     target 630
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27793,7 +27043,7 @@ graph [
     target 625
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27802,7 +27052,7 @@ graph [
     target 626
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27811,7 +27061,7 @@ graph [
     target 627
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27829,7 +27079,7 @@ graph [
     target 629
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -27838,7 +27088,7 @@ graph [
     target 632
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27847,7 +27097,7 @@ graph [
     target 633
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27856,7 +27106,7 @@ graph [
     target 634
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27865,7 +27115,7 @@ graph [
     target 635
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27909,26 +27159,26 @@ graph [
     source 636
     target 638
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "while encoding A  PTS Glucose-Glucoside transporter that can transport and phosphorilate glucose in the cytoplasm,  bglF is normally silent in ecoli                                                                                                                                                                                                                                                                                                                                                                "
     references "PMID:2199437;PMID:7781607"
-    subtype "NA"
   ]
   edge [
     source 636
     target 642
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "The the mannose PTS permease can transport sugar. However, while a ptsG mutant shows significant fitness decrease growing on glucose, a manXYZ mutant shows minor effects, suggesting the role of this enzyme as secondary with respect to the Glucose PTS-mediated transport."
     references "PMID:22923596"
-    subtype "NA"
   ]
   edge [
     source 636
     target 645
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -27937,18 +27187,18 @@ graph [
     target 1285
     weight NAN
     type "non_catalytic_requirement"
+    subtype NAN
     notes "PTS Enzyme I, together with phosphocarrying protein Hpr, are involved in the suger-unspecific part of the PTS transport system, collectively transfering a phosphoryl group from PEP to the sugar-specxific PTS enzymes                                                                                                                                                                                                                                                                                             "
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 636
     target 907
     weight NAN
     type "non_catalytic_requirement"
+    subtype NAN
     notes "PTS Enzyme I, together with phosphocarrying protein Hpr, are involved in the suger-unspecific part of the PTS transport system, collectively transfering a phosphoryl group from PEP to the sugar-specxific PTS enzymes                                                                                                                                                                                                                                                                                             "
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 637
@@ -27964,7 +27214,7 @@ graph [
     target 637
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28000,7 +27250,7 @@ graph [
     target 639
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28009,7 +27259,7 @@ graph [
     target 640
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28018,7 +27268,7 @@ graph [
     target 641
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28058,7 +27308,7 @@ graph [
     target 643
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28067,7 +27317,7 @@ graph [
     target 644
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28076,7 +27326,7 @@ graph [
     target 648
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28094,7 +27344,7 @@ graph [
     target 647
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28103,7 +27353,7 @@ graph [
     target 651
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28121,7 +27371,7 @@ graph [
     target 650
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28130,7 +27380,7 @@ graph [
     target 653
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28139,7 +27389,7 @@ graph [
     target 654
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28148,7 +27398,7 @@ graph [
     target 656
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28184,7 +27434,7 @@ graph [
     target 655
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28192,17 +27442,17 @@ graph [
     source 657
     target 659
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "Catabolic threonine dehydratase (TdcB) carries out the first step in threonine degradation,  but its role in isoleucine biosynthesis is thought to be minor due to his limited expression profile (ecocyc). An ilvA deletion strain was reported to be auxotroph for isoleucine in PMID:37312226"
     references "PMID:37312226"
-    subtype "NA"
   ]
   edge [
     source 657
     target 661
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28210,10 +27460,10 @@ graph [
     source 657
     target 1297
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "serine deaminase sdaA was reported to have promiscous, albeit low, activity as a threonine deaminase"
     references "PMID:15155761"
-    subtype "NA"
   ]
   edge [
     source 658
@@ -28229,7 +27479,7 @@ graph [
     target 658
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28247,7 +27497,7 @@ graph [
     target 660
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28256,7 +27506,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28265,7 +27515,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28274,7 +27524,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28283,7 +27533,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28292,7 +27542,7 @@ graph [
     target 201
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28308,17 +27558,17 @@ graph [
     source 664
     target 666
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "overexpression of flM from a plasmid was shown to rescue severe growth defects in a folA mutant"
     references "PMID:14617668"
-    subtype "NA"
   ]
   edge [
     source 664
     target 667
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28336,7 +27586,7 @@ graph [
     target 665
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28354,7 +27604,7 @@ graph [
     target 135
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28363,16 +27613,16 @@ graph [
     target 54
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "Aspartate aminotransferase (aspC) was shown considerably lower activity on aromatic aminoacids than the aromatic aminotranferase tyrB in vitro."
     references "PMID:8218300"
-    subtype "NA"
   ]
   edge [
     source 669
     target 141
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28380,17 +27630,17 @@ graph [
     source 669
     target 73
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "branched-chain-amino-acid aminotransferase possesses broad substrate specificity, but its activity on pheylalanine  and tyrosine was reported to be very low                                                                                                                                                                                                                                                                                                                                                        "
     references "PMID:378964"
-    subtype "NA"
   ]
   edge [
     source 670
     target 671
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28399,7 +27649,7 @@ graph [
     target 672
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28426,7 +27676,7 @@ graph [
     target 628
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28442,7 +27692,7 @@ graph [
     target 678
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28469,7 +27719,7 @@ graph [
     target 676
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28478,7 +27728,7 @@ graph [
     target 677
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28487,7 +27737,7 @@ graph [
     target 683
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28505,7 +27755,7 @@ graph [
     target 680
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28523,7 +27773,7 @@ graph [
     target 681
     weight 12
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28532,7 +27782,7 @@ graph [
     target 682
     weight 24
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28541,7 +27791,7 @@ graph [
     target 244
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28550,7 +27800,7 @@ graph [
     target 686
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28568,7 +27818,7 @@ graph [
     target 685
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28576,17 +27826,17 @@ graph [
     source 687
     target 688
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "nudL is a member of the Nudix hydrolase superfamily of nucleoside diphosphatases (Ecocyc). Activity as a dUTPdiphosphatase has been reported (PMID: 16766526). However, in vitro efficiency is significantly less than reported for the canonical DUTPase dut (cf. PMID: 16766526 and PMID: 8798636). Further, null mutations in nut were found to be lethal (PMID: 2830228), while little fitness changes were found in nudL mutatent (PMID: 29769716)"
     references "PMID:16766526;PMID:8798636;PMID:2830228;PMID:29769716"
-    subtype "NA"
   ]
   edge [
     source 687
     target 690
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28613,7 +27863,7 @@ graph [
     target 689
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28622,16 +27872,16 @@ graph [
     target 1298
     weight NAN
     type "catalysis"
+    subtype "primary"
     notes "rsgA is a member of the  a member of the HAS-GTPase (Hydrophobic Amino acid Substituted for catalytic glutamine GTPases) and possess GTPase activity, as well as some hydrolytic activity with other NTPs"
     references "PMID:12220175"
-    subtype "NA"
   ]
   edge [
     source 692
     target 573
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28640,7 +27890,7 @@ graph [
     target 574
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28649,7 +27899,7 @@ graph [
     target 695
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28667,7 +27917,7 @@ graph [
     target 694
     weight 12
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28676,7 +27926,7 @@ graph [
     target 698
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28694,7 +27944,7 @@ graph [
     target 697
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28703,7 +27953,7 @@ graph [
     target 702
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28730,7 +27980,7 @@ graph [
     target 700
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28739,7 +27989,7 @@ graph [
     target 701
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28748,7 +27998,7 @@ graph [
     target 705
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28766,7 +28016,7 @@ graph [
     target 704
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28774,17 +28024,17 @@ graph [
     source 706
     target 30
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "phoA is a periplasmic alkaline phosphatase with broad specificity, including histidinol-phosphate (see Ecocyc page for the gene). The other isoenzyme, hisB, is thought to have high substrate specificity for histididol-phosphate based on a large screen on phosphorilated substrates (PMID: 16990279), this edge is marked as secondary catalysis for HISTP."
     references "PMID:13906598;PMID:16990279"
-    subtype "NA"
   ]
   edge [
     source 706
     target 367
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28793,7 +28043,7 @@ graph [
     target 709
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28811,7 +28061,7 @@ graph [
     target 708
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28820,7 +28070,7 @@ graph [
     target 464
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28829,7 +28079,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28847,7 +28097,7 @@ graph [
     target 712
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28856,7 +28106,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28872,7 +28122,7 @@ graph [
     target 716
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28890,7 +28140,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28908,7 +28158,7 @@ graph [
     target 718
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28917,7 +28167,7 @@ graph [
     target 723
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28935,7 +28185,7 @@ graph [
     target 722
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -28944,7 +28194,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28953,7 +28203,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28962,7 +28212,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28971,7 +28221,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28980,7 +28230,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -28996,7 +28246,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29014,7 +28264,7 @@ graph [
     target 727
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29023,7 +28273,7 @@ graph [
     target 190
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29032,7 +28282,7 @@ graph [
     target 156
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29041,7 +28291,7 @@ graph [
     target 732
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29050,7 +28300,7 @@ graph [
     target 733
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29077,7 +28327,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29086,7 +28336,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29095,7 +28345,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29104,7 +28354,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29113,7 +28363,7 @@ graph [
     target 642
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29122,25 +28372,25 @@ graph [
     target 1285
     weight NAN
     type "non_catalytic_requirement"
+    subtype NAN
     notes "PTS Enzyme I, together with phosphocarrying protein Hpr, are involved in the suger-unspecific part of the PTS transport system, collectively transfering a phosphoryl group from PEP to the sugar-specxific PTS enzymes                                                                                                                                                                                                                                                                                             "
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 735
     target 907
     weight NAN
     type "non_catalytic_requirement"
+    subtype NAN
     notes "PTS Enzyme I, together with phosphocarrying protein Hpr, are involved in the suger-unspecific part of the PTS transport system, collectively transfering a phosphoryl group from PEP to the sugar-specxific PTS enzymes                                                                                                                                                                                                                                                                                             "
     references "ecocyc page for the gene"
-    subtype "NA"
   ]
   edge [
     source 736
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29149,7 +28399,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29158,7 +28408,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29167,7 +28417,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29176,7 +28426,7 @@ graph [
     target 739
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29184,10 +28434,10 @@ graph [
     source 737
     target 741
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "6-phosphofructokinase 2 (pfkB) encodes a phosphofructokinase with only relatively low PFK activity compared to the main isoform pfkA (PMID:149128 and other references on Ecocyc pages). In add"
     references NAN
-    subtype "NA"
   ]
   edge [
     source 738
@@ -29203,7 +28453,7 @@ graph [
     target 738
     weight 4
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29221,7 +28471,7 @@ graph [
     target 740
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29230,7 +28480,7 @@ graph [
     target 744
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29238,10 +28488,10 @@ graph [
     source 742
     target 1262
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "this cofactor-independent phosphoglycerate mutase, GpmM, possesses considerably lower activity than the dependent counterpart (GpmA)                                                                                                                                                                                                                                                                                                                                                                                "
     references "PMID:10437801;PMID:21187861"
-    subtype "NA"
   ]
   edge [
     source 743
@@ -29257,7 +28507,7 @@ graph [
     target 743
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29266,7 +28516,7 @@ graph [
     target 750
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29311,7 +28561,7 @@ graph [
     target 746
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29320,7 +28570,7 @@ graph [
     target 747
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29329,7 +28579,7 @@ graph [
     target 748
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29338,7 +28588,7 @@ graph [
     target 749
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29347,7 +28597,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29356,7 +28606,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29365,7 +28615,7 @@ graph [
     target 757
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29383,7 +28633,7 @@ graph [
     target 756
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29392,7 +28642,7 @@ graph [
     target 760
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29400,10 +28650,10 @@ graph [
     source 758
     target 762
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "There are two physically and genetically distinct ribose-5-phosphate isomerases present in E. coli. RpiA is constitutively expressed and rpiA mutants are robose auxotrophs. RpiB can also catalyse the reaction with similar efficiency, but its expression is only induced by growth on ribose (PMID:8576032)"
     references "PMID:8576032"
-    subtype "NA"
   ]
   edge [
     source 759
@@ -29419,7 +28669,7 @@ graph [
     target 759
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29437,7 +28687,7 @@ graph [
     target 761
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29446,7 +28696,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29455,7 +28705,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29464,7 +28714,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29482,7 +28732,7 @@ graph [
     target 765
     weight 6
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29491,7 +28741,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29500,7 +28750,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29509,7 +28759,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29518,7 +28768,7 @@ graph [
     target 467
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29527,7 +28777,7 @@ graph [
     target 469
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29536,7 +28786,7 @@ graph [
     target 471
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29545,7 +28795,7 @@ graph [
     target 472
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29554,7 +28804,7 @@ graph [
     target 771
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29572,7 +28822,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29581,7 +28831,7 @@ graph [
     target 775
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29590,7 +28840,7 @@ graph [
     target 777
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29608,7 +28858,7 @@ graph [
     target 774
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29626,7 +28876,7 @@ graph [
     target 776
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29635,7 +28885,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29644,7 +28894,7 @@ graph [
     target 785
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29689,7 +28939,7 @@ graph [
     target 780
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29698,7 +28948,7 @@ graph [
     target 781
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29707,7 +28957,7 @@ graph [
     target 782
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29716,7 +28966,7 @@ graph [
     target 783
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29725,7 +28975,7 @@ graph [
     target 784
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -29734,7 +28984,7 @@ graph [
     target 289
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29743,7 +28993,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29752,7 +29002,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29761,7 +29011,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29770,7 +29020,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29779,7 +29029,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29788,7 +29038,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29803,17 +29053,17 @@ graph [
     source 792
     target 231
     weight NAN
-    type "secondary_catalysis"
+    type "catalysis"
+    subtype "secondary"
     notes "fatty acid elongation in ecoli is catalysed by both fabB and fabF. However, fabF was reported to have remarkably higher activity in the elongation of pamitoleoyl-ACP, (C16:1) compared to fabB"
     references "PMID:7002930;PMID:7002930;PMID:19362649"
-    subtype "NA"
   ]
   edge [
     source 793
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29822,7 +29072,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29838,7 +29088,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29847,7 +29097,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29856,7 +29106,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29865,7 +29115,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29874,7 +29124,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29883,7 +29133,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29892,7 +29142,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29901,7 +29151,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29910,7 +29160,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29919,7 +29169,7 @@ graph [
     target 775
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29928,7 +29178,7 @@ graph [
     target 777
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29937,7 +29187,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29946,7 +29196,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29955,7 +29205,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29964,7 +29214,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29980,7 +29230,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -29989,7 +29239,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30005,7 +29255,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30014,7 +29264,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30023,7 +29273,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30032,7 +29282,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30041,7 +29291,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30050,7 +29300,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30059,7 +29309,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30075,7 +29325,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30084,7 +29334,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30100,7 +29350,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30109,7 +29359,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30125,7 +29375,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30134,7 +29384,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30150,7 +29400,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30159,7 +29409,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30168,7 +29418,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30177,7 +29427,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30186,7 +29436,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30195,7 +29445,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30204,7 +29454,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30213,7 +29463,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30222,7 +29472,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30231,7 +29481,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30240,7 +29490,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30249,7 +29499,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30258,7 +29508,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30267,7 +29517,7 @@ graph [
     target 719
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30276,7 +29526,7 @@ graph [
     target 728
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30285,7 +29535,7 @@ graph [
     target 233
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30294,7 +29544,7 @@ graph [
     target 231
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30310,7 +29560,7 @@ graph [
     target 766
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30319,7 +29569,7 @@ graph [
     target 713
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30328,7 +29578,7 @@ graph [
     target 846
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30454,7 +29704,7 @@ graph [
     target 839
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30463,7 +29713,7 @@ graph [
     target 840
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30472,7 +29722,7 @@ graph [
     target 841
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30481,7 +29731,7 @@ graph [
     target 842
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30490,7 +29740,7 @@ graph [
     target 843
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30499,7 +29749,7 @@ graph [
     target 844
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30508,7 +29758,7 @@ graph [
     target 832
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30517,7 +29767,7 @@ graph [
     target 833
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30526,7 +29776,7 @@ graph [
     target 834
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30535,7 +29785,7 @@ graph [
     target 835
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30544,7 +29794,7 @@ graph [
     target 836
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30553,7 +29803,7 @@ graph [
     target 837
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30562,7 +29812,7 @@ graph [
     target 838
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30571,7 +29821,7 @@ graph [
     target 845
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -30580,7 +29830,7 @@ graph [
     target 846
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30596,7 +29846,7 @@ graph [
     target 850
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30614,7 +29864,7 @@ graph [
     target 852
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30623,7 +29873,7 @@ graph [
     target 853
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30650,7 +29900,7 @@ graph [
     target 855
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30668,7 +29918,7 @@ graph [
     target 482
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30677,7 +29927,7 @@ graph [
     target 483
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -30686,7 +29936,7 @@ graph [
     target 484
     weight "NA"
     type "catalysis"
-    subtype "NA"
+    subtype "primary"
     notes ""
     references ""
   ]
@@ -40562,7 +39812,7 @@ graph [
     source 1254
     target 1255
     weight "NA"
-    type "logical_OR"
+    type "logical"
     notes "Thioredoxin is involved in this reaction as a redox cofactor"
     subtype "NA"
   ]
@@ -40570,7 +39820,7 @@ graph [
     source 1254
     target 1256
     weight "NA"
-    type "logical_OR"
+    type "logical"
     notes "Thioredoxin is involved in this reaction as a redox cofactor"
     subtype "NA"
   ]
@@ -40596,7 +39846,7 @@ graph [
     source 1257
     target 580
     weight "NA"
-    type "logic_operator"
+    type "logical"
     notes "Glutaredoxin is involved in this reaction as a redox cofactor"
     subtype "NA"
   ]
@@ -40604,7 +39854,7 @@ graph [
     source 1257
     target 581
     weight "NA"
-    type "logic_operator"
+    type "logical"
     notes "Glutaredoxin is involved in this reaction as a redox cofactor"
     subtype "NA"
   ]
@@ -40612,7 +39862,7 @@ graph [
     source 1257
     target 579
     weight "NA"
-    type "logic_operator"
+    type "logical"
     notes "Glutaredoxin is involved in this reaction as a redox cofactor"
     subtype "NA"
   ]
@@ -40711,7 +39961,7 @@ graph [
     target 1267
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40747,7 +39997,7 @@ graph [
     target 1271
     weight 3
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40783,7 +40033,7 @@ graph [
     target 1273
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40792,7 +40042,7 @@ graph [
     target 1274
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40801,7 +40051,7 @@ graph [
     target 1275
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40846,7 +40096,7 @@ graph [
     target 1277
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40855,7 +40105,7 @@ graph [
     target 1278
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40864,7 +40114,7 @@ graph [
     target 1279
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40873,7 +40123,7 @@ graph [
     target 1280
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40891,7 +40141,7 @@ graph [
     target 1282
     weight 10
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40909,7 +40159,7 @@ graph [
     target 1284
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40954,7 +40204,7 @@ graph [
     target 1288
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40963,7 +40213,7 @@ graph [
     target 1289
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -40981,7 +40231,7 @@ graph [
     target 1291
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -41008,7 +40258,7 @@ graph [
     target 1294
     weight 2
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -41017,7 +40267,7 @@ graph [
     target 1290
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -41026,7 +40276,7 @@ graph [
     target 1292
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
@@ -41035,7 +40285,7 @@ graph [
     target 1295
     weight 1
     type "subunit_composition"
-    subtype "NA"
+    subtype "requirement"
     notes ""
     references ""
   ]
