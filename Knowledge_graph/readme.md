@@ -4,5 +4,7 @@ In this folder, you can find the *i*CH360 knowledge graph, a useful tool complem
 The graph is provided in GML (.gml) and Cytoscape (.cyjs) formats, both of which can be read by various graph-handling packages. A popular example is NetworkX [1], which is the one we use to load, manipulate, and investigate the graph in the relevant example notebook.
 
 As an example, here is the biological knowledge encoded by the graph for the Pyruvate Formate Lyase (PFL) reaction, visualised with the gravis package (https://robert-haas.github.io/gravis-docs/).
-
-![Alt text](PFL_subgraph_example.png "Visualising the subgraph associated with reaction PFL")
+<figure>
+<img src="../Docs/images/knowledge_graph/knowledge_graph_pic.png" width="400"  style="display:block;margin-left:auto;margin-right:auto;">
+ <figcaption><center>Examples of some of biological entities and relationships captured in the knowledge graph<center></figcaption>
+</figure>
