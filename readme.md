@@ -1,5 +1,5 @@
 # *i*CH360: a compact model of *Escherichia Coli* core and biosynthesis metabolism
-![Alt text](Visualisation/examples/full_map_map_w_fluxes_and_labels.png "The complete map of iCH360 with overlaid a flux distribution computed for aerobic growth on glucose")
+![Alt text](Docs/images/model/full_map_map_w_fluxes_and_labels.png "The complete map of iCH360 with overlaid a flux distribution computed for aerobic growth on glucose")
 ### What is *i*CH360?
 *i*CH360 is a medium-scale, *Goldilocks* model of *Escherichia Coli* K-12 MG1655 energy and biosynthesis metabolism. Derived from the genome-scale model *i*ML1515 [1], *i*CH360 includes all pathways required for energy production and the biosynthesis of the main biomass building blocks, such as amino acids, nucleotides, and fatty acids, and accounts for more complex biomass requirements via an equivalent cost in terms of precursors. 
 
