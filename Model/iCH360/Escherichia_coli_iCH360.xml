@@ -15390,12 +15390,10 @@
           </rdf:RDF>
         </annotation>
         <listOfReactants>
-          <speciesReference species="M_co2_c" stoichiometry="1" constant="true"/>
-          <speciesReference species="M_h2o_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pep_c" stoichiometry="1" constant="true"/>
+          <speciesReference species="M_hco3_c" stoichiometry="1" constant="true"/>
         </listOfReactants>
         <listOfProducts>
-          <speciesReference species="M_h_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_oaa_c" stoichiometry="1" constant="true"/>
           <speciesReference species="M_pi_c" stoichiometry="1" constant="true"/>
         </listOfProducts>

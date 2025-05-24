@@ -14773,9 +14773,7 @@
 "id":"PPC",
 "name":"Phosphoenolpyruvate carboxylase",
 "metabolites":{
-"co2_c":-1.0,
-"h2o_c":-1.0,
-"h_c":1.0,
+"hco3_c":-1.0,
 "oaa_c":1.0,
 "pep_c":-1.0,
 "pi_c":1.0
