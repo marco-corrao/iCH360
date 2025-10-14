@@ -5,9 +5,9 @@
 
 The stoichiometric model is supported by a knowledge graph, constructed using both data from the EcoCyc database [2] and manual curation. In this graph, nodes represent biological entities (reactions, proteins, genes or compounds) and edges represent (potentially quantitative) functional relationships between them, including catalysis, protein subunit composition, protein modification, and regulatory interactions.
 
-You can find more information about the model, the supporting knowledge graph, and their applications in our pre-print:
+You can find more information about the model, the supporting knowledge graph, and their applications in the accompanying article:
 
-https://arxiv.org/abs/2406.16596
+https://doi.org/10.1371/journal.pcbi.1013564
 
 or in the [Docs](./Docs/) section of the repo.
 ### In this repo, you will find:
@@ -24,18 +24,26 @@ In addition to the main metabolic models, the repo contains the following two mo
 ### Docs and Tutorials
 You can find more information about the model, its variants, and the knowledge graph in the [Docs](./Docs/) section. In addition, the [Examples](./Examples/) sections contains a number of short metabolic modelling tutorials that can help you getting started using the model.
 ### Citing us
-If you use *i*CH360 in your work, please cite the supporting manuscript
+If you use *i*CH360 in your work, please cite the supporting article:
+
+*Corrao M, He H, Liebermeister W, Noor E, Bar-Even A (2025) A compact model of Escherichia coli core and biosynthetic metabolism. PLOS Computational Biology 21(10): e1013564. https://doi.org/10.1371/journal.pcbi.1013564*
 
 ```
-@misc{corrao2024iCH360,
-      title={A compact model of Escherichia coli core and biosynthetic metabolism}, 
-      author={Marco Corrao and Hai He and Wolfram Liebermeister and Elad Noor},
-      year={2024},
-      eprint={2406.16596},
-      archivePrefix={arXiv},
-      primaryClass={q-bio.MN}
-      url={https://arxiv.org/abs/2406.16596}, 
+
+@article{iCH360,
+    doi = {10.1371/journal.pcbi.1013564},
+    author = {Corrao, Marco AND He, Hai AND Liebermeister, Wolfram AND Noor, Elad AND Bar-Even, Arren},
+    journal = {PLOS Computational Biology},
+    publisher = {Public Library of Science},
+    title = {A compact model of Escherichia coli core and biosynthetic metabolism},
+    year = {2025},
+    month = {10},
+    volume = {21},
+    url = {https://doi.org/10.1371/journal.pcbi.1013564},
+    pages = {1-28},
 }
+
+
 ```
 ### References
 1. Monk, J. M. et al. iML1515, a knowledgebase that computes Escherichia coli traits. Nat Biotechnol 35, 904–908 (2017).
